@@ -121,16 +121,16 @@
     - [[08 Pipes/Mastercraft Legion of Honour\|Mastercraft Legion of Honour]]
 
 - Missouri Meerschaum: 
-    - [[08 Pipes/Missouri Meerschaum Corn Cob\|Missouri Meerschaum Corn Cob]]
     - [[08 Pipes/Missouri Meerschaum Cornpipe\|Missouri Meerschaum Cornpipe]]
+    - [[08 Pipes/Missouri Meerschaum Corn Cob\|Missouri Meerschaum Corn Cob]]
 
 - Mogul: 
     - [[08 Pipes/Mogul Extra\|Mogul Extra]]
 
 - Mr.Brog: 
-    - [[08 Pipes/Mr. Brog 24 1 extra\|Mr. Brog 24 1 extra]]
     - [[08 Pipes/Mr. Brog 24 Rusticated\|Mr. Brog 24 Rusticated]]
     - [[08 Pipes/Mr. Brog 24 Semi Bent\|Mr. Brog 24 Semi Bent]]
+    - [[08 Pipes/Mr. Brog 24 1 extra\|Mr. Brog 24 1 extra]]
     - [[08 Pipes/Mr. Brog 24 Wide Stem\|Mr. Brog 24 Wide Stem]]
     - [[08 Pipes/Mr. Brog 24\|Mr. Brog 24]]
     - [[08 Pipes/Mr. Brog 26\|Mr. Brog 26]]
@@ -138,8 +138,8 @@
     - [[08 Pipes/Mr. Brog 27\|Mr. Brog 27]]
     - [[08 Pipes/Mr. Brog 35 1 bad\|Mr. Brog 35 1 bad]]
     - [[08 Pipes/Mr. Brog 35 alt\|Mr. Brog 35 alt]]
-    - [[08 Pipes/Mr. Brog 47 Dark\|Mr. Brog 47 Dark]]
     - [[08 Pipes/Mr.Brog 18\|Mr.Brog 18]]
+    - [[08 Pipes/Mr. Brog 47 Dark\|Mr. Brog 47 Dark]]
     - [[08 Pipes/Mr.Brog 24 1\|Mr.Brog 24 1]]
     - [[08 Pipes/Mr.Brog 24 Green\|Mr.Brog 24 Green]]
     - [[08 Pipes/Mr.Brog 25\|Mr.Brog 25]]
@@ -148,8 +148,8 @@
     - [[08 Pipes/Mr.Brog 35\|Mr.Brog 35]]
     - [[08 Pipes/Mr.Brog 40\|Mr.Brog 40]]
     - [[08 Pipes/Mr.Brog 41 1\|Mr.Brog 41 1]]
-    - [[08 Pipes/Mr.Brog 41\|Mr.Brog 41]]
     - [[08 Pipes/Mr.Brog 45\|Mr.Brog 45]]
+    - [[08 Pipes/Mr.Brog 41\|Mr.Brog 41]]
     - [[08 Pipes/Mr.Brog 47\|Mr.Brog 47]]
     - [[08 Pipes/Mr.Brog 55\|Mr.Brog 55]]
     - [[08 Pipes/No Name Mr. Brog\|No Name Mr. Brog]]
@@ -214,9 +214,9 @@
     - [[08 Pipes/Walgraine\|Walgraine]]
 
 - Welbeck: 
-    - [[08 Pipes/Welbeck DeLuxe Handmade\|Welbeck DeLuxe Handmade]]
     - [[08 Pipes/Welbeck Deluxe\|Welbeck Deluxe]]
     - [[08 Pipes/Welbeck, Made in England\|Welbeck, Made in England]]
+    - [[08 Pipes/Welbeck DeLuxe Handmade\|Welbeck DeLuxe Handmade]]
 
 - White Star: 
     - [[08 Pipes/White Star Ancona 623\|White Star Ancona 623]]
