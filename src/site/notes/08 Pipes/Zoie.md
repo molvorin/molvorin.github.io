@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/08-pipes/zoie/","dg-note-properties":{"aliases":["7-233-2"],"video":"7","video_order":"2","brand":"Zoie","condition":"2","preference":"3","popularity":"3","ID":"7-233-2"}}
+---
+
+## Description
+
+A heavily worn English-made pipe with faint and difficult-to-read markings that may identify the maker as “Zoie” or a similar name. The pipe features traditional shaping but suffers from serious stem damage, including a hole in the mouthpiece that significantly affects its usability and restoration prospects for me. The stamping appears to include “Made in England” alongside additional partially legible markings that remain uncertain. Although the overall structure of the pipe still has potential, the damaged stem creates a major restoration challenge and lowers its practical value considerably.
+
+## Features in Videos
+
+- [[Videos/Pipe Rundowns/Pipe Rundown 07\|Pipe Rundown 07]]
+
+{ .block-language-dataview}
+
