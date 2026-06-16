@@ -10,6 +10,7 @@
     - [[08 Pipes/B&B 024\|B&B 024]]
     - [[08 Pipes/B&B 037 (2)\|B&B 037 (2)]]
     - [[08 Pipes/B&B 037\|B&B 037]]
+    - [[08 Pipes/B&B 040\|B&B 040]]
 
 - BBB: 
     - [[08 Pipes/BBB Best Make\|BBB Best Make]]
@@ -68,6 +69,7 @@
     - [[08 Pipes/Falcon\|Falcon]]
 
 - Georg Jensen: 
+    - [[08 Pipes/Georg Jensen 22\|Georg Jensen 22]]
     - [[08 Pipes/Georg Jensen Aluband 54\|Georg Jensen Aluband 54]]
     - [[08 Pipes/Georg Jensen Dania 606\|Georg Jensen Dania 606]]
     - [[08 Pipes/Georg Jensen Handmade\|Georg Jensen Handmade]]
@@ -159,6 +161,7 @@
 
 - Nørding: 
     - [[08 Pipes/Nørding 535\|Nørding 535]]
+    - [[08 Pipes/Nørding Compass\|Nørding Compass]]
     - [[08 Pipes/Nørding Radiator\|Nørding Radiator]]
 
 - Orlik: 
@@ -240,10 +243,12 @@
 - [[08 Pipes/No Name Heel\|No Name Heel]]: [[08 Pipes/No Name Heel\|No Name Heel]]
 - [[08 Pipes/No Name italian\|No Name italian]]: [[08 Pipes/No Name italian\|No Name italian]]
 - [[08 Pipes/No Name M\|No Name M]]: [[08 Pipes/No Name M\|No Name M]]
+- [[08 Pipes/No Name Monaco\|No Name Monaco]]: [[08 Pipes/No Name Monaco\|No Name Monaco]]
 - [[08 Pipes/No Name Paint\|No Name Paint]]: [[08 Pipes/No Name Paint\|No Name Paint]]
 - [[08 Pipes/No Name Pi Stem\|No Name Pi Stem]]: [[08 Pipes/No Name Pi Stem\|No Name Pi Stem]]
 - [[08 Pipes/No Name Plastic\|No Name Plastic]]: [[08 Pipes/No Name Plastic\|No Name Plastic]]
 - [[08 Pipes/No Name Ripple Grain\|No Name Ripple Grain]]: [[08 Pipes/No Name Ripple Grain\|No Name Ripple Grain]]
+- [[08 Pipes/No Name SIX Briar\|No Name SIX Briar]]: [[08 Pipes/No Name SIX Briar\|No Name SIX Briar]]
 - [[08 Pipes/No Name Squared Ropp\|No Name Squared Ropp]]: [[08 Pipes/No Name Squared Ropp\|No Name Squared Ropp]]
 - [[08 Pipes/No Name Tall Bowl\|No Name Tall Bowl]]: [[08 Pipes/No Name Tall Bowl\|No Name Tall Bowl]]
 - [[08 Pipes/No Name Underslung\|No Name Underslung]]: [[08 Pipes/No Name Underslung\|No Name Underslung]]
