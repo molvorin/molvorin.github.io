@@ -5,6 +5,7 @@
 # Pipe Collection — By Manufacturer
 
 - B&B: 
+    - [[08 Pipes/B&B 019\|B&B 019]]
     - [[08 Pipes/B&B 020\|B&B 020]]
     - [[08 Pipes/B&B 022\|B&B 022]]
     - [[08 Pipes/B&B 024\|B&B 024]]
@@ -138,8 +139,11 @@
     - [[08 Pipes/Mr. Brog 26\|Mr. Brog 26]]
     - [[08 Pipes/Mr. Brog 27 Rusticated\|Mr. Brog 27 Rusticated]]
     - [[08 Pipes/Mr. Brog 27\|Mr. Brog 27]]
+    - [[08 Pipes/Mr. Brog 33\|Mr. Brog 33]]
     - [[08 Pipes/Mr. Brog 35 1 bad\|Mr. Brog 35 1 bad]]
     - [[08 Pipes/Mr. Brog 35 alt\|Mr. Brog 35 alt]]
+    - [[08 Pipes/Mr. Brog 35\|Mr. Brog 35]]
+    - [[08 Pipes/Mr. Brog 37\|Mr. Brog 37]]
     - [[08 Pipes/Mr. Brog 47 Dark\|Mr. Brog 47 Dark]]
     - [[08 Pipes/Mr.Brog 18\|Mr.Brog 18]]
     - [[08 Pipes/Mr.Brog 24 1\|Mr.Brog 24 1]]
@@ -180,6 +184,9 @@
 - Portland: 
     - [[08 Pipes/Portland Breuer Guarantee 4\|Portland Breuer Guarantee 4]]
     - [[08 Pipes/Portland bruyere Guarantee 57\|Portland bruyere Guarantee 57]]
+
+- Prince Amhed: 
+    - [[08 Pipes/Prince Amhed 1x8\|Prince Amhed 1x8]]
 
 - Ratos: 
     - [[08 Pipes/Ratos Rock Root\|Ratos Rock Root]]

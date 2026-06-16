@@ -149,6 +149,11 @@
 | [[08 Pipes/No Name Monaco\|No Name Monaco]]                                                     | 26-924-1  |
 | [[08 Pipes/No Name SIX Briar\|No Name SIX Briar]]                                               | 26-313-4  |
 | [[08 Pipes/Nørding Compass\|Nørding Compass]]                                                   | 26-888-5  |
+| [[08 Pipes/B&B 019\|B&B 019]]                                                                   | 27-965-3  |
+| [[08 Pipes/Mr. Brog 33\|Mr. Brog 33]]                                                           | 27-886-4P |
+| [[08 Pipes/Mr. Brog 35\|Mr. Brog 35]]                                                           | 27-645-2P |
+| [[08 Pipes/Mr. Brog 37\|Mr. Brog 37]]                                                           | 27-676-1P |
+| [[08 Pipes/Prince Amhed 1x8\|Prince Amhed 1x8]]                                                 | 27-567-5  |
 
 { .block-language-dataview}
 
