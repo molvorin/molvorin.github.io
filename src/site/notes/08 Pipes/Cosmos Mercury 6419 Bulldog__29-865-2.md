@@ -5,7 +5,7 @@
 
 # Cosmos Mercury 6419 Bulldog
 
-
+![29-2done.png](/img/user/29-2done.png)
 ## Description
 
 A Cosmos Mercury bulldog with a diamond shank and saddle stem. Purchased new as one of the owner's earliest pipes, it remains a dependable and easy-smoking example of an affordable modern production pipe. Although lacking the refinement of more expensive makers, it offers good value and has proven enjoyable over years of use.

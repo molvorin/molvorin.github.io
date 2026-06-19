@@ -6,6 +6,8 @@
 # Mr. Brog 35 1 bad
 
 
+![25-1done.png](/img/user/25-1done.png)
+
 ## Description
 
 A well-used Mr. Brog 35 with a severely damaged stem that has previously been subjected to an unsuccessful repair attempt. Despite the poor condition of the mouthpiece, the bowl remains structurally sound and displays attractive staining and pleasing proportions. The pipe appears to be an excellent candidate for a replacement stem, which is readily available from the manufacturer. Once restored, it could become a practical and enjoyable smoker with the familiar characteristics that make Mr. Brog pipes popular among enthusiasts.
