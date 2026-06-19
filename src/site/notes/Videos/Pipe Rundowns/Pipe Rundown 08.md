@@ -10,11 +10,11 @@ This video examines five estate pipes from England, Denmark, and beyond, ranging
 
 ## Pipes
 
-- [[08 Pipes.before-id-rename/BBB Medina 539\|BBB Medina 539]]
-- [[08 Pipes.before-id-rename/Clubman 20\|Clubman 20]]
-- [[08 Pipes.before-id-rename/Hilston Select 416\|Hilston Select 416]]
-- [[08 Pipes.before-id-rename/Nørding 535\|Nørding 535]]
-- [[08 Pipes.before-id-rename/Orlik Deluxe 182\|Orlik Deluxe 182]]
+- [[BBB Medina 539\|BBB Medina 539]]
+- [[Clubman 20\|Clubman 20]]
+- [[Hilston Select 416\|Hilston Select 416]]
+- [[Nørding 535\|Nørding 535]]
+- [[Orlik Deluxe 182\|Orlik Deluxe 182]]
 
 
 | # | Pipe                                                                               |

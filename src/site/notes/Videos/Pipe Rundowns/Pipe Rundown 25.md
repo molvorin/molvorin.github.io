@@ -11,11 +11,11 @@ This episode continues the exploration of the Poland batch and focuses heavily o
 
 ## Pipes
 
-- [[08 Pipes.before-id-rename/Mr. Brog 35 1 bad\|Mr. Brog 35 1 bad]]
-- [[08 Pipes.before-id-rename/Mr. Brog 24 Semi Bent\|Mr. Brog 24 Semi Bent]]
-- [[08 Pipes.before-id-rename/Mr. Brog 24 1 extra\|Mr. Brog 24 1 extra]]
-- [[08 Pipes.before-id-rename/No Name Bruyere Garantie 1\|No Name Bruyere Garantie 1]]
-- [[08 Pipes.before-id-rename/Mr. Brog 24 Wide Stem\|Mr. Brog 24 Wide Stem]]
+- [[Mr. Brog 35 1 bad\|Mr. Brog 35 1 bad]]
+- [[Mr. Brog 24 Semi Bent\|Mr. Brog 24 Semi Bent]]
+- [[Mr. Brog 24 1 extra\|Mr. Brog 24 1 extra]]
+- [[No Name Bruyere Garantie 1\|No Name Bruyere Garantie 1]]
+- [[Mr. Brog 24 Wide Stem\|Mr. Brog 24 Wide Stem]]
 
 ## Pipe Details
 

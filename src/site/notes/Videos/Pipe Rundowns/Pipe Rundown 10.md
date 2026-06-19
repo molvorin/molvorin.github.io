@@ -10,12 +10,12 @@ This video examines a recently acquired batch of estate pipes that arrived by ma
 
 ## Pipes
 
-- [[08 Pipes.before-id-rename/Clifton Finest Briar\|Clifton Finest Briar]]
-- [[08 Pipes.before-id-rename/No Name French pipe\|No Name French pipe]]
-- [[08 Pipes.before-id-rename/No Name Underslung\|No Name Underslung]]
-- [[08 Pipes.before-id-rename/No Name Vest Pocket\|No Name Vest Pocket]]
-- [[08 Pipes.before-id-rename/Robin Hood France\|Robin Hood France]]
-- [[08 Pipes.before-id-rename/Savinelli Kings Cross\|Savinelli Kings Cross]]
+- [[Clifton Finest Briar\|Clifton Finest Briar]]
+- [[No Name French pipe\|No Name French pipe]]
+- [[No Name Underslung\|No Name Underslung]]
+- [[No Name Vest Pocket\|No Name Vest Pocket]]
+- [[Robin Hood France\|Robin Hood France]]
+- [[Savinelli Kings Cross\|Savinelli Kings Cross]]
 
 
 | # | Pipe                                                                                           |

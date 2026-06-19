@@ -11,10 +11,10 @@ This episode features four estate pipes ranging from a Portland Breuer Guarantee
 
 ## Pipes
 
-- [[08 Pipes.before-id-rename/Portland Breuer Guarantee 4\|Portland Breuer Guarantee 4]]
-- [[08 Pipes.before-id-rename/No Name Tall Bowl\|No Name Tall Bowl]]
-- [[08 Pipes.before-id-rename/No Name Paint\|No Name Paint]]
-- [[08 Pipes.before-id-rename/Big Ben Ranger\|Big Ben Ranger]]
+- [[Portland Breuer Guarantee 4\|Portland Breuer Guarantee 4]]
+- [[No Name Tall Bowl\|No Name Tall Bowl]]
+- [[No Name Paint\|No Name Paint]]
+- [[Big Ben Ranger\|Big Ben Ranger]]
 
 ## Pipe Details
 

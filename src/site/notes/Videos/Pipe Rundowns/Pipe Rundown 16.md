@@ -12,11 +12,11 @@ This video examines five estate pipes ranging from a well-known Danish maker to 
 
 ## Pipes
 
-- [[08 Pipes.before-id-rename/Georg Jensen Orange Extra 231\|Georg Jensen Orange Extra 231]]
-- [[08 Pipes.before-id-rename/No Name Heel\|No Name Heel]]
-- [[08 Pipes.before-id-rename/No Name Plastic\|No Name Plastic]]
-- [[08 Pipes.before-id-rename/No Name Squared Ropp\|No Name Squared Ropp]]
-- [[08 Pipes.before-id-rename/No Name VS\|No Name VS]]
+- [[Georg Jensen Orange Extra 231\|Georg Jensen Orange Extra 231]]
+- [[No Name Heel\|No Name Heel]]
+- [[No Name Plastic\|No Name Plastic]]
+- [[No Name Squared Ropp\|No Name Squared Ropp]]
+- [[No Name VS\|No Name VS]]
 
 
 | # | Pipe                                                                                                        |

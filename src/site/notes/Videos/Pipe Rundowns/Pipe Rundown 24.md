@@ -12,10 +12,10 @@ This episode focuses primarily on pipes from the Poland batch and includes sever
 ## Pipes
 
 - [[08 Pipes/Mr. Brog 47 Dark\|08 Pipes/Mr. Brog 47 Dark]]
-- [[08 Pipes.before-id-rename/Mr. Brog 24\|Mr. Brog 24]]
-- [[08 Pipes.before-id-rename/Mr. Brog 24 Rusticated\|Mr. Brog 24 Rusticated]]
-- [[08 Pipes.before-id-rename/No Name Mr. Brog\|No Name Mr. Brog]]
-- [[08 Pipes.before-id-rename/No Name Gloria\|No Name Gloria]]
+- [[Mr. Brog 24\|Mr. Brog 24]]
+- [[Mr. Brog 24 Rusticated\|Mr. Brog 24 Rusticated]]
+- [[No Name Mr. Brog\|No Name Mr. Brog]]
+- [[No Name Gloria\|No Name Gloria]]
 
 ## Pipe Details
 

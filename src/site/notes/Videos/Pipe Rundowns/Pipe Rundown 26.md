@@ -11,11 +11,11 @@ This episode features a mixture of personal smoking pipes and estate acquisition
 
 ## Pipes
 
-- [[08 Pipes.before-id-rename/No Name Monaco\|No Name Monaco]]
-- [[08 Pipes.before-id-rename/Georg Jensen 22\|Georg Jensen 22]]
-- [[08 Pipes.before-id-rename/B&B 040\|B&B 040]]
-- [[08 Pipes.before-id-rename/No Name SIX Briar\|No Name SIX Briar]]
-- [[08 Pipes.before-id-rename/Nørding Compass\|Nørding Compass]]
+- [[No Name Monaco\|No Name Monaco]]
+- [[Georg Jensen 22\|Georg Jensen 22]]
+- [[B&B 040\|B&B 040]]
+- [[No Name SIX Briar\|No Name SIX Briar]]
+- [[Nørding Compass\|Nørding Compass]]
 
 ## Pipe Details
 

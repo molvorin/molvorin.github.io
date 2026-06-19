@@ -11,11 +11,11 @@ This video examines five pipes from a larger Polish estate lot, most of which ar
 
 ## Pipes
 
-- [[08 Pipes.before-id-rename/Kriswill Golden Klipper\|Kriswill Golden Klipper]]
-- [[08 Pipes.before-id-rename/Mr.Brog 24 1\|Mr.Brog 24 1]]
-- [[08 Pipes.before-id-rename/Mr.Brog 25\|Mr.Brog 25]]
-- [[08 Pipes.before-id-rename/Mr.Brog 31\|Mr.Brog 31]]
-- [[08 Pipes.before-id-rename/Mr.Brog 55\|Mr.Brog 55]]
+- [[Kriswill Golden Klipper\|Kriswill Golden Klipper]]
+- [[Mr.Brog 24 1\|Mr.Brog 24 1]]
+- [[Mr.Brog 25\|Mr.Brog 25]]
+- [[Mr.Brog 31\|Mr.Brog 31]]
+- [[Mr.Brog 55\|Mr.Brog 55]]
 
 
 | # | Pipe                                                                                               |

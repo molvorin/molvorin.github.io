@@ -11,11 +11,11 @@ This episode presents a varied group of pipes including a Missouri Meerschaum co
 
 ## Pipes
 
-- [[08 Pipes.before-id-rename/Missouri Meerschaum Corn Cob\|Missouri Meerschaum Corn Cob]]
-- [[08 Pipes.before-id-rename/Comoy Guildhall 64\|Comoy Guildhall 64]]
-- [[08 Pipes.before-id-rename/Mogul Extra\|Mogul Extra]]
-- [[08 Pipes.before-id-rename/Stanwell Selected Briar 90\|Stanwell Selected Briar 90]]
-- [[08 Pipes.before-id-rename/Dollar Sweden\|Dollar Sweden]]
+- [[Missouri Meerschaum Corn Cob\|Missouri Meerschaum Corn Cob]]
+- [[Comoy Guildhall 64\|Comoy Guildhall 64]]
+- [[Mogul Extra\|Mogul Extra]]
+- [[Stanwell Selected Briar 90\|Stanwell Selected Briar 90]]
+- [[Dollar Sweden\|Dollar Sweden]]
 
 | # | Pipe                                                                                                      |
 | - | --------------------------------------------------------------------------------------------------------- |

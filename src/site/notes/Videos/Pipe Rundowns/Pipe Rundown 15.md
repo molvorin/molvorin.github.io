@@ -11,11 +11,11 @@ This video examines five estate pipes from a mixed lot, ranging from unidentifie
 
 ## Pipes
 
-- [[08 Pipes.before-id-rename/Comoy Guildhall\|Comoy Guildhall]]
-- [[08 Pipes.before-id-rename/Georg Jensen Handmade\|Georg Jensen Handmade]]
-- [[08 Pipes.before-id-rename/Lorenzo Erika\|Lorenzo Erika]]
-- [[08 Pipes.before-id-rename/No Name M\|No Name M]]
-- [[08 Pipes.before-id-rename/No Name italian\|No Name italian]]
+- [[Comoy Guildhall\|Comoy Guildhall]]
+- [[Georg Jensen Handmade\|Georg Jensen Handmade]]
+- [[Lorenzo Erika\|Lorenzo Erika]]
+- [[No Name M\|No Name M]]
+- [[No Name italian\|No Name italian]]
 
 
 | # | Pipe                                                                                        |

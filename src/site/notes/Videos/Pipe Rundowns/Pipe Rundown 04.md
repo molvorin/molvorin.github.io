@@ -11,11 +11,11 @@ Fourth episode of the pipe sorting series. Only 5 pipes this time. I've decided 
 
 ## Pipes
 
-- [[08 Pipes.before-id-rename/Mr.Brog 35 chew\|Mr.Brog 35 chew]]
-- [[08 Pipes.before-id-rename/Mr.Brog 40\|Mr.Brog 40]]
-- [[08 Pipes.before-id-rename/Mr.Brog 41\|Mr.Brog 41]]
-- [[08 Pipes.before-id-rename/Mr.Brog 47 cracked\|Mr.Brog 47 cracked]]
-- [[08 Pipes.before-id-rename/Noname 2\|Noname 2]]
+- [[Mr.Brog 35 chew\|Mr.Brog 35 chew]]
+- [[Mr.Brog 40\|Mr.Brog 40]]
+- [[Mr.Brog 41\|Mr.Brog 41]]
+- [[Mr.Brog 47 cracked\|Mr.Brog 47 cracked]]
+- [[Noname 2\|Noname 2]]
 
 
 | # | Pipe                                                                                  |

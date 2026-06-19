@@ -11,11 +11,11 @@ This episode focuses on pipes from the Poland batch and includes three Mr. Brog 
 
 ## Pipes
 
-- [[08 Pipes.before-id-rename/Mr. Brog 27\|Mr. Brog 27]]
-- [[08 Pipes.before-id-rename/Mr. Brog 35 alt\|Mr. Brog 35 alt]]
-- [[08 Pipes.before-id-rename/B&B 022\|B&B 022]]
-- [[08 Pipes.before-id-rename/Mr. Brog 27 Rusticated\|Mr. Brog 27 Rusticated]]
-- [[08 Pipes.before-id-rename/Mr. Brog 26\|Mr. Brog 26]]
+- [[Mr. Brog 27\|Mr. Brog 27]]
+- [[Mr. Brog 35 alt\|Mr. Brog 35 alt]]
+- [[B&B 022\|B&B 022]]
+- [[Mr. Brog 27 Rusticated\|Mr. Brog 27 Rusticated]]
+- [[Mr. Brog 26\|Mr. Brog 26]]
 
 | # | Pipe                                                                                             |
 | - | ------------------------------------------------------------------------------------------------ |

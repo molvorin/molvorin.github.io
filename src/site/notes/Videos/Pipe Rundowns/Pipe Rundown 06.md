@@ -10,11 +10,11 @@ This video explores five estate pipes from a larger mixed lot, focusing on condi
 
 ## Pipes
 
-- [[08 Pipes.before-id-rename/B&B 024\|B&B 024]]
-- [[08 Pipes.before-id-rename/Mr.Brog 24 Green\|Mr.Brog 24 Green]]
+- [[B&B 024\|B&B 024]]
+- [[Mr.Brog 24 Green\|Mr.Brog 24 Green]]
 - [[08 Pipes/Mr.Brog 35 1\|08 Pipes/Mr.Brog 35 1]]
-- [[08 Pipes.before-id-rename/Mr.Brog 41 1\|Mr.Brog 41 1]]
-- [[08 Pipes.before-id-rename/Mr.Brog 45\|Mr.Brog 45]]
+- [[Mr.Brog 41 1\|Mr.Brog 41 1]]
+- [[Mr.Brog 45\|Mr.Brog 45]]
 
 
 | # | Pipe                                                                              |

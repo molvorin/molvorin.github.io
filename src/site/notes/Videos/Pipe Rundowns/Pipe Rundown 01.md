@@ -10,16 +10,16 @@ A introductory episode from a new pipe restoration channel. I am based in Denmar
 
 ## Pipes
 
-- [[08 Pipes.before-id-rename/BBB Bulldog Guardsman\|BBB Bulldog Guardsman]]
-- [[08 Pipes.before-id-rename/BBB Christmas 1970 Special make\|BBB Christmas 1970 Special make]]
-- [[08 Pipes.before-id-rename/Depi Deluxe 22\|Depi Deluxe 22]]
-- [[08 Pipes.before-id-rename/Depi Flamegrain 106\|Depi Flamegrain 106]]
-- [[08 Pipes.before-id-rename/Georg Jensen Aluband 54\|Georg Jensen Aluband 54]]
-- [[08 Pipes.before-id-rename/Haandarbejde\|Haandarbejde]]
-- [[08 Pipes.before-id-rename/Jeantet Preference P46\|Jeantet Preference P46]]
-- [[08 Pipes.before-id-rename/Royal Falcon 210\|Royal Falcon 210]]
-- [[08 Pipes.before-id-rename/Welbeck DeLuxe Handmade\|Welbeck DeLuxe Handmade]]
-- [[08 Pipes.before-id-rename/White Star Ancona 623\|White Star Ancona 623]]
+- [[BBB Bulldog Guardsman\|BBB Bulldog Guardsman]]
+- [[BBB Christmas 1970 Special make\|BBB Christmas 1970 Special make]]
+- [[Depi Deluxe 22\|Depi Deluxe 22]]
+- [[Depi Flamegrain 106\|Depi Flamegrain 106]]
+- [[Georg Jensen Aluband 54\|Georg Jensen Aluband 54]]
+- [[Haandarbejde\|Haandarbejde]]
+- [[Jeantet Preference P46\|Jeantet Preference P46]]
+- [[Royal Falcon 210\|Royal Falcon 210]]
+- [[Welbeck DeLuxe Handmade\|Welbeck DeLuxe Handmade]]
+- [[White Star Ancona 623\|White Star Ancona 623]]
 
 
 | Pipe                                                                                                            |

@@ -11,11 +11,11 @@ This episode covers five estate pipes including a Nørding Radiator, a BBB Crust
 
 ## Pipes
 
-- [[08 Pipes.before-id-rename/Governor Real Briar\|Governor Real Briar]]
-- [[08 Pipes.before-id-rename/Nørding Radiator\|Nørding Radiator]]
-- [[08 Pipes.before-id-rename/BBB Crusted\|BBB Crusted]]
-- [[08 Pipes.before-id-rename/No Name Ripple Grain\|No Name Ripple Grain]]
-- [[08 Pipes.before-id-rename/No Name Flat Shank\|No Name Flat Shank]]
+- [[Governor Real Briar\|Governor Real Briar]]
+- [[Nørding Radiator\|Nørding Radiator]]
+- [[BBB Crusted\|BBB Crusted]]
+- [[No Name Ripple Grain\|No Name Ripple Grain]]
+- [[No Name Flat Shank\|No Name Flat Shank]]
 
 | # | Pipe                                                                                      |
 | - | ----------------------------------------------------------------------------------------- |

@@ -11,11 +11,11 @@ This episode features a diverse selection of pipes ranging from inexpensive mode
 
 ## Pipes
 
-- [[08 Pipes.before-id-rename/Prince Amled 157\|Prince Amled 157]]
-- [[08 Pipes.before-id-rename/Cosmos Mercury 6419 Bulldog\|Cosmos Mercury 6419 Bulldog]]
-- [[08 Pipes.before-id-rename/Cosmos Mercury 6191\|Cosmos Mercury 6191]]
-- [[08 Pipes.before-id-rename/P. Holtorp Wedge\|P. Holtorp Wedge]]
-- [[08 Pipes.before-id-rename/Lorenzo Elba\|Lorenzo Elba]]
+- [[Prince Amled 157\|Prince Amled 157]]
+- [[Cosmos Mercury 6419 Bulldog\|Cosmos Mercury 6419 Bulldog]]
+- [[Cosmos Mercury 6191\|Cosmos Mercury 6191]]
+- [[P. Holtorp Wedge\|P. Holtorp Wedge]]
+- [[Lorenzo Elba\|Lorenzo Elba]]
 
 ## Pipe Details
 

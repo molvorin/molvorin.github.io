@@ -11,11 +11,11 @@ This video explores five estate pipes ranging from classic Danish briars to less
 
 ## Pipes
 
-- [[08 Pipes.before-id-rename/Bjarne handmade\|Bjarne handmade]]
-- [[08 Pipes.before-id-rename/Cosmos Neptune\|Cosmos Neptune]]
-- [[08 Pipes.before-id-rename/Mastercraft Legion of Honour\|Mastercraft Legion of Honour]]
-- [[08 Pipes.before-id-rename/Stanwell 429\|Stanwell 429]]
-- [[08 Pipes.before-id-rename/Vauen Basic 1300\|Vauen Basic 1300]]
+- [[Bjarne handmade\|Bjarne handmade]]
+- [[Cosmos Neptune\|Cosmos Neptune]]
+- [[Mastercraft Legion of Honour\|Mastercraft Legion of Honour]]
+- [[Stanwell 429\|Stanwell 429]]
+- [[Vauen Basic 1300\|Vauen Basic 1300]]
 
 
 | # | Pipe                                                                                                      |

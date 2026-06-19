@@ -12,11 +12,11 @@ This video explores five estate pipes with a wide variety of shapes, histories, 
 
 ## Pipes
 
-- [[08 Pipes.before-id-rename/BPK 6160\|BPK 6160]]
-- [[08 Pipes.before-id-rename/Graco Deluxe\|Graco Deluxe]]
-- [[08 Pipes.before-id-rename/Havanna\|Havanna]]
-- [[08 Pipes.before-id-rename/Kriswill Kisan\|Kriswill Kisan]]
-- [[08 Pipes.before-id-rename/Pipemakers 23(145)\|Pipemakers 23(145)]]
+- [[BPK 6160\|BPK 6160]]
+- [[Graco Deluxe\|Graco Deluxe]]
+- [[Havanna\|Havanna]]
+- [[Kriswill Kisan\|Kriswill Kisan]]
+- [[Pipemakers 23(145)\|Pipemakers 23(145)]]
 
 
 | # | Pipe                                                                               |
