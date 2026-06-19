@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/jeantet-preference-p-69-3-212-5-l/","dg-note-properties":{"aliases":["3-212-5L"],"brand":"Jeantet","Model":"Preference","Stamp nr":"P69","video":"3","video_order":"5","condition":"2","preference":"1","popularity":"2","ID":"3-212-5L"}}
+{"dg-publish":true,"permalink":"/08-pipes/jeantet-preference-p-69-3-212-5-l/","noteIcon":"","dg-note-properties":{"aliases":["3-212-5L"],"brand":"Jeantet","Model":"Preference","Stamp nr":"P69","video":"3","video_order":"5","condition":"2","preference":"1","popularity":"2","ID":"3-212-5L"}}
 ---
 
 

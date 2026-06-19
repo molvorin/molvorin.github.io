@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-flat-shank-20-664-5/","dg-note-properties":{"brand":null,"Model":"Flat Shank","Stamp nr":null,"video":"20","condition":"6","preference":"6","popularity":"4","video_order":"5","Batch":"","ID":"20-664-5","aliases":["20-664-5"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-flat-shank-20-664-5/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"Flat Shank","Stamp nr":null,"video":"20","condition":"6","preference":"6","popularity":"4","video_order":"5","Batch":"","ID":"20-664-5","aliases":["20-664-5"]}}
 ---
 
 

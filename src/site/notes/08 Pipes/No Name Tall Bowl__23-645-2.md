@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-tall-bowl-23-645-2/","dg-note-properties":{"brand":null,"Model":"Tall Bowl","Stamp nr":null,"video":"23","condition":"6","preference":"4","popularity":"5","video_order":"2","Batch":"","ID":"23-645-2","aliases":["23-645-2"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-tall-bowl-23-645-2/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"Tall Bowl","Stamp nr":null,"video":"23","condition":"6","preference":"4","popularity":"5","video_order":"2","Batch":"","ID":"23-645-2","aliases":["23-645-2"]}}
 ---
 
 

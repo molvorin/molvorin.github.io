@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/lorenzo-egra-filtro-812-17-756-5/","dg-note-properties":{"brand":"Lorenzo","Model":"Egra Filtro","Stamp nr":812,"video":"17","condition":"7","preference":"5","popularity":"6","video_order":"5","Batch":"","ID":"17-756-5","aliases":["17-756-5"]}}
+{"dg-publish":true,"permalink":"/08-pipes/lorenzo-egra-filtro-812-17-756-5/","noteIcon":"","dg-note-properties":{"brand":"Lorenzo","Model":"Egra Filtro","Stamp nr":812,"video":"17","condition":"7","preference":"5","popularity":"6","video_order":"5","Batch":"","ID":"17-756-5","aliases":["17-756-5"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-monaco-26-924-1/","dg-note-properties":{"brand":null,"Model":"Monaco","Stamp nr":null,"video":"26","condition":"9","preference":"2","popularity":"4","video_order":"1","Batch":"","ID":"26-924-1","aliases":["26-924-1"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-monaco-26-924-1/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"Monaco","Stamp nr":null,"video":"26","condition":"9","preference":"2","popularity":"4","video_order":"1","Batch":"","ID":"26-924-1","aliases":["26-924-1"]}}
 ---
 
 

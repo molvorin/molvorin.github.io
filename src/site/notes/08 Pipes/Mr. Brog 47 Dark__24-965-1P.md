@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-47-dark-24-965-1-p/","dg-note-properties":{"brand":"Mr.Brog","Model":47,"Stamp nr":47,"video":"24","condition":"9","preference":"6","popularity":"5","video_order":"1","Batch":"P","ID":"24-965-1P","aliases":["24-965-1P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-47-dark-24-965-1-p/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":47,"Stamp nr":47,"video":"24","condition":"9","preference":"6","popularity":"5","video_order":"1","Batch":"P","ID":"24-965-1P","aliases":["24-965-1P"]}}
 ---
 
 

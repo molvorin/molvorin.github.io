@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-35-1-6-741-5-p/","dg-note-properties":{"aliases":["6-741-5P"],"brand":"Mr.Brog","Stamp nr":"35","video":"6","video_order":"5","condition":"7","preference":"4","popularity":"1","Batch":"P","ID":"6-741-5P"}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-35-1-6-741-5-p/","noteIcon":"","dg-note-properties":{"aliases":["6-741-5P"],"brand":"Mr.Brog","Stamp nr":"35","video":"6","video_order":"5","condition":"7","preference":"4","popularity":"1","Batch":"P","ID":"6-741-5P"}}
 ---
 
 

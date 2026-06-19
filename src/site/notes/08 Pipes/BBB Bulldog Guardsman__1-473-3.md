@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/bbb-bulldog-guardsman-1-473-3/","dg-note-properties":{"aliases":["1-473-3"],"video":"1","brand":"BBB","video_order":"3","condition":"4","preference":"7","popularity":"3","ID":"1-473-3"}}
+{"dg-publish":true,"permalink":"/08-pipes/bbb-bulldog-guardsman-1-473-3/","noteIcon":"","dg-note-properties":{"aliases":["1-473-3"],"video":"1","brand":"BBB","video_order":"3","condition":"4","preference":"7","popularity":"3","ID":"1-473-3"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mastercraft-legion-of-honour-12-863-2/","dg-note-properties":{"aliases":["12-863-2"],"brand":"Mastercraft","Model":"Legion of Honour","video":"12","condition":"8","preference":"6","popularity":"3","video_order":"2","ID":"12-863-2"}}
+{"dg-publish":true,"permalink":"/08-pipes/mastercraft-legion-of-honour-12-863-2/","noteIcon":"","dg-note-properties":{"aliases":["12-863-2"],"brand":"Mastercraft","Model":"Legion of Honour","video":"12","condition":"8","preference":"6","popularity":"3","video_order":"2","ID":"12-863-2"}}
 ---
 
 

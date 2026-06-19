@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/petersons-shamrock-64-17-987-3/","dg-note-properties":{"brand":"Petersons","Model":"Shamrock","Stamp nr":64,"video":"17","condition":"9","preference":"8","popularity":"7","video_order":"3","Batch":"","ID":"17-987-3","aliases":["17-987-3"]}}
+{"dg-publish":true,"permalink":"/08-pipes/petersons-shamrock-64-17-987-3/","noteIcon":"","dg-note-properties":{"brand":"Petersons","Model":"Shamrock","Stamp nr":64,"video":"17","condition":"9","preference":"8","popularity":"7","video_order":"3","Batch":"","ID":"17-987-3","aliases":["17-987-3"]}}
 ---
 
 

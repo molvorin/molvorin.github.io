@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/ratos-rock-root-5-272-4/","dg-note-properties":{"aliases":["5-272-4"],"brand":"Ratos","Model":"Rock root","video":"5","video_order":"4","Stamp nr":"83","condition":"2","preference":"7","popularity":"2","ID":"5-272-4"}}
+{"dg-publish":true,"permalink":"/08-pipes/ratos-rock-root-5-272-4/","noteIcon":"","dg-note-properties":{"aliases":["5-272-4"],"brand":"Ratos","Model":"Rock root","video":"5","video_order":"4","Stamp nr":"83","condition":"2","preference":"7","popularity":"2","ID":"5-272-4"}}
 ---
 
 

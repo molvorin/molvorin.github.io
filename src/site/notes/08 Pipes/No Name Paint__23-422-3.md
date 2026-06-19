@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-paint-23-422-3/","dg-note-properties":{"brand":null,"Model":"Paint","Stamp nr":null,"video":"23","condition":"4","preference":"2","popularity":"2","video_order":"3","Batch":"","ID":"23-422-3","aliases":["23-422-3"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-paint-23-422-3/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"Paint","Stamp nr":null,"video":"23","condition":"4","preference":"2","popularity":"2","video_order":"3","Batch":"","ID":"23-422-3","aliases":["23-422-3"]}}
 ---
 
 

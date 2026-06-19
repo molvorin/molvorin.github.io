@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/overviews/video-overview/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/overviews/video-overview/","noteIcon":"","dg-note-properties":{}}
 ---
 
 

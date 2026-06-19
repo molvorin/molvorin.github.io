@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/lorenzo-elba-29-885-5/","dg-note-properties":{"brand":"Lorenzo","Model":"Elba","Stamp nr":null,"video":"29","condition":"8","preference":"8","popularity":"5","video_order":"5","Batch":"","ID":"29-885-5","aliases":["29-885-5"]}}
+{"dg-publish":true,"permalink":"/08-pipes/lorenzo-elba-29-885-5/","noteIcon":"","dg-note-properties":{"brand":"Lorenzo","Model":"Elba","Stamp nr":null,"video":"29","condition":"8","preference":"8","popularity":"5","video_order":"5","Batch":"","ID":"29-885-5","aliases":["29-885-5"]}}
 ---
 
 

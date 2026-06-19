@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/graco-aroma-0254-s-2-253-6-l/","dg-note-properties":{"aliases":["2-253-6L"],"brand":"Graco","Model":"Aroma","video":"2","video_order":"6","condition":"2","preference":"5","popularity":"3","Batch":"L","Stamp nr":"0254-S","ID":"2-253-6L"}}
+{"dg-publish":true,"permalink":"/08-pipes/graco-aroma-0254-s-2-253-6-l/","noteIcon":"","dg-note-properties":{"aliases":["2-253-6L"],"brand":"Graco","Model":"Aroma","video":"2","video_order":"6","condition":"2","preference":"5","popularity":"3","Batch":"L","Stamp nr":"0254-S","ID":"2-253-6L"}}
 ---
 
 

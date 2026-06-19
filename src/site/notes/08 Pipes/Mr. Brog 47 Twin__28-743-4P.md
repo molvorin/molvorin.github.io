@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-47-twin-28-743-4-p/","dg-note-properties":{"brand":"Mr.Brog","Model":47,"Stamp nr":47,"video":"28","condition":"7","preference":"4","popularity":"3","video_order":"4","Batch":"P","ID":"28-743-4P","aliases":["28-743-4P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-47-twin-28-743-4-p/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":47,"Stamp nr":47,"video":"28","condition":"7","preference":"4","popularity":"3","video_order":"4","Batch":"P","ID":"28-743-4P","aliases":["28-743-4P"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/jeantet-preference-p-88-3-793-2-l/","dg-note-properties":{"aliases":["3-793-2L"],"brand":"Jeantet","Model":"Preference","video":"3","video_order":"2","Stamp nr":"P.88","condition":"7","preference":"9","popularity":"3","Batch":"L","ID":"3-793-2L"}}
+{"dg-publish":true,"permalink":"/08-pipes/jeantet-preference-p-88-3-793-2-l/","noteIcon":"","dg-note-properties":{"aliases":["3-793-2L"],"brand":"Jeantet","Model":"Preference","video":"3","video_order":"2","Stamp nr":"P.88","condition":"7","preference":"9","popularity":"3","Batch":"L","ID":"3-793-2L"}}
 ---
 
 

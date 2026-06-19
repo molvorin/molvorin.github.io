@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/orlik-ford-19-756-3/","dg-note-properties":{"brand":"Orlik","Model":"Ford","Stamp nr":null,"video":"19","condition":"7","preference":"5","popularity":"6","video_order":"3","Batch":"","ID":"19-756-3","aliases":["19-756-3"]}}
+{"dg-publish":true,"permalink":"/08-pipes/orlik-ford-19-756-3/","noteIcon":"","dg-note-properties":{"brand":"Orlik","Model":"Ford","Stamp nr":null,"video":"19","condition":"7","preference":"5","popularity":"6","video_order":"3","Batch":"","ID":"19-756-3","aliases":["19-756-3"]}}
 ---
 
 

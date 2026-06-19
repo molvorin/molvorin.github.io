@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/white-star-genuine-leather-5-674-5/","dg-note-properties":{"aliases":["5-674-5"],"brand":"White Star","Model":"Genuine Leather","video":"5","video_order":"5","condition":"6","preference":"7","popularity":"4","Stamp nr":"623","ID":"5-674-5"}}
+{"dg-publish":true,"permalink":"/08-pipes/white-star-genuine-leather-5-674-5/","noteIcon":"","dg-note-properties":{"aliases":["5-674-5"],"brand":"White Star","Model":"Genuine Leather","video":"5","video_order":"5","condition":"6","preference":"7","popularity":"4","Stamp nr":"623","ID":"5-674-5"}}
 ---
 
 

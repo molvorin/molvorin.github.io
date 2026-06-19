@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/lorenzo-erika-15-665-5/","dg-note-properties":{"brand":"Lorenzo","Model":"Erika","Stamp nr":"8740/0","video":"15","condition":"6","preference":"6","popularity":"5","video_order":"5","Batch":"","ID":"15-665-5","aliases":["15-665-5"]}}
+{"dg-publish":true,"permalink":"/08-pipes/lorenzo-erika-15-665-5/","noteIcon":"","dg-note-properties":{"brand":"Lorenzo","Model":"Erika","Stamp nr":"8740/0","video":"15","condition":"6","preference":"6","popularity":"5","video_order":"5","Batch":"","ID":"15-665-5","aliases":["15-665-5"]}}
 ---
 
 

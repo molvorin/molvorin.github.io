@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/p-holtorp-wedge-29-888-4/","dg-note-properties":{"brand":"P. Holtorp","Model":"Wedge","Stamp nr":null,"video":"29","condition":"8","preference":"8","popularity":"8","video_order":"4","Batch":"","ID":"29-888-4","aliases":["29-888-4"]}}
+{"dg-publish":true,"permalink":"/08-pipes/p-holtorp-wedge-29-888-4/","noteIcon":"","dg-note-properties":{"brand":"P. Holtorp","Model":"Wedge","Stamp nr":null,"video":"29","condition":"8","preference":"8","popularity":"8","video_order":"4","Batch":"","ID":"29-888-4","aliases":["29-888-4"]}}
 ---
 
 
