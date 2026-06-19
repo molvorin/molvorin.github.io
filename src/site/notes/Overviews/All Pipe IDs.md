@@ -34,11 +34,11 @@
 | [[08 Pipes/Noname 1\|Noname 1]]                                                                 | 3-621-9   |
 | [[08 Pipes/Thurmann Fox\|Thurmann Fox]]                                                         | 3-723-8L  |
 | [[08 Pipes/Welbeck Deluxe\|Welbeck Deluxe]]                                                     | 3-362-6L  |
-| [[08 Pipes/Mr.Brog 35\|Mr.Brog 35]]                                                             | 4-242-5P  |
 | [[08 Pipes/Mr.Brog 40\|Mr.Brog 40]]                                                             | 4-931-2P  |
 | [[08 Pipes/Mr.Brog 41\|Mr.Brog 41]]                                                             | 4-873-3P  |
 | [[08 Pipes/Mr.Brog 47\|Mr.Brog 47]]                                                             | 4-322-4P  |
 | [[08 Pipes/Noname 2\|Noname 2]]                                                                 | 4-763-1P  |
+| [[08 Pipes/Mr.Brog 35 chew\|Mr.Brog 35 chew]]                                                   | 4-242-5P  |
 | [[08 Pipes/Falcon\|Falcon]]                                                                     | 5-812-3   |
 | [[08 Pipes/Georg Jensen Dania 606\|Georg Jensen Dania 606]]                                     | 5-322-1   |
 | [[08 Pipes/Georg Jensen\|Georg Jensen]]                                                         | 5-000-2   |
@@ -150,10 +150,20 @@
 | [[08 Pipes/No Name SIX Briar\|No Name SIX Briar]]                                               | 26-313-4  |
 | [[08 Pipes/Nørding Compass\|Nørding Compass]]                                                   | 26-888-5  |
 | [[08 Pipes/B&B 019\|B&B 019]]                                                                   | 27-965-3  |
-| [[08 Pipes/Mr. Brog 33\|Mr. Brog 33]]                                                           | 27-886-4P |
-| [[08 Pipes/Mr. Brog 35\|Mr. Brog 35]]                                                           | 27-645-2P |
-| [[08 Pipes/Mr. Brog 37\|Mr. Brog 37]]                                                           | 27-676-1P |
+| [[08 Pipes/Mr. Brog 33 burned\|Mr. Brog 33 burned]]                                             | 27-886-4P |
+| [[08 Pipes/Mr. Brog 35 line\|Mr. Brog 35 line]]                                                 | 27-645-2P |
+| [[08 Pipes/Mr. Brog 37 walled\|Mr. Brog 37 walled]]                                             | 27-676-1P |
 | [[08 Pipes/Prince Amhed 1x8\|Prince Amhed 1x8]]                                                 | 27-567-5  |
+| [[08 Pipes/Mr. Brog 27 1\|Mr. Brog 27 1]]                                                       | 28-764-1P |
+| [[08 Pipes/Mr. Brog 27 Old Style\|Mr. Brog 27 Old Style]]                                       | 28-664-2P |
+| [[08 Pipes/Mr. Brog 47 Twin\|Mr. Brog 47 Twin]]                                                 | 28-743-4P |
+| [[08 Pipes/Mr. Brog 47\|Mr. Brog 47]]                                                           | 28-543-3P |
+| [[08 Pipes/No Name Vest Pocket 1\|No Name Vest Pocket 1]]                                       | 28-963-5  |
+| [[08 Pipes/Cosmos Mercury 6191\|Cosmos Mercury 6191]]                                           | 29-865-3  |
+| [[08 Pipes/Cosmos Mercury 6419 Bulldog\|Cosmos Mercury 6419 Bulldog]]                           | 29-865-2  |
+| [[08 Pipes/Lorenzo Elba\|Lorenzo Elba]]                                                         | 29-885-5  |
+| [[08 Pipes/P. Holtorp Wedge\|P. Holtorp Wedge]]                                                 | 29-888-4  |
+| [[08 Pipes/Prince Amled 157\|Prince Amled 157]]                                                 | 29-867-1  |
 
 { .block-language-dataview}
 

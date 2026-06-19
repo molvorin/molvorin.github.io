@@ -47,6 +47,8 @@
     - [[08 Pipes/Comoy Guildhall\|Comoy Guildhall]]
 
 - Cosmos: 
+    - [[08 Pipes/Cosmos Mercury 6191\|Cosmos Mercury 6191]]
+    - [[08 Pipes/Cosmos Mercury 6419 Bulldog\|Cosmos Mercury 6419 Bulldog]]
     - [[08 Pipes/Cosmos Neptune\|Cosmos Neptune]]
 
 - Depi: 
@@ -115,6 +117,7 @@
 
 - Lorenzo: 
     - [[08 Pipes/Lorenzo Egra Filtro 812\|Lorenzo Egra Filtro 812]]
+    - [[08 Pipes/Lorenzo Elba\|Lorenzo Elba]]
     - [[08 Pipes/Lorenzo Erika\|Lorenzo Erika]]
 
 - Mandalay: 
@@ -137,21 +140,24 @@
     - [[08 Pipes/Mr. Brog 24 Wide Stem\|Mr. Brog 24 Wide Stem]]
     - [[08 Pipes/Mr. Brog 24\|Mr. Brog 24]]
     - [[08 Pipes/Mr. Brog 26\|Mr. Brog 26]]
+    - [[08 Pipes/Mr. Brog 27 1\|Mr. Brog 27 1]]
+    - [[08 Pipes/Mr. Brog 27 Old Style\|Mr. Brog 27 Old Style]]
     - [[08 Pipes/Mr. Brog 27 Rusticated\|Mr. Brog 27 Rusticated]]
     - [[08 Pipes/Mr. Brog 27\|Mr. Brog 27]]
-    - [[08 Pipes/Mr. Brog 33\|Mr. Brog 33]]
+    - [[08 Pipes/Mr. Brog 33 burned\|Mr. Brog 33 burned]]
     - [[08 Pipes/Mr. Brog 35 1 bad\|Mr. Brog 35 1 bad]]
     - [[08 Pipes/Mr. Brog 35 alt\|Mr. Brog 35 alt]]
-    - [[08 Pipes/Mr. Brog 35\|Mr. Brog 35]]
-    - [[08 Pipes/Mr. Brog 37\|Mr. Brog 37]]
+    - [[08 Pipes/Mr. Brog 35 line\|Mr. Brog 35 line]]
+    - [[08 Pipes/Mr. Brog 37 walled\|Mr. Brog 37 walled]]
     - [[08 Pipes/Mr. Brog 47 Dark\|Mr. Brog 47 Dark]]
+    - [[08 Pipes/Mr. Brog 47 Twin\|Mr. Brog 47 Twin]]
+    - [[08 Pipes/Mr. Brog 47\|Mr. Brog 47]]
     - [[08 Pipes/Mr.Brog 18\|Mr.Brog 18]]
     - [[08 Pipes/Mr.Brog 24 1\|Mr.Brog 24 1]]
     - [[08 Pipes/Mr.Brog 24 Green\|Mr.Brog 24 Green]]
     - [[08 Pipes/Mr.Brog 25\|Mr.Brog 25]]
     - [[08 Pipes/Mr.Brog 31\|Mr.Brog 31]]
     - [[08 Pipes/Mr.Brog 35 1\|Mr.Brog 35 1]]
-    - [[08 Pipes/Mr.Brog 35\|Mr.Brog 35]]
     - [[08 Pipes/Mr.Brog 40\|Mr.Brog 40]]
     - [[08 Pipes/Mr.Brog 41 1\|Mr.Brog 41 1]]
     - [[08 Pipes/Mr.Brog 41\|Mr.Brog 41]]
@@ -159,9 +165,7 @@
     - [[08 Pipes/Mr.Brog 47\|Mr.Brog 47]]
     - [[08 Pipes/Mr.Brog 55\|Mr.Brog 55]]
     - [[08 Pipes/No Name Mr. Brog\|No Name Mr. Brog]]
-
-- NoName: 
-    - [[08 Pipes/No Name Bruyere Garantie 1\|No Name Bruyere Garantie 1]]
+    - [[08 Pipes/Mr.Brog 35 chew\|Mr.Brog 35 chew]]
 
 - Nørding: 
     - [[08 Pipes/Nørding 535\|Nørding 535]]
@@ -171,6 +175,9 @@
 - Orlik: 
     - [[08 Pipes/Orlik Deluxe 182\|Orlik Deluxe 182]]
     - [[08 Pipes/Orlik Ford\|Orlik Ford]]
+
+- P. Holtorp: 
+    - [[08 Pipes/P. Holtorp Wedge\|P. Holtorp Wedge]]
 
 - Petersons: 
     - [[08 Pipes/Petersons Killarney 80s\|Petersons Killarney 80s]]
@@ -187,6 +194,9 @@
 
 - Prince Amhed: 
     - [[08 Pipes/Prince Amhed 1x8\|Prince Amhed 1x8]]
+
+- Prince Amled: 
+    - [[08 Pipes/Prince Amled 157\|Prince Amled 157]]
 
 - Ratos: 
     - [[08 Pipes/Ratos Rock Root\|Ratos Rock Root]]
@@ -242,6 +252,7 @@
 
 - [[08 Pipes/No Name\|No Name]]: [[08 Pipes/No Name\|No Name]]
 - [[08 Pipes/No Name Bruyere Garantie\|No Name Bruyere Garantie]]: [[08 Pipes/No Name Bruyere Garantie\|No Name Bruyere Garantie]]
+- [[08 Pipes/No Name Bruyere Garantie 1\|No Name Bruyere Garantie 1]]: [[08 Pipes/No Name Bruyere Garantie 1\|No Name Bruyere Garantie 1]]
 - [[08 Pipes/No Name Danish Freeform Standing\|No Name Danish Freeform Standing]]: [[08 Pipes/No Name Danish Freeform Standing\|No Name Danish Freeform Standing]]
 - [[08 Pipes/No Name Danish Freeform Wide\|No Name Danish Freeform Wide]]: [[08 Pipes/No Name Danish Freeform Wide\|No Name Danish Freeform Wide]]
 - [[08 Pipes/No Name Flat Shank\|No Name Flat Shank]]: [[08 Pipes/No Name Flat Shank\|No Name Flat Shank]]
@@ -260,6 +271,7 @@
 - [[08 Pipes/No Name Tall Bowl\|No Name Tall Bowl]]: [[08 Pipes/No Name Tall Bowl\|No Name Tall Bowl]]
 - [[08 Pipes/No Name Underslung\|No Name Underslung]]: [[08 Pipes/No Name Underslung\|No Name Underslung]]
 - [[08 Pipes/No Name Vest Pocket\|No Name Vest Pocket]]: [[08 Pipes/No Name Vest Pocket\|No Name Vest Pocket]]
+- [[08 Pipes/No Name Vest Pocket 1\|No Name Vest Pocket 1]]: [[08 Pipes/No Name Vest Pocket 1\|No Name Vest Pocket 1]]
 - [[08 Pipes/No Name VS\|No Name VS]]: [[08 Pipes/No Name VS\|No Name VS]]
 - [[08 Pipes/Noname\|Noname]]: [[08 Pipes/Noname\|Noname]]
 - [[08 Pipes/Noname 1\|Noname 1]]: [[08 Pipes/Noname 1\|Noname 1]]

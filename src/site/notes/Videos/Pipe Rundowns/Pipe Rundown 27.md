@@ -11,20 +11,20 @@ This episode focuses primarily on Polish-made estate pipes, including three exam
 
 ## Pipes
 
-- [[08 Pipes/Mr. Brog 37\|Mr. Brog 37]]
-- [[08 Pipes/Mr. Brog 35\|Mr. Brog 35]]
+- [[08 Pipes/Mr. Brog 37 walled\|Mr. Brog 37 walled]]
+- [[08 Pipes/Mr. Brog 35 line\|Mr. Brog 35 line]]
 - [[08 Pipes/B&B 019\|B&B 019]]
-- [[08 Pipes/Mr. Brog 33\|Mr. Brog 33]]
+- [[08 Pipes/Mr. Brog 33 burned\|Mr. Brog 33 burned]]
 - [[08 Pipes/Prince Amhed 1x8\|Prince Amhed 1x8]]
 
 ## Pipe Details
 
-| # | Pipe                                                          |
-| - | ------------------------------------------------------------- |
-| 1 | [[08 Pipes/Mr. Brog 37\|Mr. Brog 37 (27-676-1P)]]          |
-| 2 | [[08 Pipes/Mr. Brog 35\|Mr. Brog 35 (27-645-2P)]]          |
-| 3 | [[08 Pipes/B&B 019\|B&B 019 (27-965-3)]]                   |
-| 4 | [[08 Pipes/Mr. Brog 33\|Mr. Brog 33 (27-886-4P)]]          |
-| 5 | [[08 Pipes/Prince Amhed 1x8\|Prince Amhed 1x8 (27-567-5)]] |
+| # | Pipe                                                               |
+| - | ------------------------------------------------------------------ |
+| 1 | [[08 Pipes/Mr. Brog 37 walled\|Mr. Brog 37 walled (27-676-1P)]] |
+| 2 | [[08 Pipes/Mr. Brog 35 line\|Mr. Brog 35 line (27-645-2P)]]     |
+| 3 | [[08 Pipes/B&B 019\|B&B 019 (27-965-3)]]                        |
+| 4 | [[08 Pipes/Mr. Brog 33 burned\|Mr. Brog 33 burned (27-886-4P)]] |
+| 5 | [[08 Pipes/Prince Amhed 1x8\|Prince Amhed 1x8 (27-567-5)]]      |
 
 { .block-language-dataview}
