@@ -151,7 +151,6 @@
     - [[08 Pipes/Mr. Brog 37 walled\|Mr. Brog 37 walled]]
     - [[08 Pipes/Mr. Brog 47 Dark\|Mr. Brog 47 Dark]]
     - [[08 Pipes/Mr. Brog 47 Twin\|Mr. Brog 47 Twin]]
-    - [[08 Pipes/Mr. Brog 47\|Mr. Brog 47]]
     - [[08 Pipes/Mr.Brog 18\|Mr.Brog 18]]
     - [[08 Pipes/Mr.Brog 24 1\|Mr.Brog 24 1]]
     - [[08 Pipes/Mr.Brog 24 Green\|Mr.Brog 24 Green]]
@@ -162,10 +161,11 @@
     - [[08 Pipes/Mr.Brog 41 1\|Mr.Brog 41 1]]
     - [[08 Pipes/Mr.Brog 41\|Mr.Brog 41]]
     - [[08 Pipes/Mr.Brog 45\|Mr.Brog 45]]
-    - [[08 Pipes/Mr.Brog 47\|Mr.Brog 47]]
     - [[08 Pipes/Mr.Brog 55\|Mr.Brog 55]]
     - [[08 Pipes/No Name Mr. Brog\|No Name Mr. Brog]]
     - [[08 Pipes/Mr.Brog 35 chew\|Mr.Brog 35 chew]]
+    - [[08 Pipes/Mr. Brog 47 loose\|Mr. Brog 47 loose]]
+    - [[08 Pipes/Mr.Brog 47 cracked\|Mr.Brog 47 cracked]]
 
 - Nørding: 
     - [[08 Pipes/Nørding 535\|Nørding 535]]

@@ -36,9 +36,9 @@
 | [[08 Pipes/Welbeck Deluxe\|Welbeck Deluxe]]                                                     | 3-362-6L  |
 | [[08 Pipes/Mr.Brog 40\|Mr.Brog 40]]                                                             | 4-931-2P  |
 | [[08 Pipes/Mr.Brog 41\|Mr.Brog 41]]                                                             | 4-873-3P  |
-| [[08 Pipes/Mr.Brog 47\|Mr.Brog 47]]                                                             | 4-322-4P  |
 | [[08 Pipes/Noname 2\|Noname 2]]                                                                 | 4-763-1P  |
 | [[08 Pipes/Mr.Brog 35 chew\|Mr.Brog 35 chew]]                                                   | 4-242-5P  |
+| [[08 Pipes/Mr.Brog 47 cracked\|Mr.Brog 47 cracked]]                                             | 4-322-4P  |
 | [[08 Pipes/Falcon\|Falcon]]                                                                     | 5-812-3   |
 | [[08 Pipes/Georg Jensen Dania 606\|Georg Jensen Dania 606]]                                     | 5-322-1   |
 | [[08 Pipes/Georg Jensen\|Georg Jensen]]                                                         | 5-000-2   |
@@ -157,8 +157,8 @@
 | [[08 Pipes/Mr. Brog 27 1\|Mr. Brog 27 1]]                                                       | 28-764-1P |
 | [[08 Pipes/Mr. Brog 27 Old Style\|Mr. Brog 27 Old Style]]                                       | 28-664-2P |
 | [[08 Pipes/Mr. Brog 47 Twin\|Mr. Brog 47 Twin]]                                                 | 28-743-4P |
-| [[08 Pipes/Mr. Brog 47\|Mr. Brog 47]]                                                           | 28-543-3P |
 | [[08 Pipes/No Name Vest Pocket 1\|No Name Vest Pocket 1]]                                       | 28-963-5  |
+| [[08 Pipes/Mr. Brog 47 loose\|Mr. Brog 47 loose]]                                               | 28-543-3P |
 | [[08 Pipes/Cosmos Mercury 6191\|Cosmos Mercury 6191]]                                           | 29-865-3  |
 | [[08 Pipes/Cosmos Mercury 6419 Bulldog\|Cosmos Mercury 6419 Bulldog]]                           | 29-865-2  |
 | [[08 Pipes/Lorenzo Elba\|Lorenzo Elba]]                                                         | 29-885-5  |

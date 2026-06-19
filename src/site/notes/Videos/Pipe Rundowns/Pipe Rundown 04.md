@@ -14,16 +14,16 @@ Fourth episode of the pipe sorting series. Only 5 pipes this time. I've decided 
 - [[08 Pipes/Mr.Brog 35 chew\|Mr.Brog 35 chew]]
 - [[08 Pipes/Mr.Brog 40\|Mr.Brog 40]]
 - [[08 Pipes/Mr.Brog 41\|Mr.Brog 41]]
-- [[08 Pipes/Mr.Brog 47\|08 Pipes/Mr.Brog 47]]
+- [[08 Pipes/Mr.Brog 47 cracked\|Mr.Brog 47 cracked]]
 - [[08 Pipes/Noname 2\|Noname 2]]
 
 
-| # | Pipe                                                        |
-| - | ----------------------------------------------------------- |
-| 1 | [[08 Pipes/Noname 2\|Noname 2 (4-763-1P)]]               |
-| 2 | [[08 Pipes/Mr.Brog 40\|Mr.Brog 40 (4-931-2P)]]           |
-| 3 | [[08 Pipes/Mr.Brog 41\|Mr.Brog 41 (4-873-3P)]]           |
-| 4 | [[08 Pipes/Mr.Brog 47\|Mr.Brog 47 (4-322-4P)]]           |
-| 5 | [[08 Pipes/Mr.Brog 35 chew\|Mr.Brog 35 chew (4-242-5P)]] |
+| # | Pipe                                                              |
+| - | ----------------------------------------------------------------- |
+| 1 | [[08 Pipes/Noname 2\|Noname 2 (4-763-1P)]]                     |
+| 2 | [[08 Pipes/Mr.Brog 40\|Mr.Brog 40 (4-931-2P)]]                 |
+| 3 | [[08 Pipes/Mr.Brog 41\|Mr.Brog 41 (4-873-3P)]]                 |
+| 4 | [[08 Pipes/Mr.Brog 47 cracked\|Mr.Brog 47 cracked (4-322-4P)]] |
+| 5 | [[08 Pipes/Mr.Brog 35 chew\|Mr.Brog 35 chew (4-242-5P)]]       |
 
 { .block-language-dataview}
