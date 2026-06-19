@@ -10,11 +10,11 @@ This video explores five very different smoking pipes ranging from unnamed estat
 
 ## Pipes
 
-- [[Dr.Hardy\|Dr.Hardy]]
-- [[Missouri Meerschaum Cornpipe\|Missouri Meerschaum Cornpipe]]
-- [[Noname 3\|Noname 3]]
-- [[Petersons Killarney 80s\|Petersons Killarney 80s]]
-- [[Zoie\|Zoie]]
+- [[08 Pipes/Dr.Hardy__7-772-4\|Dr.Hardy__7-772-4]]
+- [[08 Pipes/Missouri Meerschaum Cornpipe__7-831-3\|Missouri Meerschaum Cornpipe__7-831-3]]
+- [[08 Pipes/Noname 3__7-744-1\|Noname 3__7-744-1]]
+- [[08 Pipes/Petersons Killarney 80s__7-292-5K\|Petersons Killarney 80s__7-292-5K]]
+- [[08 Pipes/Zoie__7-233-2\|Zoie__7-233-2]]
 
 
 | # | Pipe                                                                                                   |

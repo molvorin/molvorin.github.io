@@ -12,5 +12,6 @@ A modern Nørding Compass pipe featuring the distinctive metal stem assembly tha
 
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 26\|Pipe Rundown 26]]
 
 { .block-language-dataview}

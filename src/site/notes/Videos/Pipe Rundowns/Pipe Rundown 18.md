@@ -11,11 +11,11 @@ I examine five estate pipes ranging from heavily damaged restoration candidates 
 
 ## Pipes
 
-- [[Don Old Briar\|Don Old Briar]]
-- [[B&B 020\|B&B 020]]
-- [[No Name Bruyere Garantie\|No Name Bruyere Garantie]]
-- [[Savinelli Brupa 603\|Savinelli Brupa 603]]
-- [[Savinelli Padova 173\|Savinelli Padova 173]]
+- [[08 Pipes/Don Old Briar__18-445-1\|Don Old Briar__18-445-1]]
+- [[08 Pipes/B&B 020__18-944-2\|B&B 020__18-944-2]]
+- [[08 Pipes/No Name Bruyere Garantie__18-867-3\|No Name Bruyere Garantie__18-867-3]]
+- [[08 Pipes/Savinelli Brupa 603__18-887-4\|Savinelli Brupa 603__18-887-4]]
+- [[08 Pipes/Savinelli Padova 173__18-887-5\|Savinelli Padova 173__18-887-5]]
 
 | # | Pipe                                                                                              |
 | - | ------------------------------------------------------------------------------------------------- |

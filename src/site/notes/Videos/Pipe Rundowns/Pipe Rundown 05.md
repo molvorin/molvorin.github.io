@@ -9,11 +9,11 @@ In this fifth pipe collection video, I take you through five very different esta
 
 ## Pipes
 
-- [[Falcon\|Falcon]]
-- [[Georg Jensen\|Georg Jensen]]
-- [[Georg Jensen Dania 606\|Georg Jensen Dania 606]]
-- [[Ratos Rock Root\|Ratos Rock Root]]
-- [[White Star Genuine Leather\|White Star Genuine Leather]]
+- [[08 Pipes/Falcon__5-812-3\|Falcon__5-812-3]]
+- [[08 Pipes/Georg Jensen__5-000-2\|Georg Jensen__5-000-2]]
+- [[08 Pipes/Georg Jensen Dania 606__5-322-1\|Georg Jensen Dania 606__5-322-1]]
+- [[08 Pipes/Ratos Rock Root__5-272-4\|Ratos Rock Root__5-272-4]]
+- [[08 Pipes/White Star Genuine Leather__5-674-5\|White Star Genuine Leather__5-674-5]]
 
 
 | # | Pipe                                                                                               |

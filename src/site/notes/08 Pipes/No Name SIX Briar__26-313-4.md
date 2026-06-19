@@ -12,5 +12,6 @@ An unidentified briar pipe stamped with the number 6 and the word Briar. The pip
 
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 26\|Pipe Rundown 26]]
 
 { .block-language-dataview}

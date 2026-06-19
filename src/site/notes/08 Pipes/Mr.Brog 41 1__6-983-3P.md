@@ -11,6 +11,7 @@ A sleek and unusually shaped Mr. Brog pipe with flattened sides and an elegant, 
 
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 06\|Pipe Rundown 06]]
 
 { .block-language-dataview}
 

@@ -11,6 +11,7 @@ A small and compact Dr. Hardy pipe with a narrow tobacco chamber and lightweight
 
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 07\|Pipe Rundown 07]]
 
 { .block-language-dataview}
 

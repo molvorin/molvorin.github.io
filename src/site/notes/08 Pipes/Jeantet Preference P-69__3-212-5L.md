@@ -10,6 +10,7 @@
 A second Jeantet Preference, but in much worse shape than pipe 2. Mouthpiece heavily chewed and unevenly worn — possibly sanded down at some point. A crack runs through the bowl as well. Heavy cake and very dirty inside. A shame given the nice wood grain. May be used as an experimental pipe rather than a proper restoration.
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 03\|Pipe Rundown 03]]
 
 { .block-language-dataview}
 

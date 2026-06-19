@@ -10,6 +10,7 @@
 A tall, rusticated pipe with an even texture pattern. Stamp only reads "Old Briar" with no brand name. Mouthpiece in decent shape and surprisingly clean inside. A bit filthy on the outside. Not sure if I'd smoke it, but it looks like a decent looking pipe. No name makes it hard to value.
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 04\|Pipe Rundown 04]]
 
 { .block-language-dataview}
 

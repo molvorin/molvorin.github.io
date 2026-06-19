@@ -12,5 +12,6 @@ An older Mr. Brog 24 featuring a semi-bent shape, ABS stem, and decorative metal
 
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 25\|Pipe Rundown 25]]
 
 { .block-language-dataview}

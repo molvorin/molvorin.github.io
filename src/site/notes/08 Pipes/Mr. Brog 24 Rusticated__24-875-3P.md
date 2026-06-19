@@ -12,5 +12,6 @@ A rusticated variation of the Mr. Brog 24 featuring a contrasting finish and dis
 
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 24\|Pipe Rundown 24]]
 
 { .block-language-dataview}

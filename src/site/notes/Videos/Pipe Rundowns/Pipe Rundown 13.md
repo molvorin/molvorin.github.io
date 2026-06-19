@@ -11,11 +11,11 @@ This video reviews five estate pipes drawn primarily from a Polish acquisition, 
 
 ## Pipes
 
-- [[B&B 037\|B&B 037]]
-- [[B&B 037 (2)\|B&B 037 (2)]]
-- [[BBB Centenary 1847 - 1947\|BBB Centenary 1847 - 1947]]
-- [[HAJ Tulip (?)\|HAJ Tulip (?)]]
-- [[Mr.Brog 18\|Mr.Brog 18]]
+- [[08 Pipes/B&B 037__13-983-2P\|B&B 037__13-983-2P]]
+- [[08 Pipes/B&B 037 (2)__13-983-5P\|B&B 037 (2)__13-983-5P]]
+- [[08 Pipes/BBB Centenary 1847 - 1947__13-775-4L\|BBB Centenary 1847 - 1947__13-775-4L]]
+- [[08 Pipes/HAJ Tulip (?)__13-335-3\|HAJ Tulip (?)__13-335-3]]
+- [[08 Pipes/Mr.Brog 18__13-982-1P\|Mr.Brog 18__13-982-1P]]
 
 
 | # | Pipe                                                                                                   |

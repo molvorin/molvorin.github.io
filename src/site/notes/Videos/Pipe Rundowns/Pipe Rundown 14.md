@@ -11,11 +11,11 @@ This video examines five estate pipes ranging from anonymous basket pipes and he
 
 ## Pipes
 
-- [[Dunham\|Dunham]]
-- [[Lecor\|Lecor]]
-- [[No Name\|No Name]]
-- [[NoName 4\|NoName 4]]
-- [[Straight Grain\|Straight Grain]]
+- [[08 Pipes/Dunham__14-865-5\|Dunham__14-865-5]]
+- [[08 Pipes/Lecor__14-323-4\|Lecor__14-323-4]]
+- [[08 Pipes/No Name__14-741-2\|No Name__14-741-2]]
+- [[08 Pipes/NoName 4__14-741-3\|NoName 4__14-741-3]]
+- [[08 Pipes/Straight Grain__13-632-1\|Straight Grain__13-632-1]]
 
 
 | # | Pipe                                                                          |

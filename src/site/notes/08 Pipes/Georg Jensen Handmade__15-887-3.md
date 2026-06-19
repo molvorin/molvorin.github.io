@@ -9,5 +9,6 @@
 A Danish-made Georg Jensen pipe featuring an organic freehand-inspired shape and a distinctive natural shank section accented by a decorative ring. The pipe remains remarkably clean and requires little more than routine maintenance and polishing. The flowing lines and unconventional shaping demonstrate the Danish design philosophy often associated with Georg Jensen pipes, creating a pipe that feels both elegant and natural. Its combination of craftsmanship, condition, and visual appeal makes it one of the more desirable examples in the collection.
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 15\|Pipe Rundown 15]]
 
 { .block-language-dataview}

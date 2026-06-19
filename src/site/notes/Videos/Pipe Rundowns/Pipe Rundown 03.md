@@ -10,16 +10,16 @@ Third episode of the pipe sorting series. Another 10 pipes reviewed using the sa
 
 ## Pipes
 
-- [[Bera 15\|Bera 15]]
-- [[Charatans Make\|Charatans Make]]
-- [[Depi Flamegrain 104\|Depi Flamegrain 104]]
-- [[HAJ\|HAJ]]
-- [[Jeantet Preference P-69\|Jeantet Preference P-69]]
-- [[Jeantet Preference P.88\|Jeantet Preference P.88]]
-- [[NoName Bullhead\|NoName Bullhead]]
-- [[Noname 1\|Noname 1]]
-- [[Thurmann Fox\|Thurmann Fox]]
-- [[Welbeck Deluxe\|Welbeck Deluxe]]
+- [[08 Pipes/Bera 15__3-775-7\|Bera 15__3-775-7]]
+- [[08 Pipes/Charatans Make__3-354-3L\|Charatans Make__3-354-3L]]
+- [[08 Pipes/Depi Flamegrain 104__3-742-1L\|Depi Flamegrain 104__3-742-1L]]
+- [[08 Pipes/HAJ__3-787-10\|HAJ__3-787-10]]
+- [[08 Pipes/Jeantet Preference P-69__3-212-5L\|Jeantet Preference P-69__3-212-5L]]
+- [[08 Pipes/Jeantet Preference P.88__3-793-2L\|Jeantet Preference P.88__3-793-2L]]
+- [[08 Pipes/NoName Bullhead__3-943-4L\|NoName Bullhead__3-943-4L]]
+- [[08 Pipes/Noname 1__3-621-9\|Noname 1__3-621-9]]
+- [[08 Pipes/Thurmann Fox__3-723-8L\|Thurmann Fox__3-723-8L]]
+- [[08 Pipes/Welbeck Deluxe__3-362-6L\|Welbeck Deluxe__3-362-6L]]
 
 
 | Pipe                                                                                            |

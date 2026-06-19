@@ -12,5 +12,6 @@ An unusual pipe stamped only with a Bruyere Garantie marking and featuring an ov
 
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 25\|Pipe Rundown 25]]
 
 { .block-language-dataview}

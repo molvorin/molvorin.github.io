@@ -10,6 +10,7 @@
 Another Mr. Brog from the Polish batch, this one more used than the 40. Dark, cold brown colour with no visible wood grain. Mouthpiece is slightly loose with a small gap and feels almost rubbery. Asymmetric stem with a deeper cut on the underside. Has a dirty filter inside. A shape and colour I actually quite like — could become a favourite smoker.
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 04\|Pipe Rundown 04]]
 
 { .block-language-dataview}
 

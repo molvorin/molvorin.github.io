@@ -12,5 +12,6 @@ A companion pipe to the standing freehand, sharing many of the same design eleme
 
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 17\|Pipe Rundown 17]]
 
 { .block-language-dataview}

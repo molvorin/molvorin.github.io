@@ -10,6 +10,7 @@
 A well-smoked Mr. Brog with chew marks on the mouthpiece and a gap between stem and shank. Some charring at the top. A shape I like, but it has a serious crack running across the bowl — possibly in two directions. May try to glue it anyway. Rated as-is rather than as restored, since I can't guarantee the fix will hold.
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 04\|Pipe Rundown 04]]
 
 { .block-language-dataview}
 

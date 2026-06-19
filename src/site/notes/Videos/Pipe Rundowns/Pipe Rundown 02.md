@@ -9,16 +9,16 @@ Second episode of the pipe sorting series. I go through another 10 estate pipes,
 
 ## Pipes
 
-- [[Stratford Deluxe 50\|Stratford Deluxe 50]]
-- [[Petersons Standard 313\|Petersons Standard 313]]
-- [[Mandalay\|Mandalay]]
-- [[Graco Elite 275\|Graco Elite 275]]
-- [[Kaywoodie Super Grain 5191\|Kaywoodie Super Grain 5191]]
-- [[Graco Aroma 0254-S\|Graco Aroma 0254-S]]
-- [[Noname\|Noname]]
-- [[Walgraine\|Walgraine]]
-- [[Welbeck, Made in England\|Welbeck, Made in England]]
-- [[BBB Best Make\|BBB Best Make]]
+- [[08 Pipes/Stratford Deluxe 50__2-733-1L\|Stratford Deluxe 50__2-733-1L]]
+- [[08 Pipes/Petersons Standard 313__2-677-2L\|Petersons Standard 313__2-677-2L]]
+- [[08 Pipes/Mandalay__2-873-3L\|Mandalay__2-873-3L]]
+- [[08 Pipes/Graco Elite 275__2-343-4L\|Graco Elite 275__2-343-4L]]
+- [[08 Pipes/Kaywoodie Super Grain 5191__2-884-5L\|Kaywoodie Super Grain 5191__2-884-5L]]
+- [[08 Pipes/Graco Aroma 0254-S__2-253-6L\|Graco Aroma 0254-S__2-253-6L]]
+- [[08 Pipes/Noname__2-841-7\|Noname__2-841-7]]
+- [[08 Pipes/Walgraine__2-763-8L\|Walgraine__2-763-8L]]
+- [[08 Pipes/Welbeck, Made in England__2-443-9L\|Welbeck, Made in England__2-443-9L]]
+- [[08 Pipes/BBB Best Make__2-377-10L\|BBB Best Make__2-377-10L]]
 
 | Pipe                                                                                                  |
 | ----------------------------------------------------------------------------------------------------- |

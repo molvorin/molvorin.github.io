@@ -10,6 +10,7 @@
 An unsmoked pipe from the Polish batch. Possibly cherry wood (pear wood) or another non-briar material. Only issue is a small amount of glue and some miscolouration along one line. Mouthpiece feels plasticky but not acrylic (ABS). A bit on the boring side visually, though the bowl size and depth might make it a decent smoker.
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 04\|Pipe Rundown 04]]
 
 { .block-language-dataview}
 

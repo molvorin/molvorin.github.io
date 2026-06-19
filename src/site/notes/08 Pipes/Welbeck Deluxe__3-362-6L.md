@@ -10,6 +10,7 @@
 Slim pipe with a long mouthpiece — a shape I like. The W from the stamp has been worn off, possibly from a previous restoration attempt. A surface crack near the stem that may go through the varnish but not fully into the wood. Thick cake with mold inside. Despite the issues, a pipe I like and would want to restore.
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 03\|Pipe Rundown 03]]
 
 { .block-language-dataview}
 

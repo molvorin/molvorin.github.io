@@ -9,5 +9,6 @@
 An Italian-made briar pipe stamped "Real Briar Made in Italy" without any obvious maker's mark. The pipe displays a smooth finish with a glossy varnish-like coating and a comfortable, balanced shape. While the grain is relatively modest and the stem requires cleaning and minor restoration work, the overall condition remains good. Its appealing proportions and straightforward design create an attractive everyday smoker that may benefit from refinishing to better showcase the underlying briar.
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 15\|Pipe Rundown 15]]
 
 { .block-language-dataview}

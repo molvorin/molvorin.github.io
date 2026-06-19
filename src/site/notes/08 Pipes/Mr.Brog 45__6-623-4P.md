@@ -11,6 +11,7 @@ A more rustic and somewhat mismatched Mr. Brog pipe that may have undergone repa
 
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 06\|Pipe Rundown 06]]
 
 { .block-language-dataview}
 

@@ -11,11 +11,11 @@ This episode becomes the unexpected 'video of the twins' as two Mr. Brog 27 pipe
 
 ## Pipes
 
-- [[Mr. Brog 27 1\|Mr. Brog 27 1]]
-- [[Mr. Brog 27 Old Style\|Mr. Brog 27 Old Style]]
-- [[Mr. Brog 47 loose\|Mr. Brog 47 loose]]
-- [[Mr. Brog 47 Twin\|Mr. Brog 47 Twin]]
-- [[No Name Vest Pocket 1\|No Name Vest Pocket 1]]
+- [[08 Pipes/Mr. Brog 27 1__28-764-1P\|Mr. Brog 27 1__28-764-1P]]
+- [[08 Pipes/Mr. Brog 27 Old Style__28-664-2P\|Mr. Brog 27 Old Style__28-664-2P]]
+- [[08 Pipes/Mr. Brog 47 loose__28-543-3P\|Mr. Brog 47 loose__28-543-3P]]
+- [[08 Pipes/Mr. Brog 47 Twin__28-743-4P\|Mr. Brog 47 Twin__28-743-4P]]
+- [[08 Pipes/No Name Vest Pocket 1__28-963-5\|No Name Vest Pocket 1__28-963-5]]
 
 ## Pipe Details
 

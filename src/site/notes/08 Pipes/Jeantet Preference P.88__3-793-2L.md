@@ -10,6 +10,7 @@
 A standout pipe — one of my favourites so far. Features a distinctive diamond or square cross-section on the shank, with a fin extending along the stem. Interesting organic grain. Mouthpiece needs cleaning but the bowl is in fair shape. Number may be 88, 08, or 38 — hard to read, need a loupe. Possibly French. A pipe I'd very much keep.
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 03\|Pipe Rundown 03]]
 
 { .block-language-dataview}
 

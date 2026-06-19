@@ -11,11 +11,11 @@ This episode documents five estate pipes from a variety of makers and background
 
 ## Pipes
 
-- [[Portland bruyere Guarantee 57\|Portland bruyere Guarantee 57]]
-- [[Savinelli 207\|Savinelli 207]]
-- [[Orlik Ford\|Orlik Ford]]
-- [[Savinelli Bings Favorite\|Savinelli Bings Favorite]]
-- [[No Name Pi Stem\|No Name Pi Stem]]
+- [[08 Pipes/Portland bruyere Guarantee 57__19-674-1\|Portland bruyere Guarantee 57__19-674-1]]
+- [[08 Pipes/Savinelli 207__19-767-2\|Savinelli 207__19-767-2]]
+- [[08 Pipes/Orlik Ford__19-756-3\|Orlik Ford__19-756-3]]
+- [[08 Pipes/Savinelli Bings Favorite__19-978-4\|Savinelli Bings Favorite__19-978-4]]
+- [[08 Pipes/No Name Pi Stem__19-634-5\|No Name Pi Stem__19-634-5]]
 
 | # | Pipe                                                                                                        |
 | - | ----------------------------------------------------------------------------------------------------------- |

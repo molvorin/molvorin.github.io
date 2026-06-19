@@ -10,6 +10,7 @@
 Heavy, bulky pipe with a lot of cake, lava, and significant miscolouration — very dark on one side, light on the other, possibly from sun exposure. Mouthpiece stuck tight and tasted terrible when tested. Will need freezing before disassembly. A full restoration job, but could be nice with a warmer stain.
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 03\|Pipe Rundown 03]]
 
 { .block-language-dataview}
 

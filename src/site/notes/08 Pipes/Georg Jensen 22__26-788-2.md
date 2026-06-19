@@ -12,5 +12,6 @@ A Danish-made Georg Jensen pipe with a long Canadian-style shank and elegant pro
 
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 26\|Pipe Rundown 26]]
 
 { .block-language-dataview}

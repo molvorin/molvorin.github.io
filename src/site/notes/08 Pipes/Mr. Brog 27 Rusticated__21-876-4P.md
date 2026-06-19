@@ -12,5 +12,6 @@ A variation of the Mr. Brog 27 featuring a darker finish and partial rustication
 
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 21\|Pipe Rundown 21]]
 
 { .block-language-dataview}

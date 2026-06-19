@@ -11,6 +11,7 @@ A lightly smoked or possibly unsmoked Mr. Brog pipe featuring a green-stained fi
 
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 06\|Pipe Rundown 06]]
 
 { .block-language-dataview}
 

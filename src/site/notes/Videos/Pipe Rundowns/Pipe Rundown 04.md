@@ -11,11 +11,11 @@ Fourth episode of the pipe sorting series. Only 5 pipes this time. I've decided 
 
 ## Pipes
 
-- [[Mr.Brog 35 chew\|Mr.Brog 35 chew]]
-- [[Mr.Brog 40\|Mr.Brog 40]]
-- [[Mr.Brog 41\|Mr.Brog 41]]
-- [[Mr.Brog 47 cracked\|Mr.Brog 47 cracked]]
-- [[Noname 2\|Noname 2]]
+- [[08 Pipes/Mr.Brog 35 chew__4-242-5P\|Mr.Brog 35 chew__4-242-5P]]
+- [[08 Pipes/Mr.Brog 40__4-931-2P\|Mr.Brog 40__4-931-2P]]
+- [[08 Pipes/Mr.Brog 41__4-873-3P\|Mr.Brog 41__4-873-3P]]
+- [[08 Pipes/Mr.Brog 47 cracked__4-322-4P\|Mr.Brog 47 cracked__4-322-4P]]
+- [[08 Pipes/Noname 2__4-763-1P\|Noname 2__4-763-1P]]
 
 
 | # | Pipe                                                                                  |

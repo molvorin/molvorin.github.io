@@ -10,6 +10,7 @@
 A large billiard-style Mr. Brog with a smooth body and textured front panel. Cracks running in two directions and a thinned-out wall inside the bowl — likely from being smoked too hot or from the non-briar wood burning through. The structure may be compromised. Looks great on the outside but the internal damage is a serious concern.
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 04\|Pipe Rundown 04]]
 
 { .block-language-dataview}
 

@@ -12,5 +12,6 @@ A near-unsmoked Mr. Brog 24 in excellent condition. The pipe retains its origina
 
 ## Features in Videos
 
+- [[Videos/Pipe Rundowns/Pipe Rundown 25\|Pipe Rundown 25]]
 
 { .block-language-dataview}
