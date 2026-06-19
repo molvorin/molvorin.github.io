@@ -12,19 +12,19 @@ This video explores five estate pipes with a wide variety of shapes, histories, 
 
 ## Pipes
 
-- [[08 Pipes/BPK 6160\|BPK 6160]]
-- [[08 Pipes/Graco Deluxe\|Graco Deluxe]]
-- [[08 Pipes/Havanna\|Havanna]]
-- [[08 Pipes/Kriswill Kisan\|Kriswill Kisan]]
-- [[08 Pipes/Pipemakers 23(145)\|Pipemakers 23(145)]]
+- [[08 Pipes.before-id-rename/BPK 6160\|BPK 6160]]
+- [[08 Pipes.before-id-rename/Graco Deluxe\|Graco Deluxe]]
+- [[08 Pipes.before-id-rename/Havanna\|Havanna]]
+- [[08 Pipes.before-id-rename/Kriswill Kisan\|Kriswill Kisan]]
+- [[08 Pipes.before-id-rename/Pipemakers 23(145)\|Pipemakers 23(145)]]
 
 
-| # | Pipe                                                             |
-| - | ---------------------------------------------------------------- |
-| 1 | [[08 Pipes/Kriswill Kisan\|Kriswill Kisan (9-775-1)]]         |
-| 2 | [[08 Pipes/Pipemakers 23(145)\|Pipemakers 23(145) (9-732-2)]] |
-| 3 | [[08 Pipes/Havanna\|Havanna (9-633-3)]]                       |
-| 4 | [[08 Pipes/Graco Deluxe\|Graco Deluxe (9-686-4)]]             |
-| 5 | [[08 Pipes/BPK 6160\|BPK 6160 (9-873-5)]]                     |
+| # | Pipe                                                                               |
+| - | ---------------------------------------------------------------------------------- |
+| 1 | [[08 Pipes/Kriswill Kisan__9-775-1\|Kriswill Kisan__9-775-1 (9-775-1)]]         |
+| 2 | [[08 Pipes/Pipemakers 23(145)__9-732-2\|Pipemakers 23(145)__9-732-2 (9-732-2)]] |
+| 3 | [[08 Pipes/Havanna__9-633-3\|Havanna__9-633-3 (9-633-3)]]                       |
+| 4 | [[08 Pipes/Graco Deluxe__9-686-4\|Graco Deluxe__9-686-4 (9-686-4)]]             |
+| 5 | [[08 Pipes/BPK 6160__9-873-5\|BPK 6160__9-873-5 (9-873-5)]]                     |
 
 { .block-language-dataview}

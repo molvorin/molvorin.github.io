@@ -11,20 +11,20 @@ This episode continues the exploration of the Poland batch and focuses heavily o
 
 ## Pipes
 
-- [[08 Pipes/Mr. Brog 35 1 bad\|Mr. Brog 35 1 bad]]
-- [[08 Pipes/Mr. Brog 24 Semi Bent\|Mr. Brog 24 Semi Bent]]
-- [[08 Pipes/Mr. Brog 24 1 extra\|Mr. Brog 24 1 extra]]
-- [[08 Pipes/No Name Bruyere Garantie 1\|No Name Bruyere Garantie 1]]
-- [[08 Pipes/Mr. Brog 24 Wide Stem\|Mr. Brog 24 Wide Stem]]
+- [[08 Pipes.before-id-rename/Mr. Brog 35 1 bad\|Mr. Brog 35 1 bad]]
+- [[08 Pipes.before-id-rename/Mr. Brog 24 Semi Bent\|Mr. Brog 24 Semi Bent]]
+- [[08 Pipes.before-id-rename/Mr. Brog 24 1 extra\|Mr. Brog 24 1 extra]]
+- [[08 Pipes.before-id-rename/No Name Bruyere Garantie 1\|No Name Bruyere Garantie 1]]
+- [[08 Pipes.before-id-rename/Mr. Brog 24 Wide Stem\|Mr. Brog 24 Wide Stem]]
 
 ## Pipe Details
 
-| # | Pipe                                                                              |
-| - | --------------------------------------------------------------------------------- |
-| 1 | [[08 Pipes/Mr. Brog 35 1 bad\|Mr. Brog 35 1 bad (25-763-1P)]]                  |
-| 2 | [[08 Pipes/Mr. Brog 24 Semi Bent\|Mr. Brog 24 Semi Bent (25-674-2P)]]          |
-| 3 | [[08 Pipes/Mr. Brog 24 1 extra\|Mr. Brog 24 1 extra (25-974-3P)]]              |
-| 4 | [[08 Pipes/No Name Bruyere Garantie 1\|No Name Bruyere Garantie 1 (25-926-4)]] |
-| 5 | [[08 Pipes/Mr. Brog 24 Wide Stem\|Mr. Brog 24 Wide Stem (25-876-5P)]]          |
+| # | Pipe                                                                                                  |
+| - | ----------------------------------------------------------------------------------------------------- |
+| 1 | [[08 Pipes/Mr. Brog 35 1 bad__25-763-1P\|Mr. Brog 35 1 bad__25-763-1P (25-763-1P)]]                |
+| 2 | [[08 Pipes/Mr. Brog 24 Semi Bent__25-674-2P\|Mr. Brog 24 Semi Bent__25-674-2P (25-674-2P)]]        |
+| 3 | [[08 Pipes/Mr. Brog 24 1 extra__25-974-3P\|Mr. Brog 24 1 extra__25-974-3P (25-974-3P)]]            |
+| 4 | [[08 Pipes/No Name Bruyere Garantie 1__25-926-4\|No Name Bruyere Garantie 1__25-926-4 (25-926-4)]] |
+| 5 | [[08 Pipes/Mr. Brog 24 Wide Stem__25-876-5P\|Mr. Brog 24 Wide Stem__25-876-5P (25-876-5P)]]        |
 
 { .block-language-dataview}

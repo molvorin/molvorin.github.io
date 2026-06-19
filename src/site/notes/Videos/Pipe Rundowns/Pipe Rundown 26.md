@@ -11,20 +11,20 @@ This episode features a mixture of personal smoking pipes and estate acquisition
 
 ## Pipes
 
-- [[08 Pipes/No Name Monaco\|No Name Monaco]]
-- [[08 Pipes/Georg Jensen 22\|Georg Jensen 22]]
-- [[08 Pipes/B&B 040\|B&B 040]]
-- [[08 Pipes/No Name SIX Briar\|No Name SIX Briar]]
-- [[08 Pipes/Nørding Compass\|Nørding Compass]]
+- [[08 Pipes.before-id-rename/No Name Monaco\|No Name Monaco]]
+- [[08 Pipes.before-id-rename/Georg Jensen 22\|Georg Jensen 22]]
+- [[08 Pipes.before-id-rename/B&B 040\|B&B 040]]
+- [[08 Pipes.before-id-rename/No Name SIX Briar\|No Name SIX Briar]]
+- [[08 Pipes.before-id-rename/Nørding Compass\|Nørding Compass]]
 
 ## Pipe Details
 
-| # | Pipe                                                            |
-| - | --------------------------------------------------------------- |
-| 1 | [[08 Pipes/No Name Monaco\|No Name Monaco (26-924-1)]]       |
-| 2 | [[08 Pipes/Georg Jensen 22\|Georg Jensen 22 (26-788-2)]]     |
-| 3 | [[08 Pipes/B&B 040\|B&B 040 (26-845-3)]]                     |
-| 4 | [[08 Pipes/No Name SIX Briar\|No Name SIX Briar (26-313-4)]] |
-| 5 | [[08 Pipes/Nørding Compass\|Nørding Compass (26-888-5)]]     |
+| # | Pipe                                                                                |
+| - | ----------------------------------------------------------------------------------- |
+| 1 | [[08 Pipes/No Name Monaco__26-924-1\|No Name Monaco__26-924-1 (26-924-1)]]       |
+| 2 | [[08 Pipes/Georg Jensen 22__26-788-2\|Georg Jensen 22__26-788-2 (26-788-2)]]     |
+| 3 | [[08 Pipes/B&B 040__26-845-3\|B&B 040__26-845-3 (26-845-3)]]                     |
+| 4 | [[08 Pipes/No Name SIX Briar__26-313-4\|No Name SIX Briar__26-313-4 (26-313-4)]] |
+| 5 | [[08 Pipes/Nørding Compass__26-888-5\|Nørding Compass__26-888-5 (26-888-5)]]     |
 
 { .block-language-dataview}

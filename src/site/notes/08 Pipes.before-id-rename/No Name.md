@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/08-pipes-before-id-rename/no-name/","dg-note-properties":{"brand":null,"Model":null,"Stamp nr":null,"video":"14","condition":"7","preference":"4","popularity":"1","video_order":"2","Batch":null,"ID":"14-741-2","aliases":["14-741-2"]}}
+---
+
+## Description
+
+An unbranded Real Briar billiard displaying extensive signs of use, including heavy chamber residue, stem wear, and accumulated grime. Beneath its worn appearance lies a practical and well-proportioned shape that lends itself naturally to restoration work. The pipe offers an ideal opportunity for experimenting with cleaning, refinishing, and stem repair techniques without risking a particularly valuable collectible. Its straightforward design emphasizes utility and smoking comfort over decorative presentation.
+
+## Features in Videos
+
+- [[Videos/Pipe Rundowns/Pipe Rundown 14\|Pipe Rundown 14]]
+
+{ .block-language-dataview}
+

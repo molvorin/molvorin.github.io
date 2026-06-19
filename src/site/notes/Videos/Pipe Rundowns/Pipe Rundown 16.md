@@ -12,19 +12,19 @@ This video examines five estate pipes ranging from a well-known Danish maker to 
 
 ## Pipes
 
-- [[08 Pipes/Georg Jensen Orange Extra 231\|Georg Jensen Orange Extra 231]]
-- [[08 Pipes/No Name Heel\|No Name Heel]]
-- [[08 Pipes/No Name Plastic\|No Name Plastic]]
-- [[08 Pipes/No Name Squared Ropp\|No Name Squared Ropp]]
-- [[08 Pipes/No Name VS\|No Name VS]]
+- [[08 Pipes.before-id-rename/Georg Jensen Orange Extra 231\|Georg Jensen Orange Extra 231]]
+- [[08 Pipes.before-id-rename/No Name Heel\|No Name Heel]]
+- [[08 Pipes.before-id-rename/No Name Plastic\|No Name Plastic]]
+- [[08 Pipes.before-id-rename/No Name Squared Ropp\|No Name Squared Ropp]]
+- [[08 Pipes.before-id-rename/No Name VS\|No Name VS]]
 
 
-| # | Pipe                                                                                    |
-| - | --------------------------------------------------------------------------------------- |
-| 1 | [[08 Pipes/Georg Jensen Orange Extra 231\|Georg Jensen Orange Extra 231 (16-646-1)]] |
-| 2 | [[08 Pipes/No Name Heel\|No Name Heel (16-974-2)]]                                   |
-| 3 | [[08 Pipes/No Name Squared Ropp\|No Name Squared Ropp (16-434-3)]]                   |
-| 4 | [[08 Pipes/No Name Plastic\|No Name Plastic (16-434-4)]]                             |
-| 5 | [[08 Pipes/No Name VS\|No Name VS (16-734-5)]]                                       |
+| # | Pipe                                                                                                        |
+| - | ----------------------------------------------------------------------------------------------------------- |
+| 1 | [[08 Pipes/Georg Jensen Orange Extra 231__16-646-1\|Georg Jensen Orange Extra 231__16-646-1 (16-646-1)]] |
+| 2 | [[08 Pipes/No Name Heel__16-974-2\|No Name Heel__16-974-2 (16-974-2)]]                                   |
+| 3 | [[08 Pipes/No Name Squared Ropp__16-434-3\|No Name Squared Ropp__16-434-3 (16-434-3)]]                   |
+| 4 | [[08 Pipes/No Name Plastic__16-434-4\|No Name Plastic__16-434-4 (16-434-4)]]                             |
+| 5 | [[08 Pipes/No Name VS__16-734-5\|No Name VS__16-734-5 (16-734-5)]]                                       |
 
 { .block-language-dataview}

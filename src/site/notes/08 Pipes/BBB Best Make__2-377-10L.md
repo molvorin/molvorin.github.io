@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/08-pipes/bbb-best-make-2-377-10-l/","dg-note-properties":{"aliases":["2-377-10L"],"brand":"BBB","video":"2","video_order":"10","Batch":"L","condition":"3","preference":"7","popularity":"7","ID":"2-377-10L"}}
+---
+
+
+# BBB Best Make
+
+## Description
+
+Heavily worn and very dirty — thick cake, mold, lava overflow, and significant discolouration across the bowl. Mouthpiece marked "hand cut," which is a nice detail. Short shank with a long bowl — a shape I like. BBB stands for Britain's Best Briar, one of England's oldest pipe trademarks. A tough restoration job but likely a keeper if it comes out well.
+
+## Features in Videos
+
+
+{ .block-language-dataview}
+

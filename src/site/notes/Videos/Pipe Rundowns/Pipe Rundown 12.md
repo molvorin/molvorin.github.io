@@ -11,19 +11,19 @@ This video explores five estate pipes ranging from classic Danish briars to less
 
 ## Pipes
 
-- [[08 Pipes/Bjarne handmade\|Bjarne handmade]]
-- [[08 Pipes/Cosmos Neptune\|Cosmos Neptune]]
-- [[08 Pipes/Mastercraft Legion of Honour\|Mastercraft Legion of Honour]]
-- [[08 Pipes/Stanwell 429\|Stanwell 429]]
-- [[08 Pipes/Vauen Basic 1300\|Vauen Basic 1300]]
+- [[08 Pipes.before-id-rename/Bjarne handmade\|Bjarne handmade]]
+- [[08 Pipes.before-id-rename/Cosmos Neptune\|Cosmos Neptune]]
+- [[08 Pipes.before-id-rename/Mastercraft Legion of Honour\|Mastercraft Legion of Honour]]
+- [[08 Pipes.before-id-rename/Stanwell 429\|Stanwell 429]]
+- [[08 Pipes.before-id-rename/Vauen Basic 1300\|Vauen Basic 1300]]
 
 
-| # | Pipe                                                                                  |
-| - | ------------------------------------------------------------------------------------- |
-| 1 | [[08 Pipes/Stanwell 429\|Stanwell 429 (12-835-1)]]                                 |
-| 2 | [[08 Pipes/Mastercraft Legion of Honour\|Mastercraft Legion of Honour (12-863-2)]] |
-| 3 | [[08 Pipes/Bjarne handmade\|Bjarne handmade (12-867-3)]]                           |
-| 4 | [[08 Pipes/Cosmos Neptune\|Cosmos Neptune (12-711-4)]]                             |
-| 5 | [[08 Pipes/Vauen Basic 1300\|Vauen Basic 1300 (12-742-5)]]                         |
+| # | Pipe                                                                                                      |
+| - | --------------------------------------------------------------------------------------------------------- |
+| 1 | [[08 Pipes/Stanwell 429__12-835-1\|Stanwell 429__12-835-1 (12-835-1)]]                                 |
+| 2 | [[08 Pipes/Mastercraft Legion of Honour__12-863-2\|Mastercraft Legion of Honour__12-863-2 (12-863-2)]] |
+| 3 | [[08 Pipes/Bjarne handmade__12-867-3\|Bjarne handmade__12-867-3 (12-867-3)]]                           |
+| 4 | [[08 Pipes/Cosmos Neptune__12-711-4\|Cosmos Neptune__12-711-4 (12-711-4)]]                             |
+| 5 | [[08 Pipes/Vauen Basic 1300__12-742-5\|Vauen Basic 1300__12-742-5 (12-742-5)]]                         |
 
 { .block-language-dataview}

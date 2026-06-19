@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/08-pipes-before-id-rename/pipemakers-23-145/","dg-note-properties":{"aliases":["9-732-2"],"brand":"Pipemakers","Stamp nr":"23 (145)","video":"9","video_order":"2","condition":"7","preference":"3","popularity":"2","ID":"9-732-2"}}
+---
+
+## Description
+
+A large and substantial pipe marked “Pipe Makers” with shape number 23 and a stem stamped 145. The bowl exhibits a broad, chunky profile with visible fills and surface scratches that could potentially be improved through refinishing work. Although structurally sound and relatively clean, the pipe would benefit from a thorough cleaning and careful sanding to restore a more uniform appearance. Its bold dimensions and practical design prioritize durability and smoking capacity over elegance, resulting in a pipe with a distinctly utilitarian character.
+
+## Features in Videos
+
+- [[Videos/Pipe Rundowns/Pipe Rundown 09\|Pipe Rundown 09]]
+
+{ .block-language-dataview}
+

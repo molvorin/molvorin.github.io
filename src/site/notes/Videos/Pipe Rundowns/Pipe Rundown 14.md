@@ -11,19 +11,19 @@ This video examines five estate pipes ranging from anonymous basket pipes and he
 
 ## Pipes
 
-- [[08 Pipes/Dunham\|Dunham]]
-- [[08 Pipes/Lecor\|Lecor]]
-- [[08 Pipes/No Name\|No Name]]
-- [[08 Pipes/NoName 4\|NoName 4]]
-- [[08 Pipes/Straight Grain\|Straight Grain]]
+- [[08 Pipes.before-id-rename/Dunham\|Dunham]]
+- [[08 Pipes.before-id-rename/Lecor\|Lecor]]
+- [[08 Pipes.before-id-rename/No Name\|No Name]]
+- [[08 Pipes.before-id-rename/NoName 4\|NoName 4]]
+- [[08 Pipes.before-id-rename/Straight Grain\|Straight Grain]]
 
 
-| # | Pipe                                                      |
-| - | --------------------------------------------------------- |
-| 1 | [[08 Pipes/Straight Grain\|Straight Grain (13-632-1)]] |
-| 2 | [[08 Pipes/No Name\|No Name (14-741-2)]]               |
-| 3 | [[08 Pipes/NoName 4\|NoName 4 (14-741-3)]]             |
-| 4 | [[08 Pipes/Lecor\|Lecor (14-323-4)]]                   |
-| 5 | [[08 Pipes/Dunham\|Dunham (14-865-5)]]                 |
+| # | Pipe                                                                          |
+| - | ----------------------------------------------------------------------------- |
+| 1 | [[08 Pipes/Straight Grain__13-632-1\|Straight Grain__13-632-1 (13-632-1)]] |
+| 2 | [[08 Pipes/No Name__14-741-2\|No Name__14-741-2 (14-741-2)]]               |
+| 3 | [[08 Pipes/NoName 4__14-741-3\|NoName 4__14-741-3 (14-741-3)]]             |
+| 4 | [[08 Pipes/Lecor__14-323-4\|Lecor__14-323-4 (14-323-4)]]                   |
+| 5 | [[08 Pipes/Dunham__14-865-5\|Dunham__14-865-5 (14-865-5)]]                 |
 
 { .block-language-dataview}

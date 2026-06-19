@@ -11,18 +11,18 @@ I examine five estate pipes ranging from heavily damaged restoration candidates 
 
 ## Pipes
 
-- [[08 Pipes/Don Old Briar\|Don Old Briar]]
-- [[08 Pipes/B&B 020\|B&B 020]]
-- [[08 Pipes/No Name Bruyere Garantie\|No Name Bruyere Garantie]]
-- [[08 Pipes/Savinelli Brupa 603\|Savinelli Brupa 603]]
-- [[08 Pipes/Savinelli Padova 173\|Savinelli Padova 173]]
+- [[08 Pipes.before-id-rename/Don Old Briar\|Don Old Briar]]
+- [[08 Pipes.before-id-rename/B&B 020\|B&B 020]]
+- [[08 Pipes.before-id-rename/No Name Bruyere Garantie\|No Name Bruyere Garantie]]
+- [[08 Pipes.before-id-rename/Savinelli Brupa 603\|Savinelli Brupa 603]]
+- [[08 Pipes.before-id-rename/Savinelli Padova 173\|Savinelli Padova 173]]
 
-| # | Pipe                                                                          |
-| - | ----------------------------------------------------------------------------- |
-| 1 | [[08 Pipes/Don Old Briar\|Don Old Briar (18-445-1)]]                       |
-| 2 | [[08 Pipes/B&B 020\|B&B 020 (18-944-2)]]                                   |
-| 3 | [[08 Pipes/No Name Bruyere Garantie\|No Name Bruyere Garantie (18-867-3)]] |
-| 4 | [[08 Pipes/Savinelli Brupa 603\|Savinelli Brupa 603 (18-887-4)]]           |
-| 5 | [[08 Pipes/Savinelli Padova 173\|Savinelli Padova 173 (18-887-5)]]         |
+| # | Pipe                                                                                              |
+| - | ------------------------------------------------------------------------------------------------- |
+| 1 | [[08 Pipes/Don Old Briar__18-445-1\|Don Old Briar__18-445-1 (18-445-1)]]                       |
+| 2 | [[08 Pipes/B&B 020__18-944-2\|B&B 020__18-944-2 (18-944-2)]]                                   |
+| 3 | [[08 Pipes/No Name Bruyere Garantie__18-867-3\|No Name Bruyere Garantie__18-867-3 (18-867-3)]] |
+| 4 | [[08 Pipes/Savinelli Brupa 603__18-887-4\|Savinelli Brupa 603__18-887-4 (18-887-4)]]           |
+| 5 | [[08 Pipes/Savinelli Padova 173__18-887-5\|Savinelli Padova 173__18-887-5 (18-887-5)]]         |
 
 { .block-language-dataview}

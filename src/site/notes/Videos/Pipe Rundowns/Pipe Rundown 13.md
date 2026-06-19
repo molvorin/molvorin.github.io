@@ -11,19 +11,19 @@ This video reviews five estate pipes drawn primarily from a Polish acquisition, 
 
 ## Pipes
 
-- [[08 Pipes/B&B 037\|B&B 037]]
-- [[08 Pipes/B&B 037 (2)\|B&B 037 (2)]]
-- [[08 Pipes/BBB Centenary 1847 - 1947\|BBB Centenary 1847 - 1947]]
-- [[08 Pipes/HAJ Tulip (?)\|HAJ Tulip (?)]]
-- [[08 Pipes/Mr.Brog 18\|Mr.Brog 18]]
+- [[08 Pipes.before-id-rename/B&B 037\|B&B 037]]
+- [[08 Pipes.before-id-rename/B&B 037 (2)\|B&B 037 (2)]]
+- [[08 Pipes.before-id-rename/BBB Centenary 1847 - 1947\|BBB Centenary 1847 - 1947]]
+- [[08 Pipes.before-id-rename/HAJ Tulip (?)\|HAJ Tulip (?)]]
+- [[08 Pipes.before-id-rename/Mr.Brog 18\|Mr.Brog 18]]
 
 
-| # | Pipe                                                                             |
-| - | -------------------------------------------------------------------------------- |
-| 1 | [[08 Pipes/Mr.Brog 18\|Mr.Brog 18 (13-982-1P)]]                               |
-| 2 | [[08 Pipes/B&B 037\|B&B 037 (13-983-2P)]]                                     |
-| 3 | [[08 Pipes/HAJ Tulip (?)\|HAJ Tulip (?) (13-335-3)]]                          |
-| 4 | [[08 Pipes/BBB Centenary 1847 - 1947\|BBB Centenary 1847 - 1947 (13-775-4L)]] |
-| 5 | [[08 Pipes/B&B 037 (2)\|B&B 037 (2) (13-983-5P)]]                             |
+| # | Pipe                                                                                                   |
+| - | ------------------------------------------------------------------------------------------------------ |
+| 1 | [[08 Pipes/Mr.Brog 18__13-982-1P\|Mr.Brog 18__13-982-1P (13-982-1P)]]                               |
+| 2 | [[08 Pipes/B&B 037__13-983-2P\|B&B 037__13-983-2P (13-983-2P)]]                                     |
+| 3 | [[08 Pipes/HAJ Tulip (?)__13-335-3\|HAJ Tulip (?)__13-335-3 (13-335-3)]]                            |
+| 4 | [[08 Pipes/BBB Centenary 1847 - 1947__13-775-4L\|BBB Centenary 1847 - 1947__13-775-4L (13-775-4L)]] |
+| 5 | [[08 Pipes/B&B 037 (2)__13-983-5P\|B&B 037 (2)__13-983-5P (13-983-5P)]]                             |
 
 { .block-language-dataview}

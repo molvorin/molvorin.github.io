@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/08-pipes-before-id-rename/georg-jensen-aluband-54/","dg-note-properties":{"aliases":["1-886-2"],"video":"1","brand":"Georg Jensen","video_order":"2","condition":"8","preference":"8","popularity":"6","ID":"1-886-2"}}
+---
+
+## Description
+
+Danish made. Wide, squat shape — possibly a bulldog. Mouthpiece in very nice condition, though the lettering has worn. Aluminium ring intact. Needs only light cleaning. Definitely a keeper.
+
+## Features in Videos
+
+- [[Videos/Pipe Rundowns/Pipe Rundown 01\|Pipe Rundown 01]]
+
+{ .block-language-dataview}
+

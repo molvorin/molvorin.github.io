@@ -10,19 +10,19 @@ This video explores five very different smoking pipes ranging from unnamed estat
 
 ## Pipes
 
-- [[08 Pipes/Dr.Hardy\|Dr.Hardy]]
-- [[08 Pipes/Missouri Meerschaum Cornpipe\|Missouri Meerschaum Cornpipe]]
-- [[08 Pipes/Noname 3\|Noname 3]]
-- [[08 Pipes/Petersons Killarney 80s\|Petersons Killarney 80s]]
-- [[08 Pipes/Zoie\|Zoie]]
+- [[08 Pipes.before-id-rename/Dr.Hardy\|Dr.Hardy]]
+- [[08 Pipes.before-id-rename/Missouri Meerschaum Cornpipe\|Missouri Meerschaum Cornpipe]]
+- [[08 Pipes.before-id-rename/Noname 3\|Noname 3]]
+- [[08 Pipes.before-id-rename/Petersons Killarney 80s\|Petersons Killarney 80s]]
+- [[08 Pipes.before-id-rename/Zoie\|Zoie]]
 
 
-| # | Pipe                                                                                 |
-| - | ------------------------------------------------------------------------------------ |
-| 1 | [[08 Pipes/Noname 3\|Noname 3 (7-744-1)]]                                         |
-| 2 | [[08 Pipes/Zoie\|Zoie (7-233-2)]]                                                 |
-| 3 | [[08 Pipes/Missouri Meerschaum Cornpipe\|Missouri Meerschaum Cornpipe (7-831-3)]] |
-| 4 | [[08 Pipes/Dr.Hardy\|Dr.Hardy (7-772-4)]]                                         |
-| 5 | [[08 Pipes/Petersons Killarney 80s\|Petersons Killarney 80s (7-292-5K)]]          |
+| # | Pipe                                                                                                   |
+| - | ------------------------------------------------------------------------------------------------------ |
+| 1 | [[08 Pipes/Noname 3__7-744-1\|Noname 3__7-744-1 (7-744-1)]]                                         |
+| 2 | [[08 Pipes/Zoie__7-233-2\|Zoie__7-233-2 (7-233-2)]]                                                 |
+| 3 | [[08 Pipes/Missouri Meerschaum Cornpipe__7-831-3\|Missouri Meerschaum Cornpipe__7-831-3 (7-831-3)]] |
+| 4 | [[08 Pipes/Dr.Hardy__7-772-4\|Dr.Hardy__7-772-4 (7-772-4)]]                                         |
+| 5 | [[08 Pipes/Petersons Killarney 80s__7-292-5K\|Petersons Killarney 80s__7-292-5K (7-292-5K)]]        |
 
 { .block-language-dataview}

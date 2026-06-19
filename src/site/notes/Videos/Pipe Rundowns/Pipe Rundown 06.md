@@ -10,19 +10,19 @@ This video explores five estate pipes from a larger mixed lot, focusing on condi
 
 ## Pipes
 
-- [[08 Pipes/B&B 024\|B&B 024]]
-- [[08 Pipes/Mr.Brog 24 Green\|Mr.Brog 24 Green]]
+- [[08 Pipes.before-id-rename/B&B 024\|B&B 024]]
+- [[08 Pipes.before-id-rename/Mr.Brog 24 Green\|Mr.Brog 24 Green]]
 - [[08 Pipes/Mr.Brog 35 1\|08 Pipes/Mr.Brog 35 1]]
-- [[08 Pipes/Mr.Brog 41 1\|Mr.Brog 41 1]]
-- [[08 Pipes/Mr.Brog 45\|Mr.Brog 45]]
+- [[08 Pipes.before-id-rename/Mr.Brog 41 1\|Mr.Brog 41 1]]
+- [[08 Pipes.before-id-rename/Mr.Brog 45\|Mr.Brog 45]]
 
 
-| # | Pipe                                                          |
-| - | ------------------------------------------------------------- |
-| 1 | [[08 Pipes/Mr.Brog 24 Green\|Mr.Brog 24 Green (6-882-1P)]] |
-| 2 | [[08 Pipes/B&B 024\|B&B 024 (6-861-2P)]]                   |
-| 3 | [[08 Pipes/Mr.Brog 41 1\|Mr.Brog 41 1 (6-983-3P)]]         |
-| 4 | [[08 Pipes/Mr.Brog 45\|Mr.Brog 45 (6-623-4P)]]             |
-| 5 | [[08 Pipes/Mr.Brog 35 1\|Mr.Brog 35 1 (6-741-5P)]]         |
+| # | Pipe                                                                              |
+| - | --------------------------------------------------------------------------------- |
+| 1 | [[08 Pipes/Mr.Brog 24 Green__6-882-1P\|Mr.Brog 24 Green__6-882-1P (6-882-1P)]] |
+| 2 | [[08 Pipes/B&B 024__6-861-2P\|B&B 024__6-861-2P (6-861-2P)]]                   |
+| 3 | [[08 Pipes/Mr.Brog 41 1__6-983-3P\|Mr.Brog 41 1__6-983-3P (6-983-3P)]]         |
+| 4 | [[08 Pipes/Mr.Brog 45__6-623-4P\|Mr.Brog 45__6-623-4P (6-623-4P)]]             |
+| 5 | [[08 Pipes/Mr.Brog 35 1__6-741-5P\|Mr.Brog 35 1__6-741-5P (6-741-5P)]]         |
 
 { .block-language-dataview}

@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/08-pipes/jeantet-preference-p-69-3-212-5-l/","dg-note-properties":{"aliases":["3-212-5L"],"brand":"Jeantet","Model":"Preference","Stamp nr":"P69","video":"3","video_order":"5","condition":"2","preference":"1","popularity":"2","ID":"3-212-5L"}}
+---
+
+
+# Jeantet Preference P-69
+
+## Description
+
+A second Jeantet Preference, but in much worse shape than pipe 2. Mouthpiece heavily chewed and unevenly worn — possibly sanded down at some point. A crack runs through the bowl as well. Heavy cake and very dirty inside. A shame given the nice wood grain. May be used as an experimental pipe rather than a proper restoration.
+## Features in Videos
+
+
+{ .block-language-dataview}
+

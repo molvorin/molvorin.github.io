@@ -11,18 +11,18 @@ This episode presents a varied group of pipes including a Missouri Meerschaum co
 
 ## Pipes
 
-- [[08 Pipes/Missouri Meerschaum Corn Cob\|Missouri Meerschaum Corn Cob]]
-- [[08 Pipes/Comoy Guildhall 64\|Comoy Guildhall 64]]
-- [[08 Pipes/Mogul Extra\|Mogul Extra]]
-- [[08 Pipes/Stanwell Selected Briar 90\|Stanwell Selected Briar 90]]
-- [[08 Pipes/Dollar Sweden\|Dollar Sweden]]
+- [[08 Pipes.before-id-rename/Missouri Meerschaum Corn Cob\|Missouri Meerschaum Corn Cob]]
+- [[08 Pipes.before-id-rename/Comoy Guildhall 64\|Comoy Guildhall 64]]
+- [[08 Pipes.before-id-rename/Mogul Extra\|Mogul Extra]]
+- [[08 Pipes.before-id-rename/Stanwell Selected Briar 90\|Stanwell Selected Briar 90]]
+- [[08 Pipes.before-id-rename/Dollar Sweden\|Dollar Sweden]]
 
-| # | Pipe                                                                                  |
-| - | ------------------------------------------------------------------------------------- |
-| 1 | [[08 Pipes/Missouri Meerschaum Corn Cob\|Missouri Meerschaum Corn Cob (22-812-1)]] |
-| 2 | [[08 Pipes/Comoy Guildhall 64\|Comoy Guildhall 64 (22-235-2)]]                     |
-| 3 | [[08 Pipes/Mogul Extra\|Mogul Extra (22-476-3)]]                                   |
-| 4 | [[08 Pipes/Stanwell Selected Briar 90\|Stanwell Selected Briar 90 (22-765-4)]]     |
-| 5 | [[08 Pipes/Dollar Sweden\|Dollar Sweden (22-524-5)]]                               |
+| # | Pipe                                                                                                      |
+| - | --------------------------------------------------------------------------------------------------------- |
+| 1 | [[08 Pipes/Missouri Meerschaum Corn Cob__22-812-1\|Missouri Meerschaum Corn Cob__22-812-1 (22-812-1)]] |
+| 2 | [[08 Pipes/Comoy Guildhall 64__22-235-2\|Comoy Guildhall 64__22-235-2 (22-235-2)]]                     |
+| 3 | [[08 Pipes/Mogul Extra__22-476-3\|Mogul Extra__22-476-3 (22-476-3)]]                                   |
+| 4 | [[08 Pipes/Stanwell Selected Briar 90__22-765-4\|Stanwell Selected Briar 90__22-765-4 (22-765-4)]]     |
+| 5 | [[08 Pipes/Dollar Sweden__22-524-5\|Dollar Sweden__22-524-5 (22-524-5)]]                               |
 
 { .block-language-dataview}

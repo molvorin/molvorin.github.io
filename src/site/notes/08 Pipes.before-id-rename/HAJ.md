@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/08-pipes-before-id-rename/haj/","dg-note-properties":{"aliases":["3-787-10"],"brand":"HAJ","video":"3","video_order":"10","condition":"7","preference":"8","popularity":"7","ID":"3-787-10"}}
+---
+
+## Description
+
+---
+
+A freehand Danish handmade pipe stamped HAJ — likely Hans Åge Andersen. One of my earlier acquisitions and a personal favourite. Asymmetric and slightly angled, characteristic of freehand pipes. Can't stand on its own. Mouthpiece needs polishing but otherwise in good condition. A pipe I'll be careful with and won't do much beyond a light polish.
+## Features in Videos
+
+- [[Videos/Pipe Rundowns/Pipe Rundown 03\|Pipe Rundown 03]]
+
+{ .block-language-dataview}
+

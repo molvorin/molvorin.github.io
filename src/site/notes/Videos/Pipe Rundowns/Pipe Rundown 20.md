@@ -11,18 +11,18 @@ This episode covers five estate pipes including a Nørding Radiator, a BBB Crust
 
 ## Pipes
 
-- [[08 Pipes/Governor Real Briar\|Governor Real Briar]]
-- [[08 Pipes/Nørding Radiator\|Nørding Radiator]]
-- [[08 Pipes/BBB Crusted\|BBB Crusted]]
-- [[08 Pipes/No Name Ripple Grain\|No Name Ripple Grain]]
-- [[08 Pipes/No Name Flat Shank\|No Name Flat Shank]]
+- [[08 Pipes.before-id-rename/Governor Real Briar\|Governor Real Briar]]
+- [[08 Pipes.before-id-rename/Nørding Radiator\|Nørding Radiator]]
+- [[08 Pipes.before-id-rename/BBB Crusted\|BBB Crusted]]
+- [[08 Pipes.before-id-rename/No Name Ripple Grain\|No Name Ripple Grain]]
+- [[08 Pipes.before-id-rename/No Name Flat Shank\|No Name Flat Shank]]
 
-| # | Pipe                                                                  |
-| - | --------------------------------------------------------------------- |
-| 1 | [[08 Pipes/Governor Real Briar\|Governor Real Briar (20-576-1)]]   |
-| 2 | [[08 Pipes/Nørding Radiator\|Nørding Radiator (20-898-2)]]         |
-| 3 | [[08 Pipes/BBB Crusted\|BBB Crusted (20-475-3)]]                   |
-| 4 | [[08 Pipes/No Name Ripple Grain\|No Name Ripple Grain (20-734-4)]] |
-| 5 | [[08 Pipes/No Name Flat Shank\|No Name Flat Shank (20-664-5)]]     |
+| # | Pipe                                                                                      |
+| - | ----------------------------------------------------------------------------------------- |
+| 1 | [[08 Pipes/Governor Real Briar__20-576-1\|Governor Real Briar__20-576-1 (20-576-1)]]   |
+| 2 | [[08 Pipes/Nørding Radiator__20-898-2\|Nørding Radiator__20-898-2 (20-898-2)]]         |
+| 3 | [[08 Pipes/BBB Crusted__20-475-3\|BBB Crusted__20-475-3 (20-475-3)]]                   |
+| 4 | [[08 Pipes/No Name Ripple Grain__20-734-4\|No Name Ripple Grain__20-734-4 (20-734-4)]] |
+| 5 | [[08 Pipes/No Name Flat Shank__20-664-5\|No Name Flat Shank__20-664-5 (20-664-5)]]     |
 
 { .block-language-dataview}

@@ -11,19 +11,19 @@ This video examines five estate pipes from a mixed lot, ranging from unidentifie
 
 ## Pipes
 
-- [[08 Pipes/Comoy Guildhall\|Comoy Guildhall]]
-- [[08 Pipes/Georg Jensen Handmade\|Georg Jensen Handmade]]
-- [[08 Pipes/Lorenzo Erika\|Lorenzo Erika]]
-- [[08 Pipes/No Name M\|No Name M]]
-- [[08 Pipes/No Name italian\|No Name italian]]
+- [[08 Pipes.before-id-rename/Comoy Guildhall\|Comoy Guildhall]]
+- [[08 Pipes.before-id-rename/Georg Jensen Handmade\|Georg Jensen Handmade]]
+- [[08 Pipes.before-id-rename/Lorenzo Erika\|Lorenzo Erika]]
+- [[08 Pipes.before-id-rename/No Name M\|No Name M]]
+- [[08 Pipes.before-id-rename/No Name italian\|No Name italian]]
 
 
-| # | Pipe                                                                    |
-| - | ----------------------------------------------------------------------- |
-| 1 | [[08 Pipes/No Name M\|No Name M (15-844-1)]]                         |
-| 2 | [[08 Pipes/No Name italian\|No Name italian (15-784-2)]]             |
-| 3 | [[08 Pipes/Georg Jensen Handmade\|Georg Jensen Handmade (15-887-3)]] |
-| 4 | [[08 Pipes/Comoy Guildhall\|Comoy Guildhall (15-666-4)]]             |
-| 5 | [[08 Pipes/Lorenzo Erika\|Lorenzo Erika (15-665-5)]]                 |
+| # | Pipe                                                                                        |
+| - | ------------------------------------------------------------------------------------------- |
+| 1 | [[08 Pipes/No Name M__15-844-1\|No Name M__15-844-1 (15-844-1)]]                         |
+| 2 | [[08 Pipes/No Name italian__15-784-2\|No Name italian__15-784-2 (15-784-2)]]             |
+| 3 | [[08 Pipes/Georg Jensen Handmade__15-887-3\|Georg Jensen Handmade__15-887-3 (15-887-3)]] |
+| 4 | [[08 Pipes/Comoy Guildhall__15-666-4\|Comoy Guildhall__15-666-4 (15-666-4)]]             |
+| 5 | [[08 Pipes/Lorenzo Erika__15-665-5\|Lorenzo Erika__15-665-5 (15-665-5)]]                 |
 
 { .block-language-dataview}

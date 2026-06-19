@@ -11,18 +11,18 @@ In Pipe Rundown 17, I take a look at five estate pipes acquired from different s
 
 ## Pipes
 
-- [[08 Pipes/No Name Danish Freeform Standing\|No Name Danish Freeform Standing]]
-- [[08 Pipes/No Name Danish Freeform Wide\|No Name Danish Freeform Wide]]
-- [[08 Pipes/Petersons Shamrock 64\|Petersons Shamrock 64]]
-- [[08 Pipes/Petersons Year Pipe 2009 Limited Edition\|Petersons Year Pipe 2009 Limited Edition]]
-- [[08 Pipes/Lorenzo Egra Filtro 812\|Lorenzo Egra Filtro 812]]
+- [[08 Pipes.before-id-rename/No Name Danish Freeform Standing\|No Name Danish Freeform Standing]]
+- [[08 Pipes.before-id-rename/No Name Danish Freeform Wide\|No Name Danish Freeform Wide]]
+- [[08 Pipes.before-id-rename/Petersons Shamrock 64\|Petersons Shamrock 64]]
+- [[08 Pipes.before-id-rename/Petersons Year Pipe 2009 Limited Edition\|Petersons Year Pipe 2009 Limited Edition]]
+- [[08 Pipes.before-id-rename/Lorenzo Egra Filtro 812\|Lorenzo Egra Filtro 812]]
 
-| # | Pipe                                                                                                          |
-| - | ------------------------------------------------------------------------------------------------------------- |
-| 1 | [[08 Pipes/No Name Danish Freeform Standing\|No Name Danish Freeform Standing (17-777-1)]]                 |
-| 2 | [[08 Pipes/No Name Danish Freeform Wide\|No Name Danish Freeform Wide (17-777-2)]]                         |
-| 3 | [[08 Pipes/Petersons Shamrock 64\|Petersons Shamrock 64 (17-987-3)]]                                       |
-| 4 | [[08 Pipes/Petersons Year Pipe 2009 Limited Edition\|Petersons Year Pipe 2009 Limited Edition (17-678-4)]] |
-| 5 | [[08 Pipes/Lorenzo Egra Filtro 812\|Lorenzo Egra Filtro 812 (17-756-5)]]                                   |
+| # | Pipe                                                                                                                              |
+| - | --------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | [[08 Pipes/No Name Danish Freeform Standing__17-777-1\|No Name Danish Freeform Standing__17-777-1 (17-777-1)]]                 |
+| 2 | [[08 Pipes/No Name Danish Freeform Wide__17-777-2\|No Name Danish Freeform Wide__17-777-2 (17-777-2)]]                         |
+| 3 | [[08 Pipes/Petersons Shamrock 64__17-987-3\|Petersons Shamrock 64__17-987-3 (17-987-3)]]                                       |
+| 4 | [[08 Pipes/Petersons Year Pipe 2009 Limited Edition__17-678-4\|Petersons Year Pipe 2009 Limited Edition__17-678-4 (17-678-4)]] |
+| 5 | [[08 Pipes/Lorenzo Egra Filtro 812__17-756-5\|Lorenzo Egra Filtro 812__17-756-5 (17-756-5)]]                                   |
 
 { .block-language-dataview}

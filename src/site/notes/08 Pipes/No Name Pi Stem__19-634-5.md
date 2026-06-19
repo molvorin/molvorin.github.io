@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/08-pipes/no-name-pi-stem-19-634-5/","dg-note-properties":{"brand":null,"Model":"Pi Stem","Stamp nr":null,"video":"19","condition":"6","preference":"3","popularity":"4","video_order":"5","Batch":"","ID":"19-634-5","aliases":["19-634-5"]}}
+---
+
+
+# No Name Pi Stem
+
+
+## Description
+
+A large black pipe identified by the pi symbol on the stem. The bowl offers a generous chamber and a substantial feel in hand. Although the stem shows wear and damage, the pipe retains an interesting appearance and could benefit from a future restoration project.
+
+## Features in Videos
+
+
+{ .block-language-dataview}

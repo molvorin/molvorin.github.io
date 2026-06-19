@@ -11,20 +11,20 @@ This episode features a diverse selection of pipes ranging from inexpensive mode
 
 ## Pipes
 
-- [[08 Pipes/Prince Amled 157\|Prince Amled 157]]
-- [[08 Pipes/Cosmos Mercury 6419 Bulldog\|Cosmos Mercury 6419 Bulldog]]
-- [[08 Pipes/Cosmos Mercury 6191\|Cosmos Mercury 6191]]
-- [[08 Pipes/P. Holtorp Wedge\|P. Holtorp Wedge]]
-- [[08 Pipes/Lorenzo Elba\|Lorenzo Elba]]
+- [[08 Pipes.before-id-rename/Prince Amled 157\|Prince Amled 157]]
+- [[08 Pipes.before-id-rename/Cosmos Mercury 6419 Bulldog\|Cosmos Mercury 6419 Bulldog]]
+- [[08 Pipes.before-id-rename/Cosmos Mercury 6191\|Cosmos Mercury 6191]]
+- [[08 Pipes.before-id-rename/P. Holtorp Wedge\|P. Holtorp Wedge]]
+- [[08 Pipes.before-id-rename/Lorenzo Elba\|Lorenzo Elba]]
 
 ## Pipe Details
 
-| # | Pipe                                                                                |
-| - | ----------------------------------------------------------------------------------- |
-| 1 | [[08 Pipes/Prince Amled 157\|Prince Amled 157 (29-867-1)]]                       |
-| 2 | [[08 Pipes/Cosmos Mercury 6419 Bulldog\|Cosmos Mercury 6419 Bulldog (29-865-2)]] |
-| 3 | [[08 Pipes/Cosmos Mercury 6191\|Cosmos Mercury 6191 (29-865-3)]]                 |
-| 4 | [[08 Pipes/P. Holtorp Wedge\|P. Holtorp Wedge (29-888-4)]]                       |
-| 5 | [[08 Pipes/Lorenzo Elba\|Lorenzo Elba (29-885-5)]]                               |
+| # | Pipe                                                                                                    |
+| - | ------------------------------------------------------------------------------------------------------- |
+| 1 | [[08 Pipes/Prince Amled 157__29-867-1\|Prince Amled 157__29-867-1 (29-867-1)]]                       |
+| 2 | [[08 Pipes/Cosmos Mercury 6419 Bulldog__29-865-2\|Cosmos Mercury 6419 Bulldog__29-865-2 (29-865-2)]] |
+| 3 | [[08 Pipes/Cosmos Mercury 6191__29-865-3\|Cosmos Mercury 6191__29-865-3 (29-865-3)]]                 |
+| 4 | [[08 Pipes/P. Holtorp Wedge__29-888-4\|P. Holtorp Wedge__29-888-4 (29-888-4)]]                       |
+| 5 | [[08 Pipes/Lorenzo Elba__29-885-5\|Lorenzo Elba__29-885-5 (29-885-5)]]                               |
 
 { .block-language-dataview}

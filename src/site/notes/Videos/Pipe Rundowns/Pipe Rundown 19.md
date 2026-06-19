@@ -11,18 +11,18 @@ This episode documents five estate pipes from a variety of makers and background
 
 ## Pipes
 
-- [[08 Pipes/Portland bruyere Guarantee 57\|Portland bruyere Guarantee 57]]
-- [[08 Pipes/Savinelli 207\|Savinelli 207]]
-- [[08 Pipes/Orlik Ford\|Orlik Ford]]
-- [[08 Pipes/Savinelli Bings Favorite\|Savinelli Bings Favorite]]
-- [[08 Pipes/No Name Pi Stem\|No Name Pi Stem]]
+- [[08 Pipes.before-id-rename/Portland bruyere Guarantee 57\|Portland bruyere Guarantee 57]]
+- [[08 Pipes.before-id-rename/Savinelli 207\|Savinelli 207]]
+- [[08 Pipes.before-id-rename/Orlik Ford\|Orlik Ford]]
+- [[08 Pipes.before-id-rename/Savinelli Bings Favorite\|Savinelli Bings Favorite]]
+- [[08 Pipes.before-id-rename/No Name Pi Stem\|No Name Pi Stem]]
 
-| # | Pipe                                                                                    |
-| - | --------------------------------------------------------------------------------------- |
-| 1 | [[08 Pipes/Portland bruyere Guarantee 57\|Portland bruyere Guarantee 57 (19-674-1)]] |
-| 2 | [[08 Pipes/Savinelli 207\|Savinelli 207 (19-767-2)]]                                 |
-| 3 | [[08 Pipes/Orlik Ford\|Orlik Ford (19-756-3)]]                                       |
-| 4 | [[08 Pipes/Savinelli Bings Favorite\|Savinelli Bings Favorite (19-978-4)]]           |
-| 5 | [[08 Pipes/No Name Pi Stem\|No Name Pi Stem (19-634-5)]]                             |
+| # | Pipe                                                                                                        |
+| - | ----------------------------------------------------------------------------------------------------------- |
+| 1 | [[08 Pipes/Portland bruyere Guarantee 57__19-674-1\|Portland bruyere Guarantee 57__19-674-1 (19-674-1)]] |
+| 2 | [[08 Pipes/Savinelli 207__19-767-2\|Savinelli 207__19-767-2 (19-767-2)]]                                 |
+| 3 | [[08 Pipes/Orlik Ford__19-756-3\|Orlik Ford__19-756-3 (19-756-3)]]                                       |
+| 4 | [[08 Pipes/Savinelli Bings Favorite__19-978-4\|Savinelli Bings Favorite__19-978-4 (19-978-4)]]           |
+| 5 | [[08 Pipes/No Name Pi Stem__19-634-5\|No Name Pi Stem__19-634-5 (19-634-5)]]                             |
 
 { .block-language-dataview}

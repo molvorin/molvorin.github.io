@@ -10,19 +10,19 @@ This video examines five estate pipes from England, Denmark, and beyond, ranging
 
 ## Pipes
 
-- [[08 Pipes/BBB Medina 539\|BBB Medina 539]]
-- [[08 Pipes/Clubman 20\|Clubman 20]]
-- [[08 Pipes/Hilston Select 416\|Hilston Select 416]]
-- [[08 Pipes/Nørding 535\|Nørding 535]]
-- [[08 Pipes/Orlik Deluxe 182\|Orlik Deluxe 182]]
+- [[08 Pipes.before-id-rename/BBB Medina 539\|BBB Medina 539]]
+- [[08 Pipes.before-id-rename/Clubman 20\|Clubman 20]]
+- [[08 Pipes.before-id-rename/Hilston Select 416\|Hilston Select 416]]
+- [[08 Pipes.before-id-rename/Nørding 535\|Nørding 535]]
+- [[08 Pipes.before-id-rename/Orlik Deluxe 182\|Orlik Deluxe 182]]
 
 
-| # | Pipe                                                             |
-| - | ---------------------------------------------------------------- |
-| 1 | [[08 Pipes/Orlik Deluxe 182\|Orlik Deluxe 182 (8-766-1)]]     |
-| 2 | [[08 Pipes/Hilston Select 416\|Hilston Select 416 (8-684-2)]] |
-| 3 | [[08 Pipes/Nørding 535\|Nørding 535 (8-883-3)]]               |
-| 4 | [[08 Pipes/BBB Medina 539\|BBB Medina 539 (8-876-4)]]         |
-| 5 | [[08 Pipes/Clubman 20\|Clubman 20 (8-853-5)]]                 |
+| # | Pipe                                                                               |
+| - | ---------------------------------------------------------------------------------- |
+| 1 | [[08 Pipes/Orlik Deluxe 182__8-766-1\|Orlik Deluxe 182__8-766-1 (8-766-1)]]     |
+| 2 | [[08 Pipes/Hilston Select 416__8-684-2\|Hilston Select 416__8-684-2 (8-684-2)]] |
+| 3 | [[08 Pipes/Nørding 535__8-883-3\|Nørding 535__8-883-3 (8-883-3)]]               |
+| 4 | [[08 Pipes/BBB Medina 539__8-876-4\|BBB Medina 539__8-876-4 (8-876-4)]]         |
+| 5 | [[08 Pipes/Clubman 20__8-853-5\|Clubman 20__8-853-5 (8-853-5)]]                 |
 
 { .block-language-dataview}

@@ -9,19 +9,19 @@ In this fifth pipe collection video, I take you through five very different esta
 
 ## Pipes
 
-- [[08 Pipes/Falcon\|Falcon]]
-- [[08 Pipes/Georg Jensen\|Georg Jensen]]
-- [[08 Pipes/Georg Jensen Dania 606\|Georg Jensen Dania 606]]
-- [[08 Pipes/Ratos Rock Root\|Ratos Rock Root]]
-- [[08 Pipes/White Star Genuine Leather\|White Star Genuine Leather]]
+- [[08 Pipes.before-id-rename/Falcon\|Falcon]]
+- [[08 Pipes.before-id-rename/Georg Jensen\|Georg Jensen]]
+- [[08 Pipes.before-id-rename/Georg Jensen Dania 606\|Georg Jensen Dania 606]]
+- [[08 Pipes.before-id-rename/Ratos Rock Root\|Ratos Rock Root]]
+- [[08 Pipes.before-id-rename/White Star Genuine Leather\|White Star Genuine Leather]]
 
 
-| # | Pipe                                                                             |
-| - | -------------------------------------------------------------------------------- |
-| 1 | [[08 Pipes/Georg Jensen Dania 606\|Georg Jensen Dania 606 (5-322-1)]]         |
-| 2 | [[08 Pipes/Georg Jensen\|Georg Jensen (5-000-2)]]                             |
-| 3 | [[08 Pipes/Falcon\|Falcon (5-812-3)]]                                         |
-| 4 | [[08 Pipes/Ratos Rock Root\|Ratos Rock Root (5-272-4)]]                       |
-| 5 | [[08 Pipes/White Star Genuine Leather\|White Star Genuine Leather (5-674-5)]] |
+| # | Pipe                                                                                               |
+| - | -------------------------------------------------------------------------------------------------- |
+| 1 | [[08 Pipes/Georg Jensen Dania 606__5-322-1\|Georg Jensen Dania 606__5-322-1 (5-322-1)]]         |
+| 2 | [[08 Pipes/Georg Jensen__5-000-2\|Georg Jensen__5-000-2 (5-000-2)]]                             |
+| 3 | [[08 Pipes/Falcon__5-812-3\|Falcon__5-812-3 (5-812-3)]]                                         |
+| 4 | [[08 Pipes/Ratos Rock Root__5-272-4\|Ratos Rock Root__5-272-4 (5-272-4)]]                       |
+| 5 | [[08 Pipes/White Star Genuine Leather__5-674-5\|White Star Genuine Leather__5-674-5 (5-674-5)]] |
 
 { .block-language-dataview}
