@@ -5,7 +5,7 @@
 
 # No Name Bruyere Garantie 1
 
-![25-4done.png](/img/user/25-4done.png)
+![25-4done.png](/img/user/Backroom/Attachments%20and%20files/25-4done.png)
 ## Description
 
 An unusual pipe stamped only with a Bruyere Garantie marking and featuring an oversized bowl with a shape reminiscent of a decorative desk pipe. The engineering is distinctive, with a very small draft hole and heavily reinforced internal construction. Although the shape and proportions are unlikely to appeal to every smoker, the pipe stands out visually and would make an interesting display piece or conversation starter.

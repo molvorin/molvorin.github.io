@@ -5,7 +5,7 @@
 
 # No Name Pi Stem
 
-![19-5done.png](/img/user/19-5done.png)
+![19-5done.png](/img/user/Backroom/Attachments%20and%20files/19-5done.png)
 ## Description
 
 A large black pipe identified by the pi symbol on the stem. The bowl offers a generous chamber and a substantial feel in hand. Although the stem shows wear and damage, the pipe retains an interesting appearance and could benefit from a future restoration project.

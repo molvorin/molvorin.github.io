@@ -5,7 +5,7 @@
 
 # Mr. Brog 37 walled
 
-![27-1done.png](/img/user/27-1done.png)
+![27-1done.png](/img/user/Backroom/Attachments%20and%20files/27-1done.png)
 ## Description
 
 A rusticated Mr. Brog 37 with thick bowl walls, a narrow chamber, and an attractive warm stain. The pipe presents well overall and remains comfortable in the hand, though a crack in the mortise lowers the condition score. Despite the flaw, it remains a very appealing smoker with the rugged charm often associated with Mr. Brog pipes. The owner particularly appreciates the saddle-style stem and practical proportions.

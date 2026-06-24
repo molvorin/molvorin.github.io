@@ -5,7 +5,7 @@
 
 # Mr. Brog 47 Twin
 
-![28-4done.png](/img/user/28-4done.png)
+![28-4done.png](/img/user/Backroom/Attachments%20and%20files/28-4done.png)
 ## Description
 
 A second Mr. Brog 47 appearing in the same batch, creating the episode's twin-pipe theme. Although broadly similar to the previous example, subtle differences in shaping, wear patterns, and condition make the comparison interesting. The pipe shows a few small cracks and signs of use but remains in generally good condition and demonstrates how individual pipes develop unique character over time.

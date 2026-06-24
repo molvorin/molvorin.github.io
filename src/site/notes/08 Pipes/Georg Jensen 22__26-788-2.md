@@ -5,7 +5,7 @@
 
 # Georg Jensen 22
 
-![26-2done.png](/img/user/26-2done.png)
+![26-2done.png](/img/user/Backroom/Attachments%20and%20files/26-2done.png)
 ## Description
 
 A Danish-made Georg Jensen pipe with a long Canadian-style shank and elegant proportions. This pipe is one of the owner's personal favorites and combines comfortable handling with an attractive finish and classic shaping. Minor wear around the inner rim and an uneven chamber prevent a higher condition score, but these issues do little to detract from its appeal. The loose decorative ring on the shank remains the only notable flaw on an otherwise highly regarded smoker.

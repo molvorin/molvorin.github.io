@@ -5,7 +5,7 @@
 
 # Mr. Brog 47 loose
 
-![28-3done.png](/img/user/28-3done.png)
+![28-3done.png](/img/user/Backroom/Attachments%20and%20files/28-3done.png)
 ## Description
 
 A large and bulky Mr. Brog 47 with a loose stem and noticeable wear throughout. While the stem can likely be tightened with simple maintenance, a significant crack discovered later in the inspection reduced the condition rating considerably. Its imposing size and rugged appearance will appeal to some smokers, though it lacks the elegance found in smaller shapes.

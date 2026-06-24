@@ -5,7 +5,7 @@
 
 # No Name SIX Briar
 
-![26-4done.png](/img/user/26-4done.png)
+![26-4done.png](/img/user/Backroom/Attachments%20and%20files/26-4done.png)
 ## Description
 
 An unidentified briar pipe stamped with the number 6 and the word Briar. The pipe appears to have been repaired in the past and features a metal reinforcement band that itself shows cracking and wear. Heavy varnish, numerous fills, and generally uninspiring construction combine to create a pipe that fails to stand out either visually or as a smoker. Despite this, it may still offer some value as a restoration or refinishing project.
