@@ -4,6 +4,12 @@
 
 # Pipe Collection — By Manufacturer
 
+- Absorba: 
+    - [[08 Pipes/Absorba 210\|Absorba 210]]
+
+- Angelo: 
+    - [[08 Pipes/Angelo 1382\|Angelo 1382]]
+
 - B&B: 
     - [[08 Pipes/B&B 019__27-965-3\|B&B 019__27-965-3]]
     - [[08 Pipes/B&B 020__18-944-2\|B&B 020__18-944-2]]
@@ -104,6 +110,7 @@
     - [[08 Pipes/Jeantet Preference P-69__3-212-5L\|Jeantet Preference P-69__3-212-5L]]
     - [[08 Pipes/Jeantet Preference P.88__3-793-2L\|Jeantet Preference P.88__3-793-2L]]
     - [[08 Pipes/Jeantet Preference P46__1-672-1\|Jeantet Preference P46__1-672-1]]
+    - [[08 Pipes/Jeantet Chambord\|Jeantet Chambord]]
 
 - Kaywoodie: 
     - [[08 Pipes/Kaywoodie Super Grain 5191__2-884-5L\|Kaywoodie Super Grain 5191__2-884-5L]]
@@ -114,6 +121,9 @@
 
 - Lecor: 
     - [[08 Pipes/Lecor__14-323-4\|Lecor__14-323-4]]
+
+- Lord: 
+    - [[08 Pipes/Lord 53\|Lord 53]]
 
 - Lorenzo: 
     - [[08 Pipes/Lorenzo Egra Filtro 812__17-756-5\|Lorenzo Egra Filtro 812__17-756-5]]
@@ -203,6 +213,9 @@
 
 - Robin Hood: 
     - [[08 Pipes/Robin Hood France__10-852-3D\|Robin Hood France__10-852-3D]]
+
+- Royal Danish: 
+    - [[08 Pipes/Royal Danish 50\|Royal Danish 50]]
 
 - Royal Falcon: 
     - [[08 Pipes/Royal Falcon 210__1-775-10L\|Royal Falcon 210__1-775-10L]]

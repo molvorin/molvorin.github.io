@@ -164,6 +164,11 @@
 | [[08 Pipes/Lorenzo Elba__29-885-5\|Lorenzo Elba__29-885-5]]                                                         | 29-885-5  |
 | [[08 Pipes/P. Holtorp Wedge__29-888-4\|P. Holtorp Wedge__29-888-4]]                                                 | 29-888-4  |
 | [[08 Pipes/Prince Amled 157__29-867-1\|Prince Amled 157__29-867-1]]                                                 | 29-867-1  |
+| [[08 Pipes/Angelo 1382\|Angelo 1382]]                                                                               | 30-987-1  |
+| [[08 Pipes/Lord 53\|Lord 53]]                                                                                       | 30-986-2  |
+| [[08 Pipes/Absorba 210\|Absorba 210]]                                                                               | 30-998-3  |
+| [[08 Pipes/Royal Danish 50\|Royal Danish 50]]                                                                       | 30-888-4  |
+| [[08 Pipes/Jeantet Chambord\|Jeantet Chambord]]                                                                     | 30-775-5F |
 
 { .block-language-dataview}
 
