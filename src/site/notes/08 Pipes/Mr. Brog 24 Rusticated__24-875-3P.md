@@ -9,7 +9,7 @@
 ## Description
 
 
-![Attachments and files/24-875-3p.png\|500](/img/user/Attachments%20and%20files/24-875-3p.png)
+![Attachments and files/24-875-3P.png\|500](/img/user/Attachments%20and%20files/24-875-3P.png)
 
 A rusticated variation of the Mr. Brog 24 featuring a contrasting finish and distinctive textured band around the bowl. The pipe remains in very good condition and offers a more rugged appearance than the smoother examples. The shape is comfortable while retaining the bold proportions characteristic of the model.
 

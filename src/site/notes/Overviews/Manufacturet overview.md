@@ -43,7 +43,7 @@
     - [[08 Pipes/Charatans Make__3-354-3L\|Charatans Make__3-354-3L]]
 
 - Clifton: 
-    - [[08 Pipes/Clifton Finest Briar__10-772-2D\|Clifton Finest Briar__10-772-2D]]
+    - [[08 Pipes/Clifton Finest Briar__10-777-2D\|Clifton Finest Briar__10-777-2D]]
 
 - Clubman: 
     - [[08 Pipes/Clubman 20__8-853-5\|Clubman 20__8-853-5]]
@@ -263,7 +263,6 @@
 
 ## Unnamed
 
-- [[08 Pipes/Mr. Brog 47 Dark\|Mr. Brog 47 Dark]]: [[08 Pipes/Mr. Brog 47 Dark\|Mr. Brog 47 Dark]]
 - [[08 Pipes/No Name Bruyere Garantie 1__25-926-4\|No Name Bruyere Garantie 1__25-926-4]]: [[08 Pipes/No Name Bruyere Garantie 1__25-926-4\|No Name Bruyere Garantie 1__25-926-4]]
 - [[08 Pipes/No Name Bruyere Garantie__18-867-3\|No Name Bruyere Garantie__18-867-3]]: [[08 Pipes/No Name Bruyere Garantie__18-867-3\|No Name Bruyere Garantie__18-867-3]]
 - [[08 Pipes/No Name Danish Freeform Standing__17-777-1\|No Name Danish Freeform Standing__17-777-1]]: [[08 Pipes/No Name Danish Freeform Standing__17-777-1\|No Name Danish Freeform Standing__17-777-1]]

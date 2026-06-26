@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/welbeck-de-luxe-handmade-1-753-6/","noteIcon":"","dg-note-properties":{"aliases":["1-753-6"],"video":"1","video_order":"6","brand":"Welbeck","condition":"7","preference":"5","popularity":"3","ID":"1-753-6L","Batch":"L"}}
+{"dg-publish":true,"permalink":"/08-pipes/welbeck-de-luxe-handmade-1-753-6/","noteIcon":"","dg-note-properties":{"aliases":["1-753-6L"],"video":"1","video_order":"6","brand":"Welbeck","condition":"7","preference":"5","popularity":"3","ID":"1-753-6L","Batch":"L"}}
 ---
 
 

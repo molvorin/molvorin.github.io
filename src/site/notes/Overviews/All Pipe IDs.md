@@ -4,7 +4,6 @@
 
 | File                                                                                                                   | ID        |
 | ---------------------------------------------------------------------------------------------------------------------- | --------- |
-| [[08 Pipes/Mr. Brog 47 Dark\|Mr. Brog 47 Dark]]                                                                     | \-        |
 | [[08 Pipes/BBB Bulldog Guardsman__1-473-3\|BBB Bulldog Guardsman__1-473-3]]                                         | 1-473-3L  |
 | [[08 Pipes/BBB Christmas 1970 Special make__1-355-9L\|BBB Christmas 1970 Special make__1-355-9L]]                   | 1-355-9L  |
 | [[08 Pipes/Depi Deluxe 22__1-663-8L\|Depi Deluxe 22__1-663-8L]]                                                     | 1-663-8L  |
@@ -65,12 +64,12 @@
 | [[08 Pipes/Havanna__9-633-3\|Havanna__9-633-3]]                                                                     | 9-633-3   |
 | [[08 Pipes/Kriswill Kisan__9-775-1\|Kriswill Kisan__9-775-1]]                                                       | 9-775-1   |
 | [[08 Pipes/Pipemakers 23(145)__9-732-2\|Pipemakers 23(145)__9-732-2]]                                               | 9-732-2   |
-| [[08 Pipes/Clifton Finest Briar__10-772-2D\|Clifton Finest Briar__10-772-2D]]                                       | 10-772-2D |
 | [[08 Pipes/No Name French pipe__10-876-5D\|No Name French pipe__10-876-5D]]                                         | 10-876-5D |
 | [[08 Pipes/No Name Underslung__10-776-4D\|No Name Underslung__10-776-4D]]                                           | 10-776-4D |
 | [[08 Pipes/No Name Vest Pocket__10-986-6D\|No Name Vest Pocket__10-986-6D]]                                         | 10-986-6D |
 | [[08 Pipes/Robin Hood France__10-852-3D\|Robin Hood France__10-852-3D]]                                             | 10-852-3D |
 | [[08 Pipes/Savinelli Kings Cross__10-266-1D\|Savinelli Kings Cross__10-266-1D]]                                     | 10-266-1D |
+| [[08 Pipes/Clifton Finest Briar__10-777-2D\|Clifton Finest Briar__10-777-2D]]                                       | 10-777-2D |
 | [[08 Pipes/Kriswill Golden Klipper__11-745-1P\|Kriswill Golden Klipper__11-745-1P]]                                 | 11-745-1P |
 | [[08 Pipes/Mr.Brog 24 1__11-973-5P\|Mr.Brog 24 1__11-973-5P]]                                                       | 11-973-5P |
 | [[08 Pipes/Mr.Brog 25__11-743-4P\|Mr.Brog 25__11-743-4P]]                                                           | 11-743-4P |

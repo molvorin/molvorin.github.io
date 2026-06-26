@@ -10,7 +10,7 @@ This video examines a recently acquired batch of estate pipes that arrived by ma
 
 ## Pipes
 
-- [[08 Pipes/Clifton Finest Briar__10-772-2D\|Clifton Finest Briar__10-772-2D]]
+- [[Clifton Finest Briar__10-772-2D\|Clifton Finest Briar__10-772-2D]]
 - [[08 Pipes/No Name French pipe__10-876-5D\|No Name French pipe__10-876-5D]]
 - [[08 Pipes/No Name Underslung__10-776-4D\|No Name Underslung__10-776-4D]]
 - [[08 Pipes/No Name Vest Pocket__10-986-6D\|No Name Vest Pocket__10-986-6D]]
@@ -21,7 +21,7 @@ This video examines a recently acquired batch of estate pipes that arrived by ma
 | # | Pipe                                                                                           |
 | - | ---------------------------------------------------------------------------------------------- |
 | 1 | [[08 Pipes/Savinelli Kings Cross__10-266-1D\|Savinelli Kings Cross__10-266-1D (10-266-1D)]] |
-| 2 | [[08 Pipes/Clifton Finest Briar__10-772-2D\|Clifton Finest Briar__10-772-2D (10-772-2D)]]   |
+| 2 | [[08 Pipes/Clifton Finest Briar__10-777-2D\|Clifton Finest Briar__10-777-2D (10-777-2D)]]   |
 | 3 | [[08 Pipes/Robin Hood France__10-852-3D\|Robin Hood France__10-852-3D (10-852-3D)]]         |
 | 4 | [[08 Pipes/No Name Underslung__10-776-4D\|No Name Underslung__10-776-4D (10-776-4D)]]       |
 | 5 | [[08 Pipes/No Name French pipe__10-876-5D\|No Name French pipe__10-876-5D (10-876-5D)]]     |
