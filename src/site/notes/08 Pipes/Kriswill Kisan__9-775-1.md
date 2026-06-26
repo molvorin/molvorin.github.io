@@ -7,6 +7,8 @@
 
 ## Description
 
+
+![Attachments and files/9-775-1.png\|500](/img/user/Attachments%20and%20files/9-775-1.png)
 (Partually identified)
 
 A slender and elegant Kriswill pipe featuring a tall, narrow chamber and refined proportions. The pipe appears to have suffered a break in the past that was repaired using a reinforcing band, with the restoration overlapping part of the original stamping. Despite this history, the repair appears professionally executed and structurally sound. The stem has an unusual feel and profile, while the overall shape maintains a graceful and lightweight appearance. With only minor cleaning required, the pipe remains an attractive example of a well-restored estate pipe

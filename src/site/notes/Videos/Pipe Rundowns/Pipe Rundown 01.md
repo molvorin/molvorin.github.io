@@ -24,12 +24,12 @@ A introductory episode from a new pipe restoration channel. I am based in Denmar
 
 | Pipe                                                                                                            |
 | --------------------------------------------------------------------------------------------------------------- |
-| [[08 Pipes/Jeantet Preference P46__1-672-1\|Jeantet Preference P46__1-672-1 (1-672-1)]]                      |
+| [[08 Pipes/Jeantet Preference P46__1-672-1\|Jeantet Preference P46__1-672-1 (1-672-1L)]]                     |
 | [[08 Pipes/Georg Jensen Aluband 54__1-886-2\|Georg Jensen Aluband 54__1-886-2 (1-886-2)]]                    |
-| [[08 Pipes/BBB Bulldog Guardsman__1-473-3\|BBB Bulldog Guardsman__1-473-3 (1-473-3)]]                        |
+| [[08 Pipes/BBB Bulldog Guardsman__1-473-3\|BBB Bulldog Guardsman__1-473-3 (1-473-3L)]]                       |
 | [[08 Pipes/White Star Ancona 623__1-873-4\|White Star Ancona 623__1-873-4 (1-873-4)]]                        |
-| [[08 Pipes/Haandarbejde__1-662-5\|Haandarbejde__1-662-5 (1-662-5)]]                                          |
-| [[08 Pipes/Welbeck DeLuxe Handmade__1-753-6\|Welbeck DeLuxe Handmade__1-753-6 (1-753-6)]]                    |
+| [[08 Pipes/Haandarbejde__1-662-5\|Haandarbejde__1-662-5 (1-662-5L)]]                                         |
+| [[08 Pipes/Welbeck DeLuxe Handmade__1-753-6\|Welbeck DeLuxe Handmade__1-753-6 (1-753-6L)]]                   |
 | [[08 Pipes/Depi Flamegrain 106__1-762-7L\|Depi Flamegrain 106__1-762-7L (1-762-7L)]]                         |
 | [[08 Pipes/Depi Deluxe 22__1-663-8L\|Depi Deluxe 22__1-663-8L (1-663-8L)]]                                   |
 | [[08 Pipes/BBB Christmas 1970 Special make__1-355-9L\|BBB Christmas 1970 Special make__1-355-9L (1-355-9L)]] |

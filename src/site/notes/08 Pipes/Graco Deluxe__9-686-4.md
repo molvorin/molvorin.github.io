@@ -7,6 +7,8 @@
 
 ## Description
 
+
+![Attachments and files/9-686-4.png\|500](/img/user/Attachments%20and%20files/9-686-4.png)
 A remarkably long and graceful Graco pipe featuring a pronounced ridge running continuously from bowl to shank, creating a striking architectural appearance. The briar displays attractive grain patterns and a light, natural-looking finish that appears minimally stained. Its chamber is relatively small compared with the pipe’s overall length, emphasizing elegance over capacity. Although the stem shows some wear and would benefit from restoration work, the pipe retains a refined and carefully crafted appearance that showcases thoughtful shaping and attention to detail.
 
 ## Features in Videos

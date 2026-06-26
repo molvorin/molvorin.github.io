@@ -7,6 +7,8 @@
 
 ## Description
 
+
+![Attachments and files/7-831-3.png\|500](/img/user/Attachments%20and%20files/7-831-3.png)
 A relatively clean and lightly used Missouri Meerschaum corn cob pipe designed for simple, practical smoking. The pipe requires very little maintenance beyond basic cleaning and remains fully functional in its current condition. Like many corn cob pipes, it emphasizes affordability and utility over craftsmanship or collectability. Its uncomplicated construction and lightweight feel make it an accessible and dependable smoker, particularly for casual or everyday use.
 
 ## Features in Videos

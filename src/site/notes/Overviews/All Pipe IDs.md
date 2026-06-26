@@ -4,22 +4,23 @@
 
 | File                                                                                                                   | ID        |
 | ---------------------------------------------------------------------------------------------------------------------- | --------- |
-| [[08 Pipes/BBB Bulldog Guardsman__1-473-3\|BBB Bulldog Guardsman__1-473-3]]                                         | 1-473-3   |
+| [[08 Pipes/Mr. Brog 47 Dark\|Mr. Brog 47 Dark]]                                                                     | \-        |
+| [[08 Pipes/BBB Bulldog Guardsman__1-473-3\|BBB Bulldog Guardsman__1-473-3]]                                         | 1-473-3L  |
 | [[08 Pipes/BBB Christmas 1970 Special make__1-355-9L\|BBB Christmas 1970 Special make__1-355-9L]]                   | 1-355-9L  |
 | [[08 Pipes/Depi Deluxe 22__1-663-8L\|Depi Deluxe 22__1-663-8L]]                                                     | 1-663-8L  |
 | [[08 Pipes/Depi Flamegrain 106__1-762-7L\|Depi Flamegrain 106__1-762-7L]]                                           | 1-762-7L  |
 | [[08 Pipes/Georg Jensen Aluband 54__1-886-2\|Georg Jensen Aluband 54__1-886-2]]                                     | 1-886-2   |
-| [[08 Pipes/Haandarbejde__1-662-5\|Haandarbejde__1-662-5]]                                                           | 1-662-5   |
-| [[08 Pipes/Jeantet Preference P46__1-672-1\|Jeantet Preference P46__1-672-1]]                                       | 1-672-1   |
+| [[08 Pipes/Haandarbejde__1-662-5\|Haandarbejde__1-662-5]]                                                           | 1-662-5L  |
+| [[08 Pipes/Jeantet Preference P46__1-672-1\|Jeantet Preference P46__1-672-1]]                                       | 1-672-1L  |
 | [[08 Pipes/Royal Falcon 210__1-775-10L\|Royal Falcon 210__1-775-10L]]                                               | 1-775-10L |
-| [[08 Pipes/Welbeck DeLuxe Handmade__1-753-6\|Welbeck DeLuxe Handmade__1-753-6]]                                     | 1-753-6   |
+| [[08 Pipes/Welbeck DeLuxe Handmade__1-753-6\|Welbeck DeLuxe Handmade__1-753-6]]                                     | 1-753-6L  |
 | [[08 Pipes/White Star Ancona 623__1-873-4\|White Star Ancona 623__1-873-4]]                                         | 1-873-4   |
 | [[08 Pipes/BBB Best Make__2-377-10L\|BBB Best Make__2-377-10L]]                                                     | 2-377-10L |
 | [[08 Pipes/Graco Aroma 0254-S__2-253-6L\|Graco Aroma 0254-S__2-253-6L]]                                             | 2-253-6L  |
 | [[08 Pipes/Graco Elite 275__2-343-4L\|Graco Elite 275__2-343-4L]]                                                   | 2-343-4L  |
 | [[08 Pipes/Kaywoodie Super Grain 5191__2-884-5L\|Kaywoodie Super Grain 5191__2-884-5L]]                             | 2-884-5L  |
 | [[08 Pipes/Mandalay__2-873-3L\|Mandalay__2-873-3L]]                                                                 | 2-873-3L  |
-| [[08 Pipes/Noname__2-841-7\|Noname__2-841-7]]                                                                       | 2-841-7   |
+| [[08 Pipes/Noname__2-841-7\|Noname__2-841-7]]                                                                       | 2-841-7L  |
 | [[08 Pipes/Petersons Standard 313__2-677-2L\|Petersons Standard 313__2-677-2L]]                                     | 2-677-2L  |
 | [[08 Pipes/Stratford Deluxe 50__2-733-1L\|Stratford Deluxe 50__2-733-1L]]                                           | 2-733-1L  |
 | [[08 Pipes/Walgraine__2-763-8L\|Walgraine__2-763-8L]]                                                               | 2-763-8L  |
@@ -83,7 +84,7 @@
 | [[08 Pipes/B&B 037 (2)__13-983-5P\|B&B 037 (2)__13-983-5P]]                                                         | 13-983-5P |
 | [[08 Pipes/B&B 037__13-983-2P\|B&B 037__13-983-2P]]                                                                 | 13-983-2P |
 | [[08 Pipes/BBB Centenary 1847 - 1947__13-775-4L\|BBB Centenary 1847 - 1947__13-775-4L]]                             | 13-775-4L |
-| [[08 Pipes/HAJ Tulip (?)__13-335-3\|HAJ Tulip (?)__13-335-3]]                                                       | 13-335-3  |
+| [[08 Pipes/HAJ Tulip (?)__13-335-3\|HAJ Tulip (?)__13-335-3]]                                                       | 13-335-3L |
 | [[08 Pipes/Mr.Brog 18__13-982-1P\|Mr.Brog 18__13-982-1P]]                                                           | 13-982-1P |
 | [[08 Pipes/Straight Grain__13-632-1\|Straight Grain__13-632-1]]                                                     | 13-632-1  |
 | [[08 Pipes/Dunham__14-865-5\|Dunham__14-865-5]]                                                                     | 14-865-5  |

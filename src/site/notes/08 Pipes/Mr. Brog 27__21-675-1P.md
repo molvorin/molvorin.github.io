@@ -8,6 +8,9 @@
 
 ## Description
 
+
+![Attachments and files/21-675-1p.png\|500](/img/user/Attachments%20and%20files/21-675-1p.png)
+
 A large and organic-shaped pearwood pipe fitted with an ABS stem. The bowl offers generous capacity while maintaining an elegant taper towards the chamber opening. Despite cosmetic wear and stem damage, the overall shape remains attractive and makes the pipe a strong restoration candidate.
 
 ## Features in Videos

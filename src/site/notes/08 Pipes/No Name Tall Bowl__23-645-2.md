@@ -8,6 +8,8 @@
 
 ## Description
 
+
+![Attachments and files/23-645-2.png\|500](/img/user/Attachments%20and%20files/23-645-2.png)
 A tall and slender pipe with a notably deep chamber and smooth finish. The bowl proportions make it stand out from more conventional shapes, while the overall design remains elegant and understated. A small chip near the rim and general wear suggest previous use but do not detract significantly from its character.
 
 ## Features in Videos

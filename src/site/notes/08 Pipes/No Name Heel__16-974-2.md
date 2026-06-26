@@ -7,6 +7,8 @@
 
 ## Description
 
+
+![Attachments and files/16-974-2.png\|500](/img/user/Attachments%20and%20files/16-974-2.png)
 An unusual unidentified briar pipe distinguished by a flattened, elongated shank and a bowl shape that flares outward in a manner reminiscent of a boot heel. The pipe appears to have undergone extensive restoration in the past and remains in excellent condition, requiring little or no additional work. Its distinctive silhouette sets it apart from more conventional pipe shapes, while the attractive grain and comfortable proportions create a pipe with considerable visual character despite the absence of any maker's mark.
 
 ## Features in Videos

@@ -8,6 +8,8 @@
 
 ## Description
 
+
+![Attachments and files/20-734-4.png\|500](/img/user/Attachments%20and%20files/20-734-4.png)
 A semi-bent pipe with pronounced ripple-style rustication covering much of the bowl. The finish creates a bold visual texture while maintaining a simple, functional design. Though likely a basket pipe, it offers a comfortable shape and a distinctive appearance.
 
 ## Features in Videos

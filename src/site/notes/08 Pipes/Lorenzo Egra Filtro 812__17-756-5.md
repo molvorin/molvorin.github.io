@@ -8,6 +8,8 @@
 
 ## Description
 
+
+![Attachments and files/17-756-5.png\|500](/img/user/Attachments%20and%20files/17-756-5.png)
 A large Italian Lorenzo Egra Filtro 812 designed for filtered smoking and fitted with a P-Lip style mouthpiece. The most striking feature is its enormous chamber, making it suitable for exceptionally long smoking sessions. The pipe remains clean and presentable, with the primary issue being a loose-fitting stem. Although its oversized dimensions may not appeal to every smoker, the pipe offers substantial capacity, solid construction, and a distinctive presence.
 
 ## Features in Videos

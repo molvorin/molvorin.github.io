@@ -8,6 +8,9 @@
 
 ## Description
 
+
+![Attachments and files/24-965-1p.png\|500](/img/user/Attachments%20and%20files/24-965-1p.png)
+
 A large and imposing Mr. Brog pipe with dark staining and generous proportions. The pipe presents in excellent condition with minimal signs of use and a clean chamber. Its substantial size and classic shape make it a strong representative of the Mr. Brog range.
 
 ## Features in Videos

@@ -7,6 +7,8 @@
 
 ## Description
 
+
+![Attachments and files/2-763-8L.png\|500](/img/user/Attachments%20and%20files/2-763-8L.png)
 Stamp heavily worn and hard to read — identified as wallgraine but couldn't make out full details. Small hole in the mouthpiece that may be fileable rather than needing a fill. Some chew marks and deep scratches, plus the usual mold from this lot. Very dark wood that may lighten up with sanding.
 
 ## Features in Videos

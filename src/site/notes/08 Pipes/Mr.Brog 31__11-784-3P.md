@@ -7,6 +7,10 @@
 
 ## Description
 
+
+![Attachments and files/11-784-3p+a.png\|500](/img/user/Attachments%20and%20files/11-784-3p+a.png)
+![Attachments and files/11-784-3p.png\|500](/img/user/Attachments%20and%20files/11-784-3p.png)
+
 A slender and elegant Mr. Brog pipe with graceful proportions and a refined profile. The shape balances a compact bowl with a flowing stem line, producing a design that feels noticeably more delicate than many utilitarian pear-wood pipes. Although the finish shows areas of discoloration and the stem fit requires adjustment, the underlying shape remains highly attractive and lends itself well to restoration. The pipe combines practical simplicity with a degree of elegance not always associated with budget-oriented smoking pipes.
 
 ## Features in Videos

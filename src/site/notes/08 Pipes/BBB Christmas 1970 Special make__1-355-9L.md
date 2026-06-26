@@ -7,6 +7,8 @@
 
 ## Description
 
+
+![Attachments and files/1-355-9L.png\|500](/img/user/Attachments%20and%20files/1-355-9L.png)
 Anniversary/commemorative pipe. Significant crack running about half the circumference — would need gluing before any cleaning or restoration work. Some beautiful bird's eye and flame grain visible. Potentially collectible.
 
 ## Features in Videos

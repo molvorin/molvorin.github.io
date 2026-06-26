@@ -8,6 +8,10 @@
 
 ## Description
 
+
+![Attachments and files/17-777-2.png\|500](/img/user/Attachments%20and%20files/17-777-2.png)
+![Attachments and files/17-777-2+a.png\|500](/img/user/Attachments%20and%20files/17-777-2+a.png)
+![Attachments and files/17-777-2+b.png\|500](/img/user/Attachments%20and%20files/17-777-2+b.png)
 A companion pipe to the standing freehand, sharing many of the same design elements including carved ridges and distinctive ear-like projections. This example features a broader bowl and more striking grain patterns across the briar. The stem shows oxidation and will benefit from cleaning, but otherwise the pipe remains in good condition. Like its sister pipe, it represents a style of Danish freehand carving that emphasizes organic lines and individual character over strict adherence to traditional shapes.
 
 ## Features in Videos

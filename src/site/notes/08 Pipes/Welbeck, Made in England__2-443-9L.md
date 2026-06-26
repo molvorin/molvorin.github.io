@@ -7,6 +7,8 @@
 
 ## Description
 
+
+![Attachments and files/2-443-9L.png\|500](/img/user/Attachments%20and%20files/2-443-9L.png)
 Similar to the previous pipe — slim, with a squashed apple or tomato shape I quite like. Chewed mouthpiece that may be fixable. Thick cake in the chamber and some charring. Stamp difficult to read. Need a loupe for a closer look. A pipe I'd keep if it cleans up well.
 
 ## Features in Videos

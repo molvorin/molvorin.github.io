@@ -8,6 +8,9 @@
 
 ## Description
 
+
+![Attachments and files/17-678-4.png\|500](/img/user/Attachments%20and%20files/17-678-4.png)
+![Attachments and files/17-678-4+a.png\|500](/img/user/Attachments%20and%20files/17-678-4+a.png)
 A limited-edition Petersons Year Pipe from 2009, numbered 857 of 1000 produced. The pipe carries additional sentimental value, having come from a friend who has since passed away. While the shape is attractive and comfortable in hand, the stem shows scratching and discoloration that will require further restoration work. The narrower transition between bowl and shank gives the pipe an elegant profile, while its limited production run adds collectible appeal.
 
 ## Features in Videos

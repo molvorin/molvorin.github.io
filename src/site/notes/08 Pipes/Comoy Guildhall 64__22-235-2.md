@@ -8,6 +8,8 @@
 
 ## Description
 
+
+![Attachments and files/22-235-2.png\|500](/img/user/Attachments%20and%20files/22-235-2.png)
 A traditional English pipe believed to be a Comoy Guildhall shape 64, identified by the characteristic three-bar stem logo. The bowl displays attractive grain patterns and classic proportions, though extensive wear and stem damage significantly impact the overall condition. A challenging but potentially rewarding restoration project.
 
 ## Features in Videos

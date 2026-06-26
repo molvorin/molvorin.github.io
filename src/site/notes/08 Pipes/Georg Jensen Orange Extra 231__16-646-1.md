@@ -7,6 +7,8 @@
 
 ## Description
 
+
+![Attachments and files/16-646-1.png\|500](/img/user/Attachments%20and%20files/16-646-1.png)
 A Danish-made Georg Jensen Orange Extra 231 featuring a traditional shape and a distinctive orange-toned finish. The pipe displays signs of previous restoration work, including repairs to the stem, and requires thorough cleaning before it can be returned to service. While the shape remains fairly conventional, the pipe benefits from the solid craftsmanship associated with Georg Jensen and retains good restoration potential. Its appeal lies more in its heritage and quality construction than in any particularly unusual design features.
 
 ## Features in Videos

@@ -7,6 +7,8 @@
 
 ## Description
 
+
+![Attachments and files/12-863-2.png\|500](/img/user/Attachments%20and%20files/12-863-2.png)
 A French-made Mastercraft Legion of Honor pipe crafted from Algerian briar and fitted with its original stem bearing the MC logo. The bowl displays attractive grain patterns across multiple surfaces, complemented by a compact, well-balanced shape. Although the stem shows signs of age and would benefit from restoration, the pipe remains structurally sound and visually appealing. Its distinctive styling and unusual Legion of Honor stamping add an element of mystery that makes it particularly interesting to collectors and enthusiasts.
 
 ## Features in Videos

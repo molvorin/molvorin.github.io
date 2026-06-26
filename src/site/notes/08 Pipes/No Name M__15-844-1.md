@@ -7,6 +7,8 @@
 
 ## Description
 
+
+![Attachments and files/15-844-1.png\|500](/img/user/Attachments%20and%20files/15-844-1.png)
 An unidentified pipe marked only with an "M" enclosed in brackets alongside the word "Special." The pipe features a rusticated finish and a sturdy billiard-style shape with substantial proportions. Although the chamber would benefit from cleaning, the pipe remains in generally good condition and appears structurally sound. Its unusual stamping and uncommon appearance make it an intriguing identification project, while the combination of rustication and traditional shaping gives it a practical, workmanlike character
 ## Features in Videos
 

@@ -7,6 +7,8 @@
 
 ## Description
 
+
+![Attachments and files/6-882-1P.png\|500](/img/user/Attachments%20and%20files/6-882-1P.png)
 A lightly smoked or possibly unsmoked Mr. Brog pipe featuring a green-stained finish and a broad filter stem. The pipe appears to be made from an unknown wood rather than traditional briar, giving it a distinctive appearance and lightweight character. Despite discovering a loose glued section near the stem, the overall condition remains excellent and the repair appears straightforward. The comfortable stem design and compact proportions make this a surprisingly enjoyable pipe to handle, even if the unusual green coloration may not appeal to everyone
 
 ## Features in Videos

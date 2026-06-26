@@ -8,6 +8,8 @@
 
 ## Description
 
+
+![Attachments and files/24-744-5.png\|500](/img/user/Attachments%20and%20files/24-744-5.png)
 A black-finished pipe marked Gloria, fitted with a light-colored stem that appears to be horn or a similar material. The pipe remains in generally good condition, though minor damage around the bowl interior and a seized stem warrant attention. Its contrasting materials and unusual appearance make it a distinctive addition to the collection.
 
 ## Features in Videos

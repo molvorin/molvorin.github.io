@@ -7,6 +7,9 @@
 
 ## Description
 
+
+![Attachments and files/11-863-2p.png\|500](/img/user/Attachments%20and%20files/11-863-2p.png)
+
 A large pear-wood Mr. Brog pipe finished in a distinctive metallic bronze or copper-toned stain. The pipe appears lightly smoked and retains a clean internal stinger system, requiring virtually no restoration work beyond routine maintenance. Its bold finish emphasizes the natural texture of the wood while creating a more contemporary appearance than traditional stained briar pipes. The substantial bowl and broad proportions give the pipe a robust presence, while the unusual coloration makes it one of the more visually distinctive examples in the Mr. Brog range.
 
 ## Features in Videos

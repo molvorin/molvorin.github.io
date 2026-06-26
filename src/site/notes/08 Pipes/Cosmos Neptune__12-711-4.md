@@ -7,6 +7,8 @@
 
 ## Description
 
+
+![Attachments and files/12-711-4.png\|500](/img/user/Attachments%20and%20files/12-711-4.png)
 A Cosmos Neptune 6245 pipe featuring a textured finish and decorative metal accent ring. The pipe appears lightly smoked and remains in clean condition with relatively little restoration work required. Its finish emphasizes texture and contrast rather than grain presentation, resulting in a more contemporary aesthetic than traditional smooth briars. While designed primarily as a practical everyday smoker, the distinctive finish and proportions give it a character of its own.
 
 ## Features in Videos

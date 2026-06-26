@@ -7,6 +7,8 @@
 
 ## Description
 
+
+![Attachments and files/6-741-5P.png\|500](/img/user/Attachments%20and%20files/6-741-5P.png)
 A practical, naturally stained Mr. Brog pipe with a comfortable hand feel and a utilitarian character. The pipe shows moderate wear including scratches, tooth marks, and uneven finishing around the rim, though most of these issues could likely be improved with sanding and cleanup work. Its design closely resembles another pipe from the same series, but with a more natural finish instead of a colored stain. Rather than feeling delicate or collectible, this pipe comes across as a dependable everyday smoker — the kind of pipe meant for casual outdoor use without worrying too much about damage or wear
 
 ## Features in Videos

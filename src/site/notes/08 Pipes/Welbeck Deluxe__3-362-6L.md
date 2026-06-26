@@ -7,6 +7,8 @@
 
 ## Description
 
+
+![Attachments and files/3-362-6L.png\|500](/img/user/Attachments%20and%20files/3-362-6L.png)
 Slim pipe with a long mouthpiece — a shape I like. The W from the stamp has been worn off, possibly from a previous restoration attempt. A surface crack near the stem that may go through the varnish but not fully into the wood. Thick cake with mold inside. Despite the issues, a pipe I like and would want to restore.
 ## Features in Videos
 

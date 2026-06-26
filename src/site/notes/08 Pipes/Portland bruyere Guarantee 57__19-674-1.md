@@ -8,6 +8,9 @@
 ![19-01done.png](/img/user/Backroom/Attachments%20and%20files/19-01done.png)
 ## Description
 
+
+![Attachments and files/19-674-1.png\|500](/img/user/Attachments%20and%20files/19-674-1.png)
+![Attachments and files/19-674-1+a.png\|500](/img/user/Attachments%20and%20files/19-674-1+a.png)
 A lightweight and elegant pipe featuring a flattened stem and mouthpiece that give it a distinctive profile. The shape feels comfortable in hand and offers a modern interpretation of a classic design. Minor cosmetic wear is present around the stem, but the pipe remains an attractive candidate for light restoration and regular use.
 
 ## Features in Videos

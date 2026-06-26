@@ -7,6 +7,8 @@
 
 ## Description
 
+
+![Attachments and files/2-377-10L.png\|500](/img/user/Attachments%20and%20files/2-377-10L.png)
 Heavily worn and very dirty — thick cake, mold, lava overflow, and significant discolouration across the bowl. Mouthpiece marked "hand cut," which is a nice detail. Short shank with a long bowl — a shape I like. BBB stands for Britain's Best Briar, one of England's oldest pipe trademarks. A tough restoration job but likely a keeper if it comes out well.
 
 ## Features in Videos

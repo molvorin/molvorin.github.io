@@ -7,6 +7,9 @@
 
 ## Description
 
+
+![Attachments and files/10-776-2d.png\|500](/img/user/Attachments%20and%20files/10-776-2d.png)
+
 A compact pipe stamped “Clifton Finest Briar” featuring a meerschaum-lined chamber hidden beneath its traditional exterior appearance. The briar itself displays relatively subtle grain patterns, while the internal meerschaum or clay lining adds both historical interest and smoking practicality. The pipe shows moderate cosmetic wear and signs of previous use but remains structurally sound. Its combination of compact dimensions, meerschaum chamber, and understated styling creates a pipe that feels both practical and slightly unusual compared with standard briar constructions
 
 ## Features in Videos
