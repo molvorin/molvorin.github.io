@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/orlik-deluxe-182-8-766-1/","noteIcon":"","dg-note-properties":{"aliases":["8-766-1"],"brand":"Orlik","Model":"Deluxe","video":"8","video_order":"1","Stamp nr":"182","condition":"7","preference":"6","popularity":"6","ID":"8-766-1"}}
+{"dg-publish":true,"permalink":"/08-pipes/orlik-deluxe-182-8-766-1/","dg-note-properties":{"aliases":["8-766-1"],"brand":"Orlik","Model":"Deluxe","video":"8","video_order":"1","Stamp nr":"182","condition":"7","preference":"6","popularity":"6","ID":"8-766-1"}}
 ---
 
 

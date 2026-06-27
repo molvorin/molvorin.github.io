@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/havanna-9-633-3/","noteIcon":"","dg-note-properties":{"aliases":["9-633-3"],"brand":"Havanna","video":"9","video_order":"3","condition":"6","preference":"3","popularity":"3","ID":"9-633-3"}}
+{"dg-publish":true,"permalink":"/08-pipes/havanna-9-633-3/","dg-note-properties":{"aliases":["9-633-3"],"brand":"Havanna","video":"9","video_order":"3","condition":"6","preference":"3","popularity":"3","ID":"9-633-3"}}
 ---
 
 

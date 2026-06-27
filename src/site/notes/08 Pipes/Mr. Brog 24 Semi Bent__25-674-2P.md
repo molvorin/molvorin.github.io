@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-24-semi-bent-25-674-2-p/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":24,"Stamp nr":24,"video":"25","condition":"6","preference":"7","popularity":"4","video_order":"2","Batch":"P","ID":"25-674-2P","aliases":["25-674-2P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-24-semi-bent-25-674-2-p/","dg-note-properties":{"brand":"Mr.Brog","Model":24,"Stamp nr":24,"video":"25","condition":"6","preference":"7","popularity":"4","video_order":"2","Batch":"P","ID":"25-674-2P","aliases":["25-674-2P"]}}
 ---
 
 

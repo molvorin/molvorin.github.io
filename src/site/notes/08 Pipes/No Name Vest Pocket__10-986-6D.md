@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-vest-pocket-10-986-6-d/","noteIcon":"","dg-note-properties":{"aliases":["10-986-6D"],"brand":null,"video":"10","condition":"9","preference":"8","popularity":"6","video_order":"6","Batch":"D","ID":"10-986-6D"}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-vest-pocket-10-986-6-d/","dg-note-properties":{"aliases":["10-986-6D"],"brand":null,"video":"10","condition":"9","preference":"8","popularity":"6","video_order":"6","Batch":"D","ID":"10-986-6D"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/nording-radiator-20-898-2/","noteIcon":"","dg-note-properties":{"brand":"Nørding","Model":"Radiator","Stamp nr":null,"video":"20","condition":"8","preference":"9","popularity":"8","video_order":"2","Batch":"","ID":"20-898-2","aliases":["20-898-2"]}}
+{"dg-publish":true,"permalink":"/08-pipes/nording-radiator-20-898-2/","dg-note-properties":{"brand":"Nørding","Model":"Radiator","Stamp nr":null,"video":"20","condition":"8","preference":"9","popularity":"8","video_order":"2","Batch":"","ID":"20-898-2","aliases":["20-898-2"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/bbb-crusted-20-475-3/","noteIcon":"","dg-note-properties":{"brand":"BBB","Model":"Crusted","Stamp nr":null,"video":"20","condition":"4","preference":"7","popularity":"5","video_order":"3","Batch":"","ID":"20-475-3","aliases":["20-475-3"]}}
+{"dg-publish":true,"permalink":"/08-pipes/bbb-crusted-20-475-3/","dg-note-properties":{"brand":"BBB","Model":"Crusted","Stamp nr":null,"video":"20","condition":"4","preference":"7","popularity":"5","video_order":"3","Batch":"","ID":"20-475-3","aliases":["20-475-3"]}}
 ---
 
 

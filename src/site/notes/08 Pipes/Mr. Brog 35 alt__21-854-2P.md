@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-35-alt-21-854-2-p/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":35,"Stamp nr":35,"video":"21","condition":"8","preference":"5","popularity":"4","video_order":"2","Batch":"P","ID":"21-854-2P","aliases":["21-854-2P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-35-alt-21-854-2-p/","dg-note-properties":{"brand":"Mr.Brog","Model":35,"Stamp nr":35,"video":"21","condition":"8","preference":"5","popularity":"4","video_order":"2","Batch":"P","ID":"21-854-2P","aliases":["21-854-2P"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-27-21-675-1-p/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":27,"Stamp nr":27,"video":"21","condition":"6","preference":"7","popularity":"5","video_order":"1","Batch":"P","ID":"21-675-1P","aliases":["21-675-1P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-27-21-675-1-p/","dg-note-properties":{"brand":"Mr.Brog","Model":27,"Stamp nr":27,"video":"21","condition":"6","preference":"7","popularity":"5","video_order":"1","Batch":"P","ID":"21-675-1P","aliases":["21-675-1P"]}}
 ---
 
 

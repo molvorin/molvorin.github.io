@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-27-rusticated-21-876-4-p/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":27,"Stamp nr":27,"video":"21","condition":"8","preference":"7","popularity":"6","video_order":"4","Batch":"P","ID":"21-876-4P","aliases":["21-876-4P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-27-rusticated-21-876-4-p/","dg-note-properties":{"brand":"Mr.Brog","Model":27,"Stamp nr":27,"video":"21","condition":"8","preference":"7","popularity":"6","video_order":"4","Batch":"P","ID":"21-876-4P","aliases":["21-876-4P"]}}
 ---
 
 

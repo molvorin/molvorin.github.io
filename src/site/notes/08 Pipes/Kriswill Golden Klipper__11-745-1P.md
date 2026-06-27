@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/kriswill-golden-klipper-11-745-1-p/","noteIcon":"","dg-note-properties":{"aliases":["11-745-1P"],"brand":"Kriswill","Model":"Golden Klipper","Stamp nr":"06","video":"11","condition":"7","preference":"4","popularity":"5","video_order":"1","Batch":"P","ID":"11-745-1P"}}
+{"dg-publish":true,"permalink":"/08-pipes/kriswill-golden-klipper-11-745-1-p/","dg-note-properties":{"aliases":["11-745-1P"],"brand":"Kriswill","Model":"Golden Klipper","Stamp nr":"06","video":"11","condition":"7","preference":"4","popularity":"5","video_order":"1","Batch":"P","ID":"11-745-1P"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/thurmann-fox-3-723-8-l/","noteIcon":"","dg-note-properties":{"aliases":["3-723-8L"],"brand":"Thurmann","Model":"Fox","video":"3","video_order":"8","condition":"7","preference":"2","popularity":"3","ID":"3-723-8L"}}
+{"dg-publish":true,"permalink":"/08-pipes/thurmann-fox-3-723-8-l/","dg-note-properties":{"aliases":["3-723-8L"],"brand":"Thurmann","Model":"Fox","video":"3","video_order":"8","condition":"7","preference":"2","popularity":"3","ID":"3-723-8L"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-35-1-bad-25-763-1-p/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":35,"Stamp nr":35,"video":"25","condition":"7","preference":"6","popularity":"3","video_order":"1","Batch":"P","ID":"25-763-1P","aliases":["25-763-1P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-35-1-bad-25-763-1-p/","dg-note-properties":{"brand":"Mr.Brog","Model":35,"Stamp nr":35,"video":"25","condition":"7","preference":"6","popularity":"3","video_order":"1","Batch":"P","ID":"25-763-1P","aliases":["25-763-1P"]}}
 ---
 
 

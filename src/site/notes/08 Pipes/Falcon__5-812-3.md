@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/falcon-5-812-3/","noteIcon":"","dg-note-properties":{"aliases":["5-812-3"],"video":"5","video_order":"3","condition":"8","preference":"1","popularity":"2","brand":"Falcon","ID":"5-812-3"}}
+{"dg-publish":true,"permalink":"/08-pipes/falcon-5-812-3/","dg-note-properties":{"aliases":["5-812-3"],"video":"5","video_order":"3","condition":"8","preference":"1","popularity":"2","brand":"Falcon","ID":"5-812-3"}}
 ---
 
 

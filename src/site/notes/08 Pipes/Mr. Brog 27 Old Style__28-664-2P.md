@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-27-old-style-28-664-2-p/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":27,"Stamp nr":27,"video":"28","condition":"6","preference":"6","popularity":"4","video_order":"2","Batch":"P","ID":"28-664-2P","aliases":["28-664-2P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-27-old-style-28-664-2-p/","dg-note-properties":{"brand":"Mr.Brog","Model":27,"Stamp nr":27,"video":"28","condition":"6","preference":"6","popularity":"4","video_order":"2","Batch":"P","ID":"28-664-2P","aliases":["28-664-2P"]}}
 ---
 
 

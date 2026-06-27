@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/robin-hood-france-10-852-3-d/","noteIcon":"","dg-note-properties":{"aliases":["10-852-3D"],"brand":"Robin Hood","video":"10","Stamp nr":"250","condition":"8","preference":"5","popularity":"2","video_order":"3","Batch":"D","ID":"10-852-3D"}}
+{"dg-publish":true,"permalink":"/08-pipes/robin-hood-france-10-852-3-d/","dg-note-properties":{"aliases":["10-852-3D"],"brand":"Robin Hood","video":"10","Stamp nr":"250","condition":"8","preference":"5","popularity":"2","video_order":"3","Batch":"D","ID":"10-852-3D"}}
 ---
 
 

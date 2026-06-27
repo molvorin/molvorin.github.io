@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/georg-jensen-dania-606-5-322-1/","noteIcon":"","dg-note-properties":{"aliases":["5-322-1"],"video":"5","video_order":"1","brand":"Georg Jensen","Model":"Dania","condition":"3","preference":"2","popularity":"2","ID":"5-322-1"}}
+{"dg-publish":true,"permalink":"/08-pipes/georg-jensen-dania-606-5-322-1/","dg-note-properties":{"aliases":["5-322-1"],"video":"5","video_order":"1","brand":"Georg Jensen","Model":"Dania","condition":"3","preference":"2","popularity":"2","ID":"5-322-1"}}
 ---
 
 

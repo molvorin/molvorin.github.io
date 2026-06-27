@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/welbeck-made-in-england-2-443-9-l/","tags":["Welbeck"],"noteIcon":"","dg-note-properties":{"brand":"Welbeck","video":"2","video_order":"9","condition":"4","preference":"4","popularity":"3","Batch":"L","ID":"2-443-9L","aliases":["2-443-9L"],"tags":["Welbeck"]}}
+{"dg-publish":true,"permalink":"/08-pipes/welbeck-made-in-england-2-443-9-l/","tags":["Welbeck"],"dg-note-properties":{"brand":"Welbeck","video":"2","video_order":"9","condition":"4","preference":"4","popularity":"3","Batch":"L","ID":"2-443-9L","aliases":["2-443-9L"],"tags":["Welbeck"]}}
 ---
 
 

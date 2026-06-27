@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/bbb-medina-539-8-876-4/","noteIcon":"","dg-note-properties":{"aliases":["8-876-4"],"brand":"BBB","Model":"Medina","video":"8","video_order":"4","condition":"8","preference":"7","popularity":"6","Stamp nr":"539","ID":"8-876-4"}}
+{"dg-publish":true,"permalink":"/08-pipes/bbb-medina-539-8-876-4/","dg-note-properties":{"aliases":["8-876-4"],"brand":"BBB","Model":"Medina","video":"8","video_order":"4","condition":"8","preference":"7","popularity":"6","Stamp nr":"539","ID":"8-876-4"}}
 ---
 
 

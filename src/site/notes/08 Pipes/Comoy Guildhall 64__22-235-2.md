@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/comoy-guildhall-64-22-235-2/","noteIcon":"","dg-note-properties":{"brand":"Comoy","Model":"Guildhall","Stamp nr":64,"video":"22","condition":"2","preference":"3","popularity":"5","video_order":"2","Batch":"","ID":"22-235-2","aliases":["22-235-2"]}}
+{"dg-publish":true,"permalink":"/08-pipes/comoy-guildhall-64-22-235-2/","dg-note-properties":{"brand":"Comoy","Model":"Guildhall","Stamp nr":64,"video":"22","condition":"2","preference":"3","popularity":"5","video_order":"2","Batch":"","ID":"22-235-2","aliases":["22-235-2"]}}
 ---
 
 

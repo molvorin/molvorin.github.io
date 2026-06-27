@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-47-loose-28-543-3-p/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":47,"Stamp nr":47,"video":"28","condition":"5","preference":"4","popularity":"3","video_order":"3","Batch":"P","ID":"28-543-3P","aliases":["28-543-3P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-47-loose-28-543-3-p/","dg-note-properties":{"brand":"Mr.Brog","Model":47,"Stamp nr":47,"video":"28","condition":"5","preference":"4","popularity":"3","video_order":"3","Batch":"P","ID":"28-543-3P","aliases":["28-543-3P"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-plastic-16-434-4/","noteIcon":"","dg-note-properties":{"brand":null,"Model":null,"Stamp nr":null,"video":"16","condition":"4","preference":"3","popularity":"4","video_order":"4","Batch":"","ID":"16-434-4","aliases":["16-434-4"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-plastic-16-434-4/","dg-note-properties":{"brand":null,"Model":null,"Stamp nr":null,"video":"16","condition":"4","preference":"3","popularity":"4","video_order":"4","Batch":"","ID":"16-434-4","aliases":["16-434-4"]}}
 ---
 
 

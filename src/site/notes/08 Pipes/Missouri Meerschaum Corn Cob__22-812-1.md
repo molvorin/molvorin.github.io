@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/missouri-meerschaum-corn-cob-22-812-1/","noteIcon":"","dg-note-properties":{"brand":"Missouri Meerschaum","Model":"Corn Cob","Stamp nr":null,"video":"22","condition":"8","preference":"1","popularity":"2","video_order":"1","Batch":"","ID":"22-812-1","aliases":["22-812-1"]}}
+{"dg-publish":true,"permalink":"/08-pipes/missouri-meerschaum-corn-cob-22-812-1/","dg-note-properties":{"brand":"Missouri Meerschaum","Model":"Corn Cob","Stamp nr":null,"video":"22","condition":"8","preference":"1","popularity":"2","video_order":"1","Batch":"","ID":"22-812-1","aliases":["22-812-1"]}}
 ---
 
 

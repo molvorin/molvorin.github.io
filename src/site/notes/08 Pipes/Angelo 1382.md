@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/angelo-1382/","noteIcon":"","dg-note-properties":{"brand":"Angelo","Model":1382,"Stamp nr":1382,"video":"30","condition":"9","preference":"8","popularity":"7","video_order":"1","Batch":"","ID":"30-987-1","aliases":["30-987-1"]}}
+{"dg-publish":true,"permalink":"/08-pipes/angelo-1382/","dg-note-properties":{"brand":"Angelo","Model":1382,"Stamp nr":1382,"video":"30","condition":"9","preference":"8","popularity":"7","video_order":"1","Batch":"","ID":"30-987-1","aliases":["30-987-1"]}}
 ---
 
 

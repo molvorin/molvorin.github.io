@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/savinelli-bings-favorite-19-978-4/","noteIcon":"","dg-note-properties":{"brand":"Savinelli","Model":"Bing's Favorite","Stamp nr":null,"video":"19","condition":"9","preference":"7","popularity":"8","video_order":"4","Batch":"","ID":"19-978-4","aliases":["19-978-4"]}}
+{"dg-publish":true,"permalink":"/08-pipes/savinelli-bings-favorite-19-978-4/","dg-note-properties":{"brand":"Savinelli","Model":"Bing's Favorite","Stamp nr":null,"video":"19","condition":"9","preference":"7","popularity":"8","video_order":"4","Batch":"","ID":"19-978-4","aliases":["19-978-4"]}}
 ---
 
 

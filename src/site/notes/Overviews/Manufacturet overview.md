@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/overviews/manufacturet-overview/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/overviews/manufacturet-overview/","dg-note-properties":{}}
 ---
 
 # Pipe Collection — By Manufacturer
@@ -11,8 +11,8 @@
     - [[08 Pipes/Angelo 1382\|Angelo 1382]]
 
 - B&B: 
-    - [[08 Pipes/B&B 019__27-965-3\|B&B 019__27-965-3]]
     - [[08 Pipes/B&B 020__18-944-2\|B&B 020__18-944-2]]
+    - [[08 Pipes/B&B 019__27-965-3\|B&B 019__27-965-3]]
     - [[08 Pipes/B&B 022__21-766-3P\|B&B 022__21-766-3P]]
     - [[08 Pipes/B&B 024__6-861-2P\|B&B 024__6-861-2P]]
     - [[08 Pipes/B&B 037 (2)__13-983-5P\|B&B 037 (2)__13-983-5P]]
@@ -22,10 +22,11 @@
 - BBB: 
     - [[08 Pipes/BBB Best Make__2-377-10L\|BBB Best Make__2-377-10L]]
     - [[08 Pipes/BBB Bulldog Guardsman__1-473-3\|BBB Bulldog Guardsman__1-473-3]]
-    - [[08 Pipes/BBB Centenary 1847 - 1947__13-775-4L\|BBB Centenary 1847 - 1947__13-775-4L]]
     - [[08 Pipes/BBB Christmas 1970 Special make__1-355-9L\|BBB Christmas 1970 Special make__1-355-9L]]
     - [[08 Pipes/BBB Crusted__20-475-3\|BBB Crusted__20-475-3]]
+    - [[08 Pipes/BBB Centenary 1847 - 1947__13-775-4L\|BBB Centenary 1847 - 1947__13-775-4L]]
     - [[08 Pipes/BBB Medina 539__8-876-4\|BBB Medina 539__8-876-4]]
+    - [[08 Pipes/BBB Classic 652\|BBB Classic 652]]
 
 - Bera: 
     - [[08 Pipes/Bera 15__3-775-7\|Bera 15__3-775-7]]
@@ -38,6 +39,10 @@
 
 - BPK: 
     - [[08 Pipes/BPK 6160__9-873-5\|BPK 6160__9-873-5]]
+
+- Brillon: 
+    - [[08 Pipes/Brillon 60\|Brillon 60]]
+    - [[08 Pipes/Brillon Populär\|Brillon Populär]]
 
 - Charatans Make: 
     - [[08 Pipes/Charatans Make__3-354-3L\|Charatans Make__3-354-3L]]
@@ -93,9 +98,6 @@
     - [[08 Pipes/Graco Deluxe__9-686-4\|Graco Deluxe__9-686-4]]
     - [[08 Pipes/Graco Elite 275__2-343-4L\|Graco Elite 275__2-343-4L]]
 
-- Haandarbejde: 
-    - [[08 Pipes/Haandarbejde__1-662-5\|Haandarbejde__1-662-5]]
-
 - HAJ: 
     - [[08 Pipes/HAJ Tulip (?)__13-335-3\|HAJ Tulip (?)__13-335-3]]
     - [[08 Pipes/HAJ__3-787-10\|HAJ__3-787-10]]
@@ -105,6 +107,9 @@
 
 - Hilston: 
     - [[08 Pipes/Hilston Select 416__8-684-2\|Hilston Select 416__8-684-2]]
+
+- Haandarbejde: 
+    - [[08 Pipes/Haandarbejde__1-662-5\|Haandarbejde__1-662-5]]
 
 - Jeantet: 
     - [[08 Pipes/Jeantet Preference P-69__3-212-5L\|Jeantet Preference P-69__3-212-5L]]
@@ -143,6 +148,9 @@
 - Mogul: 
     - [[08 Pipes/Mogul Extra__22-476-3\|Mogul Extra__22-476-3]]
 
+- Mokin: 
+    - [[08 Pipes/Mokin Meerschaum Lined\|Mokin Meerschaum Lined]]
+
 - Mr.Brog: 
     - [[08 Pipes/Mr. Brog 24 1 extra__25-974-3P\|Mr. Brog 24 1 extra__25-974-3P]]
     - [[08 Pipes/Mr. Brog 24 Rusticated__24-875-3P\|Mr. Brog 24 Rusticated__24-875-3P]]
@@ -176,6 +184,12 @@
     - [[08 Pipes/Mr.Brog 47 cracked__4-322-4P\|Mr.Brog 47 cracked__4-322-4P]]
     - [[08 Pipes/Mr.Brog 55__11-863-2P\|Mr.Brog 55__11-863-2P]]
     - [[08 Pipes/No Name Mr. Brog__24-644-4P\|No Name Mr. Brog__24-644-4P]]
+    - [[08 Pipes/Mr. Brog 47 Rusticated\|Mr. Brog 47 Rusticated]]
+    - [[08 Pipes/Mr. Brog 27 Rusticated Liner\|Mr. Brog 27 Rusticated Liner]]
+    - [[08 Pipes/Mr. Brog 41\|Mr. Brog 41]]
+
+- Mrs. Bro: 
+    - [[08 Pipes/Mrs. Bro 64\|Mrs. Bro 64]]
 
 - Nørding: 
     - [[08 Pipes/Nørding 535__8-883-3\|Nørding 535__8-883-3]]
@@ -277,6 +291,8 @@
 - [[08 Pipes/No Name Paint__23-422-3\|No Name Paint__23-422-3]]: [[08 Pipes/No Name Paint__23-422-3\|No Name Paint__23-422-3]]
 - [[08 Pipes/No Name Pi Stem__19-634-5\|No Name Pi Stem__19-634-5]]: [[08 Pipes/No Name Pi Stem__19-634-5\|No Name Pi Stem__19-634-5]]
 - [[08 Pipes/No Name Plastic__16-434-4\|No Name Plastic__16-434-4]]: [[08 Pipes/No Name Plastic__16-434-4\|No Name Plastic__16-434-4]]
+- [[08 Pipes/No Name Prince Amlet\|No Name Prince Amlet]]: [[08 Pipes/No Name Prince Amlet\|No Name Prince Amlet]]
+- [[08 Pipes/No Name Rhodesian\|No Name Rhodesian]]: [[08 Pipes/No Name Rhodesian\|No Name Rhodesian]]
 - [[08 Pipes/No Name Ripple Grain__20-734-4\|No Name Ripple Grain__20-734-4]]: [[08 Pipes/No Name Ripple Grain__20-734-4\|No Name Ripple Grain__20-734-4]]
 - [[08 Pipes/No Name SIX Briar__26-313-4\|No Name SIX Briar__26-313-4]]: [[08 Pipes/No Name SIX Briar__26-313-4\|No Name SIX Briar__26-313-4]]
 - [[08 Pipes/No Name Squared Ropp__16-434-3\|No Name Squared Ropp__16-434-3]]: [[08 Pipes/No Name Squared Ropp__16-434-3\|No Name Squared Ropp__16-434-3]]

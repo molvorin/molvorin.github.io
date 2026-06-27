@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/georg-jensen-22-26-788-2/","noteIcon":"","dg-note-properties":{"brand":"Georg Jensen","Model":22,"Stamp nr":22,"video":"26","condition":"7","preference":"8","popularity":"8","video_order":"2","Batch":"","ID":"26-788-2","aliases":["26-788-2"]}}
+{"dg-publish":true,"permalink":"/08-pipes/georg-jensen-22-26-788-2/","dg-note-properties":{"brand":"Georg Jensen","Model":22,"Stamp nr":22,"video":"26","condition":"7","preference":"8","popularity":"8","video_order":"2","Batch":"","ID":"26-788-2","aliases":["26-788-2"]}}
 ---
 
 

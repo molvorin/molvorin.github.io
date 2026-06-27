@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/petersons-killarney-80s-7-292-5-k/","noteIcon":"","dg-note-properties":{"aliases":["7-292-5K"],"brand":"Petersons","Model":"Killarney","video":"7","video_order":"5","condition":"2","preference":"9","popularity":"2","Stamp nr":"80s","ID":"7-292-5K","Batch":"K"}}
+{"dg-publish":true,"permalink":"/08-pipes/petersons-killarney-80s-7-292-5-k/","dg-note-properties":{"aliases":["7-292-5K"],"brand":"Petersons","Model":"Killarney","video":"7","video_order":"5","condition":"2","preference":"9","popularity":"2","Stamp nr":"80s","ID":"7-292-5K","Batch":"K"}}
 ---
 
 

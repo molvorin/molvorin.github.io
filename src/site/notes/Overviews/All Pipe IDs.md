@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/overviews/all-pipe-i-ds/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/overviews/all-pipe-i-ds/","dg-note-properties":{}}
 ---
 
 | File                                                                                                                   | ID        |
@@ -54,8 +54,8 @@
 | [[08 Pipes/Noname 3__7-744-1\|Noname 3__7-744-1]]                                                                   | 7-744-1   |
 | [[08 Pipes/Petersons Killarney 80s__7-292-5K\|Petersons Killarney 80s__7-292-5K]]                                   | 7-292-5K  |
 | [[08 Pipes/Zoie__7-233-2\|Zoie__7-233-2]]                                                                           | 7-233-2   |
-| [[08 Pipes/BBB Medina 539__8-876-4\|BBB Medina 539__8-876-4]]                                                       | 8-876-4   |
 | [[08 Pipes/Clubman 20__8-853-5\|Clubman 20__8-853-5]]                                                               | 8-853-5   |
+| [[08 Pipes/BBB Medina 539__8-876-4\|BBB Medina 539__8-876-4]]                                                       | 8-876-4   |
 | [[08 Pipes/Hilston Select 416__8-684-2\|Hilston Select 416__8-684-2]]                                               | 8-684-2   |
 | [[08 Pipes/Nørding 535__8-883-3\|Nørding 535__8-883-3]]                                                             | 8-883-3   |
 | [[08 Pipes/Orlik Deluxe 182__8-766-1\|Orlik Deluxe 182__8-766-1]]                                                   | 8-766-1   |
@@ -169,6 +169,16 @@
 | [[08 Pipes/Absorba 210\|Absorba 210]]                                                                               | 30-998-3  |
 | [[08 Pipes/Royal Danish 50\|Royal Danish 50]]                                                                       | 30-888-4  |
 | [[08 Pipes/Jeantet Chambord\|Jeantet Chambord]]                                                                     | 30-775-5F |
+| [[08 Pipes/No Name Rhodesian\|No Name Rhodesian]]                                                                   | 31-884-1  |
+| [[08 Pipes/BBB Classic 652\|BBB Classic 652]]                                                                       | 31-787-2  |
+| [[08 Pipes/Brillon 60\|Brillon 60]]                                                                                 | 31-734-3  |
+| [[08 Pipes/Brillon Populär\|Brillon Populär]]                                                                       | 31-645-4  |
+| [[08 Pipes/Mr. Brog 41\|Mr. Brog 41]]                                                                               | 31-786-5P |
+| [[08 Pipes/Mokin Meerschaum Lined\|Mokin Meerschaum Lined]]                                                         | 32-775-1  |
+| [[08 Pipes/Mrs. Bro 64\|Mrs. Bro 64]]                                                                               | 32-333-2  |
+| [[08 Pipes/Mr. Brog 47 Rusticated\|Mr. Brog 47 Rusticated]]                                                         | 32-161-3P |
+| [[08 Pipes/Mr. Brog 27 Rusticated Liner\|Mr. Brog 27 Rusticated Liner]]                                             | 32-574-4P |
+| [[08 Pipes/No Name Prince Amlet\|No Name Prince Amlet]]                                                             | 32-775-5  |
 
 { .block-language-dataview}
 

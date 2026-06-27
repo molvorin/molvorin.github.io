@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/depi-flamegrain-104-3-742-1-l/","noteIcon":"","dg-note-properties":{"aliases":["3-742-1L"],"brand":"Depi","Model":"Flamegraine","Stamp nr":"104","video":"3","video_order":"1","Batch":"L","condition":"7","preference":"4","popularity":"2","ID":"3-742-1L"}}
+{"dg-publish":true,"permalink":"/08-pipes/depi-flamegrain-104-3-742-1-l/","dg-note-properties":{"aliases":["3-742-1L"],"brand":"Depi","Model":"Flamegraine","Stamp nr":"104","video":"3","video_order":"1","Batch":"L","condition":"7","preference":"4","popularity":"2","ID":"3-742-1L"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/petersons-standard-313-2-677-2-l/","noteIcon":"","dg-note-properties":{"aliases":["2-677-2L"],"video":"2","video_order":"2","brand":"Petersons","Stamp nr":"313","condition":"6","preference":"7","popularity":"7","Batch":"L","ID":"2-677-2L"}}
+{"dg-publish":true,"permalink":"/08-pipes/petersons-standard-313-2-677-2-l/","dg-note-properties":{"aliases":["2-677-2L"],"video":"2","video_order":"2","brand":"Petersons","Stamp nr":"313","condition":"6","preference":"7","popularity":"7","Batch":"L","ID":"2-677-2L"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-18-13-982-1-p/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":"18","Stamp nr":"182","video":"13","video_order":"1","condition":"9","preference":"8","popularity":"2","Batch":"P","ID":"13-982-1P","aliases":["13-982-1P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-18-13-982-1-p/","dg-note-properties":{"brand":"Mr.Brog","Model":"18","Stamp nr":"182","video":"13","video_order":"1","condition":"9","preference":"8","popularity":"2","Batch":"P","ID":"13-982-1P","aliases":["13-982-1P"]}}
 ---
 
 

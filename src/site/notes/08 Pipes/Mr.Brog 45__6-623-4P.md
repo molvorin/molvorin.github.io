@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-45-6-623-4-p/","noteIcon":"","dg-note-properties":{"aliases":["6-623-4P"],"brand":"Mr.Brog","Stamp nr":"45","video":"6","video_order":"4","condition":"6","preference":"2","popularity":"3","Batch":"P","ID":"6-623-4P"}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-45-6-623-4-p/","dg-note-properties":{"aliases":["6-623-4P"],"brand":"Mr.Brog","Stamp nr":"45","video":"6","video_order":"4","condition":"6","preference":"2","popularity":"3","Batch":"P","ID":"6-623-4P"}}
 ---
 
 
