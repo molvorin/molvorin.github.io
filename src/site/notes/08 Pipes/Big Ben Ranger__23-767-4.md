@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/big-ben-ranger-23-767-4/","dg-note-properties":{"brand":"Big Ben","Model":"Ranger","Stamp nr":null,"video":"23","condition":"7","preference":"6","popularity":"7","video_order":"4","Batch":"","ID":"23-767-4","aliases":["23-767-4"]}}
+{"dg-publish":true,"permalink":"/08-pipes/big-ben-ranger-23-767-4/","noteIcon":"","dg-note-properties":{"brand":"Big Ben","Model":"Ranger","Stamp nr":null,"video":"23","condition":"7","preference":"6","popularity":"7","video_order":"4","Batch":"","ID":"23-767-4","aliases":["23-767-4"]}}
 ---
 
 

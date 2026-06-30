@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/overviews/all-pipe-i-ds/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/overviews/all-pipe-i-ds/","noteIcon":"","dg-note-properties":{}}
 ---
 
 | File                                                                                                                   | ID        |
@@ -54,8 +54,8 @@
 | [[08 Pipes/Noname 3__7-744-1\|Noname 3__7-744-1]]                                                                   | 7-744-1   |
 | [[08 Pipes/Petersons Killarney 80s__7-292-5K\|Petersons Killarney 80s__7-292-5K]]                                   | 7-292-5K  |
 | [[08 Pipes/Zoie__7-233-2\|Zoie__7-233-2]]                                                                           | 7-233-2   |
-| [[08 Pipes/Clubman 20__8-853-5\|Clubman 20__8-853-5]]                                                               | 8-853-5   |
 | [[08 Pipes/BBB Medina 539__8-876-4\|BBB Medina 539__8-876-4]]                                                       | 8-876-4   |
+| [[08 Pipes/Clubman 20__8-853-5\|Clubman 20__8-853-5]]                                                               | 8-853-5   |
 | [[08 Pipes/Hilston Select 416__8-684-2\|Hilston Select 416__8-684-2]]                                               | 8-684-2   |
 | [[08 Pipes/Nørding 535__8-883-3\|Nørding 535__8-883-3]]                                                             | 8-883-3   |
 | [[08 Pipes/Orlik Deluxe 182__8-766-1\|Orlik Deluxe 182__8-766-1]]                                                   | 8-766-1   |
@@ -64,12 +64,12 @@
 | [[08 Pipes/Havanna__9-633-3\|Havanna__9-633-3]]                                                                     | 9-633-3   |
 | [[08 Pipes/Kriswill Kisan__9-775-1\|Kriswill Kisan__9-775-1]]                                                       | 9-775-1   |
 | [[08 Pipes/Pipemakers 23(145)__9-732-2\|Pipemakers 23(145)__9-732-2]]                                               | 9-732-2   |
+| [[08 Pipes/Clifton Finest Briar__10-777-2D\|Clifton Finest Briar__10-777-2D]]                                       | 10-777-2D |
 | [[08 Pipes/No Name French pipe__10-876-5D\|No Name French pipe__10-876-5D]]                                         | 10-876-5D |
 | [[08 Pipes/No Name Underslung__10-776-4D\|No Name Underslung__10-776-4D]]                                           | 10-776-4D |
 | [[08 Pipes/No Name Vest Pocket__10-986-6D\|No Name Vest Pocket__10-986-6D]]                                         | 10-986-6D |
 | [[08 Pipes/Robin Hood France__10-852-3D\|Robin Hood France__10-852-3D]]                                             | 10-852-3D |
 | [[08 Pipes/Savinelli Kings Cross__10-266-1D\|Savinelli Kings Cross__10-266-1D]]                                     | 10-266-1D |
-| [[08 Pipes/Clifton Finest Briar__10-777-2D\|Clifton Finest Briar__10-777-2D]]                                       | 10-777-2D |
 | [[08 Pipes/Kriswill Golden Klipper__11-745-1P\|Kriswill Golden Klipper__11-745-1P]]                                 | 11-745-1P |
 | [[08 Pipes/Mr.Brog 24 1__11-973-5P\|Mr.Brog 24 1__11-973-5P]]                                                       | 11-973-5P |
 | [[08 Pipes/Mr.Brog 25__11-743-4P\|Mr.Brog 25__11-743-4P]]                                                           | 11-743-4P |
@@ -85,11 +85,11 @@
 | [[08 Pipes/BBB Centenary 1847 - 1947__13-775-4L\|BBB Centenary 1847 - 1947__13-775-4L]]                             | 13-775-4L |
 | [[08 Pipes/HAJ Tulip (?)__13-335-3\|HAJ Tulip (?)__13-335-3]]                                                       | 13-335-3L |
 | [[08 Pipes/Mr.Brog 18__13-982-1P\|Mr.Brog 18__13-982-1P]]                                                           | 13-982-1P |
-| [[08 Pipes/Straight Grain__13-632-1\|Straight Grain__13-632-1]]                                                     | 13-632-1  |
 | [[08 Pipes/Dunham__14-865-5\|Dunham__14-865-5]]                                                                     | 14-865-5  |
 | [[08 Pipes/Lecor__14-323-4\|Lecor__14-323-4]]                                                                       | 14-323-4  |
 | [[08 Pipes/No Name__14-741-2\|No Name__14-741-2]]                                                                   | 14-741-2  |
 | [[08 Pipes/NoName 4__14-741-3\|NoName 4__14-741-3]]                                                                 | 14-741-3  |
+| [[08 Pipes/Straight Grain__14-632-1\|Straight Grain__14-632-1]]                                                     | 14-632-1  |
 | [[08 Pipes/Comoy Guildhall__15-666-4\|Comoy Guildhall__15-666-4]]                                                   | 15-666-4  |
 | [[08 Pipes/Georg Jensen Handmade__15-887-3\|Georg Jensen Handmade__15-887-3]]                                       | 15-887-3  |
 | [[08 Pipes/Lorenzo Erika__15-665-5\|Lorenzo Erika__15-665-5]]                                                       | 15-665-5  |
@@ -164,21 +164,26 @@
 | [[08 Pipes/Lorenzo Elba__29-885-5\|Lorenzo Elba__29-885-5]]                                                         | 29-885-5  |
 | [[08 Pipes/P. Holtorp Wedge__29-888-4\|P. Holtorp Wedge__29-888-4]]                                                 | 29-888-4  |
 | [[08 Pipes/Prince Amled 157__29-867-1\|Prince Amled 157__29-867-1]]                                                 | 29-867-1  |
-| [[08 Pipes/Angelo 1382\|Angelo 1382]]                                                                               | 30-987-1  |
-| [[08 Pipes/Lord 53\|Lord 53]]                                                                                       | 30-986-2  |
 | [[08 Pipes/Absorba 210\|Absorba 210]]                                                                               | 30-998-3  |
-| [[08 Pipes/Royal Danish 50\|Royal Danish 50]]                                                                       | 30-888-4  |
+| [[08 Pipes/Angelo 1382\|Angelo 1382]]                                                                               | 30-987-1  |
 | [[08 Pipes/Jeantet Chambord\|Jeantet Chambord]]                                                                     | 30-775-5F |
-| [[08 Pipes/No Name Rhodesian\|No Name Rhodesian]]                                                                   | 31-884-1  |
+| [[08 Pipes/Lord 53\|Lord 53]]                                                                                       | 30-986-2  |
+| [[08 Pipes/Royal Danish 50\|Royal Danish 50]]                                                                       | 30-888-4  |
 | [[08 Pipes/BBB Classic 652\|BBB Classic 652]]                                                                       | 31-787-2  |
 | [[08 Pipes/Brillon 60\|Brillon 60]]                                                                                 | 31-734-3  |
 | [[08 Pipes/Brillon Populär\|Brillon Populär]]                                                                       | 31-645-4  |
 | [[08 Pipes/Mr. Brog 41\|Mr. Brog 41]]                                                                               | 31-786-5P |
+| [[08 Pipes/No Name Rhodesian\|No Name Rhodesian]]                                                                   | 31-884-1  |
 | [[08 Pipes/Mokin Meerschaum Lined\|Mokin Meerschaum Lined]]                                                         | 32-775-1  |
-| [[08 Pipes/Mrs. Bro 64\|Mrs. Bro 64]]                                                                               | 32-333-2  |
-| [[08 Pipes/Mr. Brog 47 Rusticated\|Mr. Brog 47 Rusticated]]                                                         | 32-161-3P |
 | [[08 Pipes/Mr. Brog 27 Rusticated Liner\|Mr. Brog 27 Rusticated Liner]]                                             | 32-574-4P |
+| [[08 Pipes/Mr. Brog 47 Rusticated\|Mr. Brog 47 Rusticated]]                                                         | 32-161-3P |
+| [[08 Pipes/Mrs. Bro 64\|Mrs. Bro 64]]                                                                               | 32-333-2  |
 | [[08 Pipes/No Name Prince Amlet\|No Name Prince Amlet]]                                                             | 32-775-5  |
+| [[08 Pipes/Acire Spotted Beauty\|Acire Spotted Beauty]]                                                             | 33-683-3  |
+| [[08 Pipes/Cosmos Jupiter 7313\|Cosmos Jupiter 7313]]                                                               | 33-886-1  |
+| [[08 Pipes/No Name Senior\|No Name Senior]]                                                                         | 33-482-4  |
+| [[08 Pipes/No Name Sport Deluxe\|No Name Sport Deluxe]]                                                             | 33-466-5  |
+| [[08 Pipes/White Star Carlo\|White Star Carlo]]                                                                     | 33-886-2  |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/overviews/gallery/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/overviews/gallery/","noteIcon":"","dg-note-properties":{}}
 ---
 
 
@@ -450,7 +450,7 @@
 
 ## Straight Grain
 
-[[08 Pipes/Straight Grain__13-632-1\|Straight Grain]]
+[[08 Pipes/Straight Grain__14-632-1\|Straight Grain]]
 
 ## Stratford
 

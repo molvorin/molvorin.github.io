@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/missouri-meerschaum-cornpipe-7-831-3/","dg-note-properties":{"aliases":["7-831-3"],"brand":"Missouri Meerschaum","video":"7","condition":"8","preference":"3","popularity":"1","video_order":"3","ID":"7-831-3"}}
+{"dg-publish":true,"permalink":"/08-pipes/missouri-meerschaum-cornpipe-7-831-3/","noteIcon":"","dg-note-properties":{"aliases":["7-831-3"],"brand":"Missouri Meerschaum","video":"7","condition":"8","preference":"3","popularity":"1","video_order":"3","ID":"7-831-3"}}
 ---
 
 

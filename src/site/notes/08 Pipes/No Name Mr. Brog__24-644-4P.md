@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-mr-brog-24-644-4-p/","dg-note-properties":{"brand":"Mr.Brog","Model":null,"Stamp nr":null,"video":"24","condition":"6","preference":"4","popularity":"4","video_order":"4","Batch":"P","ID":"24-644-4P","aliases":["24-644-4P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-mr-brog-24-644-4-p/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":null,"Stamp nr":null,"video":"24","condition":"6","preference":"4","popularity":"4","video_order":"4","Batch":"P","ID":"24-644-4P","aliases":["24-644-4P"]}}
 ---
 
 

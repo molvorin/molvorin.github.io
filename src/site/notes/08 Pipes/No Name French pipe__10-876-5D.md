@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-french-pipe-10-876-5-d/","dg-note-properties":{"aliases":["10-876-5D"],"video":"10","condition":"8","preference":"7","popularity":"6","video_order":"5","Batch":"D","ID":"10-876-5D","Model":"French Pipe","brand":null}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-french-pipe-10-876-5-d/","noteIcon":"","dg-note-properties":{"aliases":["10-876-5D"],"video":"10","condition":"8","preference":"7","popularity":"6","video_order":"5","Batch":"D","ID":"10-876-5D","Model":"French Pipe","brand":null}}
 ---
 
 

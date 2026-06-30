@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/royal-danish-50/","dg-note-properties":{"brand":"Royal Danish","Model":50,"Stamp nr":50,"video":"30","condition":"8","preference":"8","popularity":"8","video_order":"4","Batch":"","ID":"30-888-4","aliases":["30-888-4"]}}
+{"dg-publish":true,"permalink":"/08-pipes/royal-danish-50/","noteIcon":"","dg-note-properties":{"brand":"Royal Danish","Model":50,"Stamp nr":50,"video":"30","condition":"8","preference":"8","popularity":"8","video_order":"4","Batch":"","ID":"30-888-4","aliases":["30-888-4"]}}
 ---
 
 

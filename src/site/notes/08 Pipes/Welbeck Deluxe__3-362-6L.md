@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/welbeck-deluxe-3-362-6-l/","dg-note-properties":{"aliases":["3-362-6L"],"brand":"Welbeck","Model":"Deluxe","video":"3","condition":"3","preference":"6","popularity":"2","video_order":"6","Batch":"L","ID":"3-362-6L"}}
+{"dg-publish":true,"permalink":"/08-pipes/welbeck-deluxe-3-362-6-l/","noteIcon":"","dg-note-properties":{"aliases":["3-362-6L"],"brand":"Welbeck","Model":"Deluxe","video":"3","condition":"3","preference":"6","popularity":"2","video_order":"6","Batch":"L","ID":"3-362-6L"}}
 ---
 
 

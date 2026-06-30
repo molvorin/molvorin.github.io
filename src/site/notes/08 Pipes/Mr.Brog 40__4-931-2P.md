@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-40-4-931-2-p/","dg-note-properties":{"aliases":["4-931-2P"],"brand":"Mr.Brog","Stamp nr":"40","Batch":"P","video":"4","video_order":"2","condition":"9","preference":"3","popularity":"1","ID":"4-931-2P"}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-40-4-931-2-p/","noteIcon":"","dg-note-properties":{"aliases":["4-931-2P"],"brand":"Mr.Brog","Stamp nr":"40","Batch":"P","video":"4","video_order":"2","condition":"9","preference":"3","popularity":"1","ID":"4-931-2P"}}
 ---
 
 

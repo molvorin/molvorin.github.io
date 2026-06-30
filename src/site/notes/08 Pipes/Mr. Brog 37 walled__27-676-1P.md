@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-37-walled-27-676-1-p/","dg-note-properties":{"brand":"Mr.Brog","Model":37,"Stamp nr":37,"video":"27","condition":"6","preference":"7","popularity":"6","video_order":"1","Batch":"P","ID":"27-676-1P","aliases":["27-676-1P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-37-walled-27-676-1-p/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":37,"Stamp nr":37,"video":"27","condition":"6","preference":"7","popularity":"6","video_order":"1","Batch":"P","ID":"27-676-1P","aliases":["27-676-1P"]}}
 ---
 
 

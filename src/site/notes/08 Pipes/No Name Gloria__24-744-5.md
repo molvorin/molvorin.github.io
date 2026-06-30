@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-gloria-24-744-5/","dg-note-properties":{"brand":null,"Model":"Gloria","Stamp nr":null,"video":"24","condition":"7","preference":"4","popularity":"4","video_order":"5","Batch":"","ID":"24-744-5","aliases":["24-744-5"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-gloria-24-744-5/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"Gloria","Stamp nr":null,"video":"24","condition":"7","preference":"4","popularity":"4","video_order":"5","Batch":"","ID":"24-744-5","aliases":["24-744-5"]}}
 ---
 
 

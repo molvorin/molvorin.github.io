@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-55-11-863-2-p/","dg-note-properties":{"aliases":["11-863-2P"],"brand":"Mr.Brog","Stamp nr":"55","video":"11","condition":"8","preference":"6","popularity":"3","video_order":"2","Batch":"P","ID":"11-863-2P"}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-55-11-863-2-p/","noteIcon":"","dg-note-properties":{"aliases":["11-863-2P"],"brand":"Mr.Brog","Stamp nr":"55","video":"11","condition":"8","preference":"6","popularity":"3","video_order":"2","Batch":"P","ID":"11-863-2P"}}
 ---
 
 

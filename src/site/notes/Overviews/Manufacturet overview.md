@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/overviews/manufacturet-overview/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/overviews/manufacturet-overview/","noteIcon":"","dg-note-properties":{}}
 ---
 
 # Pipe Collection — By Manufacturer
@@ -7,12 +7,15 @@
 - Absorba: 
     - [[08 Pipes/Absorba 210\|Absorba 210]]
 
+- Acire: 
+    - [[08 Pipes/Acire Spotted Beauty\|Acire Spotted Beauty]]
+
 - Angelo: 
     - [[08 Pipes/Angelo 1382\|Angelo 1382]]
 
 - B&B: 
-    - [[08 Pipes/B&B 020__18-944-2\|B&B 020__18-944-2]]
     - [[08 Pipes/B&B 019__27-965-3\|B&B 019__27-965-3]]
+    - [[08 Pipes/B&B 020__18-944-2\|B&B 020__18-944-2]]
     - [[08 Pipes/B&B 022__21-766-3P\|B&B 022__21-766-3P]]
     - [[08 Pipes/B&B 024__6-861-2P\|B&B 024__6-861-2P]]
     - [[08 Pipes/B&B 037 (2)__13-983-5P\|B&B 037 (2)__13-983-5P]]
@@ -22,11 +25,11 @@
 - BBB: 
     - [[08 Pipes/BBB Best Make__2-377-10L\|BBB Best Make__2-377-10L]]
     - [[08 Pipes/BBB Bulldog Guardsman__1-473-3\|BBB Bulldog Guardsman__1-473-3]]
-    - [[08 Pipes/BBB Christmas 1970 Special make__1-355-9L\|BBB Christmas 1970 Special make__1-355-9L]]
-    - [[08 Pipes/BBB Crusted__20-475-3\|BBB Crusted__20-475-3]]
     - [[08 Pipes/BBB Centenary 1847 - 1947__13-775-4L\|BBB Centenary 1847 - 1947__13-775-4L]]
-    - [[08 Pipes/BBB Medina 539__8-876-4\|BBB Medina 539__8-876-4]]
+    - [[08 Pipes/BBB Christmas 1970 Special make__1-355-9L\|BBB Christmas 1970 Special make__1-355-9L]]
     - [[08 Pipes/BBB Classic 652\|BBB Classic 652]]
+    - [[08 Pipes/BBB Crusted__20-475-3\|BBB Crusted__20-475-3]]
+    - [[08 Pipes/BBB Medina 539__8-876-4\|BBB Medina 539__8-876-4]]
 
 - Bera: 
     - [[08 Pipes/Bera 15__3-775-7\|Bera 15__3-775-7]]
@@ -58,6 +61,7 @@
     - [[08 Pipes/Comoy Guildhall__15-666-4\|Comoy Guildhall__15-666-4]]
 
 - Cosmos: 
+    - [[08 Pipes/Cosmos Jupiter 7313\|Cosmos Jupiter 7313]]
     - [[08 Pipes/Cosmos Mercury 6191__29-865-3\|Cosmos Mercury 6191__29-865-3]]
     - [[08 Pipes/Cosmos Mercury 6419 Bulldog__29-865-2\|Cosmos Mercury 6419 Bulldog__29-865-2]]
     - [[08 Pipes/Cosmos Neptune__12-711-4\|Cosmos Neptune__12-711-4]]
@@ -98,6 +102,9 @@
     - [[08 Pipes/Graco Deluxe__9-686-4\|Graco Deluxe__9-686-4]]
     - [[08 Pipes/Graco Elite 275__2-343-4L\|Graco Elite 275__2-343-4L]]
 
+- Haandarbejde: 
+    - [[08 Pipes/Haandarbejde__1-662-5\|Haandarbejde__1-662-5]]
+
 - HAJ: 
     - [[08 Pipes/HAJ Tulip (?)__13-335-3\|HAJ Tulip (?)__13-335-3]]
     - [[08 Pipes/HAJ__3-787-10\|HAJ__3-787-10]]
@@ -108,14 +115,11 @@
 - Hilston: 
     - [[08 Pipes/Hilston Select 416__8-684-2\|Hilston Select 416__8-684-2]]
 
-- Haandarbejde: 
-    - [[08 Pipes/Haandarbejde__1-662-5\|Haandarbejde__1-662-5]]
-
 - Jeantet: 
+    - [[08 Pipes/Jeantet Chambord\|Jeantet Chambord]]
     - [[08 Pipes/Jeantet Preference P-69__3-212-5L\|Jeantet Preference P-69__3-212-5L]]
     - [[08 Pipes/Jeantet Preference P.88__3-793-2L\|Jeantet Preference P.88__3-793-2L]]
     - [[08 Pipes/Jeantet Preference P46__1-672-1\|Jeantet Preference P46__1-672-1]]
-    - [[08 Pipes/Jeantet Chambord\|Jeantet Chambord]]
 
 - Kaywoodie: 
     - [[08 Pipes/Kaywoodie Super Grain 5191__2-884-5L\|Kaywoodie Super Grain 5191__2-884-5L]]
@@ -160,6 +164,7 @@
     - [[08 Pipes/Mr. Brog 26__21-556-5P\|Mr. Brog 26__21-556-5P]]
     - [[08 Pipes/Mr. Brog 27 1__28-764-1P\|Mr. Brog 27 1__28-764-1P]]
     - [[08 Pipes/Mr. Brog 27 Old Style__28-664-2P\|Mr. Brog 27 Old Style__28-664-2P]]
+    - [[08 Pipes/Mr. Brog 27 Rusticated Liner\|Mr. Brog 27 Rusticated Liner]]
     - [[08 Pipes/Mr. Brog 27 Rusticated__21-876-4P\|Mr. Brog 27 Rusticated__21-876-4P]]
     - [[08 Pipes/Mr. Brog 27__21-675-1P\|Mr. Brog 27__21-675-1P]]
     - [[08 Pipes/Mr. Brog 33 burned__27-886-4P\|Mr. Brog 33 burned__27-886-4P]]
@@ -167,7 +172,9 @@
     - [[08 Pipes/Mr. Brog 35 alt__21-854-2P\|Mr. Brog 35 alt__21-854-2P]]
     - [[08 Pipes/Mr. Brog 35 line__27-645-2P\|Mr. Brog 35 line__27-645-2P]]
     - [[08 Pipes/Mr. Brog 37 walled__27-676-1P\|Mr. Brog 37 walled__27-676-1P]]
+    - [[08 Pipes/Mr. Brog 41\|Mr. Brog 41]]
     - [[08 Pipes/Mr. Brog 47 Dark__24-965-1P\|Mr. Brog 47 Dark__24-965-1P]]
+    - [[08 Pipes/Mr. Brog 47 Rusticated\|Mr. Brog 47 Rusticated]]
     - [[08 Pipes/Mr. Brog 47 Twin__28-743-4P\|Mr. Brog 47 Twin__28-743-4P]]
     - [[08 Pipes/Mr. Brog 47 loose__28-543-3P\|Mr. Brog 47 loose__28-543-3P]]
     - [[08 Pipes/Mr.Brog 18__13-982-1P\|Mr.Brog 18__13-982-1P]]
@@ -179,14 +186,11 @@
     - [[08 Pipes/Mr.Brog 35 chew__4-242-5P\|Mr.Brog 35 chew__4-242-5P]]
     - [[08 Pipes/Mr.Brog 40__4-931-2P\|Mr.Brog 40__4-931-2P]]
     - [[08 Pipes/Mr.Brog 41 1__6-983-3P\|Mr.Brog 41 1__6-983-3P]]
-    - [[08 Pipes/Mr.Brog 41__4-873-3P\|Mr.Brog 41__4-873-3P]]
     - [[08 Pipes/Mr.Brog 45__6-623-4P\|Mr.Brog 45__6-623-4P]]
+    - [[08 Pipes/Mr.Brog 41__4-873-3P\|Mr.Brog 41__4-873-3P]]
     - [[08 Pipes/Mr.Brog 47 cracked__4-322-4P\|Mr.Brog 47 cracked__4-322-4P]]
     - [[08 Pipes/Mr.Brog 55__11-863-2P\|Mr.Brog 55__11-863-2P]]
     - [[08 Pipes/No Name Mr. Brog__24-644-4P\|No Name Mr. Brog__24-644-4P]]
-    - [[08 Pipes/Mr. Brog 47 Rusticated\|Mr. Brog 47 Rusticated]]
-    - [[08 Pipes/Mr. Brog 27 Rusticated Liner\|Mr. Brog 27 Rusticated Liner]]
-    - [[08 Pipes/Mr. Brog 41\|Mr. Brog 41]]
 
 - Mrs. Bro: 
     - [[08 Pipes/Mrs. Bro 64\|Mrs. Bro 64]]
@@ -246,7 +250,7 @@
     - [[08 Pipes/Stanwell Selected Briar 90__22-765-4\|Stanwell Selected Briar 90__22-765-4]]
 
 - Straight Grain: 
-    - [[08 Pipes/Straight Grain__13-632-1\|Straight Grain__13-632-1]]
+    - [[08 Pipes/Straight Grain__14-632-1\|Straight Grain__14-632-1]]
 
 - Stratford: 
     - [[08 Pipes/Stratford Deluxe 50__2-733-1L\|Stratford Deluxe 50__2-733-1L]]
@@ -267,6 +271,7 @@
 
 - White Star: 
     - [[08 Pipes/White Star Ancona 623__1-873-4\|White Star Ancona 623__1-873-4]]
+    - [[08 Pipes/White Star Carlo\|White Star Carlo]]
     - [[08 Pipes/White Star Genuine Leather__5-674-5\|White Star Genuine Leather__5-674-5]]
 
 - Zoie: 
@@ -294,7 +299,9 @@
 - [[08 Pipes/No Name Prince Amlet\|No Name Prince Amlet]]: [[08 Pipes/No Name Prince Amlet\|No Name Prince Amlet]]
 - [[08 Pipes/No Name Rhodesian\|No Name Rhodesian]]: [[08 Pipes/No Name Rhodesian\|No Name Rhodesian]]
 - [[08 Pipes/No Name Ripple Grain__20-734-4\|No Name Ripple Grain__20-734-4]]: [[08 Pipes/No Name Ripple Grain__20-734-4\|No Name Ripple Grain__20-734-4]]
+- [[08 Pipes/No Name Senior\|No Name Senior]]: [[08 Pipes/No Name Senior\|No Name Senior]]
 - [[08 Pipes/No Name SIX Briar__26-313-4\|No Name SIX Briar__26-313-4]]: [[08 Pipes/No Name SIX Briar__26-313-4\|No Name SIX Briar__26-313-4]]
+- [[08 Pipes/No Name Sport Deluxe\|No Name Sport Deluxe]]: [[08 Pipes/No Name Sport Deluxe\|No Name Sport Deluxe]]
 - [[08 Pipes/No Name Squared Ropp__16-434-3\|No Name Squared Ropp__16-434-3]]: [[08 Pipes/No Name Squared Ropp__16-434-3\|No Name Squared Ropp__16-434-3]]
 - [[08 Pipes/No Name Tall Bowl__23-645-2\|No Name Tall Bowl__23-645-2]]: [[08 Pipes/No Name Tall Bowl__23-645-2\|No Name Tall Bowl__23-645-2]]
 - [[08 Pipes/No Name Underslung__10-776-4D\|No Name Underslung__10-776-4D]]: [[08 Pipes/No Name Underslung__10-776-4D\|No Name Underslung__10-776-4D]]

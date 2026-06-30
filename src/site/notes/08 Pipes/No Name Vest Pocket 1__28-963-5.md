@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-vest-pocket-1-28-963-5/","dg-note-properties":{"brand":null,"Model":"Vest Pocket","Stamp nr":null,"video":"28","condition":"9","preference":"6","popularity":"3","video_order":"5","Batch":"","ID":"28-963-5","aliases":["28-963-5"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-vest-pocket-1-28-963-5/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"Vest Pocket","Stamp nr":null,"video":"28","condition":"9","preference":"6","popularity":"3","video_order":"5","Batch":"","ID":"28-963-5","aliases":["28-963-5"]}}
 ---
 
 

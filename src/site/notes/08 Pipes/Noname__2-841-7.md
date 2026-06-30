@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/noname-2-841-7/","dg-note-properties":{"aliases":["2-841-7L"],"video":"2","video_order":"7","brand":null,"condition":"8","preference":"4","popularity":"1","ID":"2-841-7L","Batch":"L"}}
+{"dg-publish":true,"permalink":"/08-pipes/noname-2-841-7/","noteIcon":"","dg-note-properties":{"aliases":["2-841-7L"],"video":"2","video_order":"7","brand":null,"condition":"8","preference":"4","popularity":"1","ID":"2-841-7L","Batch":"L"}}
 ---
 
 

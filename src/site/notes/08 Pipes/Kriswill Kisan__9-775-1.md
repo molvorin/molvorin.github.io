@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/kriswill-kisan-9-775-1/","dg-note-properties":{"aliases":["9-775-1"],"brand":"Kriswill","Model":"Kisan","video":"9","video_order":"1","condition":"7","preference":"7","popularity":"5","ID":"9-775-1"}}
+{"dg-publish":true,"permalink":"/08-pipes/kriswill-kisan-9-775-1/","noteIcon":"","dg-note-properties":{"aliases":["9-775-1"],"brand":"Kriswill","Model":"Kisan","video":"9","video_order":"1","condition":"7","preference":"7","popularity":"5","ID":"9-775-1"}}
 ---
 
 

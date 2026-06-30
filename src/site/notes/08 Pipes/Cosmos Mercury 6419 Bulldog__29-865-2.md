@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/cosmos-mercury-6419-bulldog-29-865-2/","dg-note-properties":{"brand":"Cosmos","Model":"Mercury 6419","Stamp nr":6419,"video":"29","condition":"8","preference":"6","popularity":"5","video_order":"2","Batch":"","ID":"29-865-2","aliases":["29-865-2"]}}
+{"dg-publish":true,"permalink":"/08-pipes/cosmos-mercury-6419-bulldog-29-865-2/","noteIcon":"","dg-note-properties":{"brand":"Cosmos","Model":"Mercury 6419","Stamp nr":6419,"video":"29","condition":"8","preference":"6","popularity":"5","video_order":"2","Batch":"","ID":"29-865-2","aliases":["29-865-2"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/jeantet-chambord/","dg-note-properties":{"brand":"Jeantet","Model":"Chambord","Stamp nr":null,"video":"30","condition":"7","preference":"7","popularity":"5","video_order":"5","Batch":"F","ID":"30-775-5F","aliases":["30-775-5F"]}}
+{"dg-publish":true,"permalink":"/08-pipes/jeantet-chambord/","noteIcon":"","dg-note-properties":{"brand":"Jeantet","Model":"Chambord","Stamp nr":null,"video":"30","condition":"7","preference":"7","popularity":"5","video_order":"5","Batch":"F","ID":"30-775-5F","aliases":["30-775-5F"]}}
 ---
 
 

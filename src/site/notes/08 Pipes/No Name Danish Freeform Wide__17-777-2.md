@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-danish-freeform-wide-17-777-2/","dg-note-properties":{"brand":null,"Model":"Danish Freeform Wide","Stamp nr":null,"video":"17","condition":"7","preference":"7","popularity":"7","video_order":"2","Batch":"","ID":"17-777-2","aliases":["17-777-2"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-danish-freeform-wide-17-777-2/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"Danish Freeform Wide","Stamp nr":null,"video":"17","condition":"7","preference":"7","popularity":"7","video_order":"2","Batch":"","ID":"17-777-2","aliases":["17-777-2"]}}
 ---
 
 

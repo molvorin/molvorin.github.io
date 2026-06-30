@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videos/pipe-rundowns/pipe-rundown-14/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/videos/pipe-rundowns/pipe-rundown-14/","noteIcon":"","dg-note-properties":{}}
 ---
 
 <div class="youtube-embed"><iframe src="https://www.youtube.com/embed/i_6hqizr8Hs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -15,12 +15,12 @@ This video examines five estate pipes ranging from anonymous basket pipes and he
 - [[08 Pipes/Lecor__14-323-4\|Lecor__14-323-4]]
 - [[08 Pipes/No Name__14-741-2\|No Name__14-741-2]]
 - [[08 Pipes/NoName 4__14-741-3\|NoName 4__14-741-3]]
-- [[08 Pipes/Straight Grain__13-632-1\|Straight Grain__13-632-1]]
+- [[08 Pipes/Straight Grain__14-632-1\|Straight Grain__14-632-1]]
 
 
 | # | Pipe                                                                          |
 | - | ----------------------------------------------------------------------------- |
-| 1 | [[08 Pipes/Straight Grain__13-632-1\|Straight Grain__13-632-1 (13-632-1)]] |
+| 1 | [[08 Pipes/Straight Grain__14-632-1\|Straight Grain__14-632-1 (14-632-1)]] |
 | 2 | [[08 Pipes/No Name__14-741-2\|No Name__14-741-2 (14-741-2)]]               |
 | 3 | [[08 Pipes/NoName 4__14-741-3\|NoName 4__14-741-3 (14-741-3)]]             |
 | 4 | [[08 Pipes/Lecor__14-323-4\|Lecor__14-323-4 (14-323-4)]]                   |

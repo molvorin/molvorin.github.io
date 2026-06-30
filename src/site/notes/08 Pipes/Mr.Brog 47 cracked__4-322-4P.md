@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-47-cracked-4-322-4-p/","dg-note-properties":{"aliases":["4-322-4P"],"brand":"Mr.Brog","Stamp nr":"47","video":"4","video_order":"4","condition":"3","preference":"2","popularity":"2","Batch":"P","ID":"4-322-4P"}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-47-cracked-4-322-4-p/","noteIcon":"","dg-note-properties":{"aliases":["4-322-4P"],"brand":"Mr.Brog","Stamp nr":"47","video":"4","video_order":"4","condition":"3","preference":"2","popularity":"2","Batch":"P","ID":"4-322-4P"}}
 ---
 
 
