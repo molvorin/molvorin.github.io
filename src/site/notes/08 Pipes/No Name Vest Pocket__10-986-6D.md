@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/10-986-6D.png\|500](/img/user/Attachments%20and%20files/10-986-6D.png)
+![Attachments and files/10-986-6D.png\|500](/img/user/Backroom/Attachments%20and%20files/10-986-6D.png)
 
 A compact folding “vest pocket” pipe designed specifically for portability and discreet carry. The pipe folds into itself to protect the stem and reduce overall size, allowing it to fit easily into a pocket or travel kit. Appearing largely unsmoked and exceptionally well preserved, it retains much of its original finish and factory carbon coating. While simple in construction, the ingenious folding mechanism and practical design make it an appealing example of travel-oriented pipe engineering and a charming collectible in its own right.
 

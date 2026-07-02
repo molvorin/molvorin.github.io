@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/1-753-6L.png\|500](/img/user/Attachments%20and%20files/1-753-6L.png)
+![Attachments and files/1-753-6L.png\|500](/img/user/Backroom/Attachments%20and%20files/1-753-6L.png)
 
 Elegant, slim pipe. Some scratches, no serial number visible. Not a brand I'm familiar with. Mouthpiece slightly tight. Overall in decent shape but not a personal favourite.
 

@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/10-776-4D.png\|500](/img/user/Attachments%20and%20files/10-776-4D.png)
+![Attachments and files/10-776-4D.png\|500](/img/user/Backroom/Attachments%20and%20files/10-776-4D.png)
 
 A substantial unmarked briar pipe with an unusual construction and highly distinctive appearance. The pipe is considerably larger than expected, featuring a heavy build, broad chamber area, and unconventional shaping that raises questions about how the bowl and airway were originally engineered. The stem shows signs of wear and requires restoration, while the chamber itself warrants careful inspection before use. Its unusual form, lack of identifying marks, and unconventional internal design make it one of the more intriguing mystery pipes likely to reward further investigation and restoration
 

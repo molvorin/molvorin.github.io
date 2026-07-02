@@ -7,7 +7,7 @@
 
 
 ## Description
-![Attachments and files/21-556-5p.png\|500](/img/user/Attachments%20and%20files/21-556-5p.png)
+![Attachments and files/21-556-5p.png\|500](/img/user/Backroom/Attachments%20and%20files/21-556-5p.png)
 
 A distinctive pipe featuring a decorative metal ring and an unusual chamber design where the draft hole descends into the lower section of the bowl. The shape is unconventional and visually striking. Although cracks and loose fittings affect the condition, the engineering makes it an interesting piece for further study and restoration.
 

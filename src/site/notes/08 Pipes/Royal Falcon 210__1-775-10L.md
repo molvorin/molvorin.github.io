@@ -6,7 +6,7 @@
 ## Description
 
 
-![Attachments and files/1-775-10L.png\|500](/img/user/Attachments%20and%20files/1-775-10L.png)
+![Attachments and files/1-775-10L.png\|500](/img/user/Backroom/Attachments%20and%20files/1-775-10L.png)
 Short, compact pipe with no bite marks. Thick cake with mold inside, mouthpiece very tight. A possible old fill or repair is visible on the bowl exterior. I like the short format and would consider using it once restored.
 
 # Features in videos

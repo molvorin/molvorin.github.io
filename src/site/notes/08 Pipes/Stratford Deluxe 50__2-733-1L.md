@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/2-733-1L.png\|500](/img/user/Attachments%20and%20files/2-733-1L.png)
+![Attachments and files/2-733-1L.png\|500](/img/user/Backroom/Attachments%20and%20files/2-733-1L.png)
 Billiard shape, quite dark wood. Some scratches on the top, one deeper one that may be hard to fully remove. Possible filling visible. Mouthpiece is worn but no tooth marks — possibly bone. Not a brand I'm familiar with yet. A pipe I don't particularly love, but it's not ugly either.
 
 ## Features in Videos

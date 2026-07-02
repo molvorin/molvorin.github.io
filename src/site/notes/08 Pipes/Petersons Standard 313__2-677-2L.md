@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/2-677-2L.png\|500](/img/user/Attachments%20and%20files/2-677-2L.png)
+![Attachments and files/2-677-2L.png\|500](/img/user/Backroom/Attachments%20and%20files/2-677-2L.png)
 A well-known brand. Peterson's System pipes have a moisture-collecting chamber in the shank, making them easier to smoke dry. This one is dirty but has no holes or serious defects — just needs a thorough clean. P-lip bit mouthpiece. A pipe I'd keep, though I'll hold off on restoring it until I have more experience.
 
 ## Features in Videos

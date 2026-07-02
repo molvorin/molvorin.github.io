@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/4-873-3P.png\|500](/img/user/Attachments%20and%20files/4-873-3P.png)
+![Attachments and files/4-873-3P.png\|500](/img/user/Backroom/Attachments%20and%20files/4-873-3P.png)
 
 Another Mr. Brog from the Polish batch, this one more used than the 40. Dark, cold brown colour with no visible wood grain. Mouthpiece is slightly loose with a small gap and feels almost rubbery. Asymmetric stem with a deeper cut on the underside. Has a dirty filter inside. A shape and colour I actually quite like — could become a favourite smoker.
 ## Features in Videos

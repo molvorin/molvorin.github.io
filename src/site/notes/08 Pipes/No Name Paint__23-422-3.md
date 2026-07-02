@@ -7,7 +7,7 @@
 
 
 ## Description
-![Attachments and files/23-422-3.png\|500](/img/user/Attachments%20and%20files/23-422-3.png)
+![Attachments and files/23-422-3.png\|500](/img/user/Backroom/Attachments%20and%20files/23-422-3.png)
 
 A simple basket-style pipe showing signs of heavy use, paint marks, and a thick varnished finish. The shape is practical and functional, though the pipe would benefit greatly from cleaning and refinishing. It serves as a useful restoration candidate rather than a standout collector's piece.
 

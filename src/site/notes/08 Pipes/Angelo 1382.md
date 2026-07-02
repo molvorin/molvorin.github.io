@@ -5,7 +5,7 @@
 
 ## Description
 
-![Attachments and files/30-987-1.png\|500](/img/user/Attachments%20and%20files/30-987-1.png)
+![Attachments and files/30-987-1.png\|500](/img/user/Backroom/Attachments%20and%20files/30-987-1.png)
 
 
 An unusually shaped Angelo 1382 with a flat-bottomed bowl that allows it to stand upright. The pipe displays attractive grain, excellent restoration work, and a near-pristine chamber with a fresh carbon coating. Although the exact shape is difficult to classify, its comfortable feel in the hand, substantial weight, and distinctive appearance make it one of the highlights of the batch.

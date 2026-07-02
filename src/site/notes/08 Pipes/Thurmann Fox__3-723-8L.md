@@ -6,7 +6,7 @@
 # Thurmann Fox
 
 ## Description
-![Attachments and files/3-723-8L.png\|500](/img/user/Attachments%20and%20files/3-723-8L.png)
+![Attachments and files/3-723-8L.png\|500](/img/user/Backroom/Attachments%20and%20files/3-723-8L.png)
 
 A rusticated Danish handmade pipe with ridges running along the bowl. Unusual organic mouthpiece shape — pointed tip, elongated lower section. Very worn stamp, mostly illegible, but reads "Thurman Fox, Handmade Denmark." Need to research the maker before working on it to avoid erasing the markings. Not personally my style, but could be valuable — will look into it.
 ## Features in Videos

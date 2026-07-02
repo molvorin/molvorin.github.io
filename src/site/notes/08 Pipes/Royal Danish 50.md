@@ -5,7 +5,7 @@
 
 ## Description
 
-![Attachments and files/30-888-4.png\|500](/img/user/Attachments%20and%20files/30-888-4.png)
+![Attachments and files/30-888-4.png\|500](/img/user/Backroom/Attachments%20and%20files/30-888-4.png)
 A Danish-made Royal Danish 50 with a long Canadian-style profile, attractive birdseye grain, and thick bowl walls. The restoration has left the chamber exceptionally clean, though some of the original stamping has become faint. Its understated elegance and solid construction make it an appealing everyday smoker with broad collector appeal.
 
 ## Features in Videos

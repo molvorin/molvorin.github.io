@@ -6,7 +6,7 @@
 # No Name Plastic
 
 ## Description
-![Attachments and files/16-434-4.png\|500](/img/user/Attachments%20and%20files/16-434-4.png)
+![Attachments and files/16-434-4.png\|500](/img/user/Backroom/Attachments%20and%20files/16-434-4.png)
 
 A highly unusual pipe constructed primarily from blue-tinted plastic rather than traditional briar. The pipe appears virtually unsmoked and remains in exceptionally clean condition, featuring a threaded assembly that allows the stem and bowl section to be screwed together. Its purpose and intended use are unclear, as the quality of construction exceeds that typically associated with novelty items, yet its material makes it stand apart from conventional smoking pipes.
 

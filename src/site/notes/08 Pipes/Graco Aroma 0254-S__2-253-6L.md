@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/2-253-6L.png\|500](/img/user/Attachments%20and%20files/2-253-6L.png)
+![Attachments and files/2-253-6L.png\|500](/img/user/Backroom/Attachments%20and%20files/2-253-6L.png)
 Cracked mouthpiece, which puts the condition down considerably. Very thick cake inside and heavy build-up. Some scratches on the bowl exterior but no cracks in the wood itself. Interesting grain — might look great with a warmer stain. Another Graco, so part of a numbering system worth investigating.
 
 ## Features in Videos

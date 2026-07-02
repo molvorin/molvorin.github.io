@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/13-982-1P.png\|500](/img/user/Attachments%20and%20files/13-982-1P.png)
+![Attachments and files/13-982-1P.png\|500](/img/user/Backroom/Attachments%20and%20files/13-982-1P.png)
 
 A compact and unsmoked Mr. Brog No. 18 featuring a distinctive circular ridge around the bowl and a remarkably clean overall condition. The pipe combines modest proportions with a practical, lightweight design that makes it especially approachable as an everyday smoker. Minor storage marks are present but require little attention, preserving the pipe’s factory-fresh appearance. Its compact size and understated styling give it a charm that stands apart from many larger examples in the Mr. Brog range.
 

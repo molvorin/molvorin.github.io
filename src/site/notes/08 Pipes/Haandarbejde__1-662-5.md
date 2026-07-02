@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/1-662-5L.png\|500](/img/user/Attachments%20and%20files/1-662-5L.png)
+![Attachments and files/1-662-5L.png\|500](/img/user/Backroom/Attachments%20and%20files/1-662-5L.png)
 
 Billiard shape. Very dirty inside with thick cake build-up. Mouthpiece stuck tight — considering the freezer trick to loosen it. Brand stamp unclear. It seems to say Haandarbejde
 

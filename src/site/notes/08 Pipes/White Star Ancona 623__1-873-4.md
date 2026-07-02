@@ -6,7 +6,7 @@
 # White Star Ancona 623
 
 ## Description
-![Attachments and files/1-873-4.png\|500](/img/user/Attachments%20and%20files/1-873-4.png)
+![Attachments and files/1-873-4.png\|500](/img/user/Backroom/Attachments%20and%20files/1-873-4.png)
 
 Appears to be a newer pipe. Clean exterior, slightly tight mouthpiece join, some scratches on the metal. Inside needs cleaning but otherwise in good shape. Easy to smoke — white star pipes generally are.
 

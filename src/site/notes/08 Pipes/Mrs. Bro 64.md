@@ -4,7 +4,7 @@
 
 
 ## Description
-![Attachments and files/32-333-2.png\|500](/img/user/Attachments%20and%20files/32-333-2.png)
+![Attachments and files/32-333-2.png\|500](/img/user/Backroom/Attachments%20and%20files/32-333-2.png)
 
 A mystery pipe stamped MRS·BRO 64 and marked real briar, with origins the owner can no longer recall. The stem does not sit quite right and appears to have been repaired: a stinger seems to have broken off and the join was filed down too aggressively, leaving an edge between the shank and stem that could potentially be rebuilt with epoxy and resanded. It has a round shank that opens up and narrows toward the chamber rim, with heavy walls. The chamber is very packed and needs significant cleaning. A pipe that could come alive once restored, but in its current state it sits low. Worth researching the MRS·BRO stamp.
 

@@ -9,7 +9,7 @@
 ## Description
 
 
-![Attachments and files/18-887-4.png\|500](/img/user/Attachments%20and%20files/18-887-4.png)
+![Attachments and files/18-887-4.png\|500](/img/user/Backroom/Attachments%20and%20files/18-887-4.png)
 A Savinelli Brupa 603 displaying attractive grain patterns, birdseye, and the quality engineering typically associated with the Italian maker. The pipe remains in excellent estate condition with a comfortable stem and open draw. Minor discoloration and small fills are present but do little to detract from the overall impression. An appealing pipe that requires no restoration beyond normal cleaning and maintenance.
 
 ## Features in Videos

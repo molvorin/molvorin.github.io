@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/3-943-4L.png\|500](/img/user/Attachments%20and%20files/3-943-4L.png)
+![Attachments and files/3-943-4L.png\|500](/img/user/Backroom/Attachments%20and%20files/3-943-4L.png)
 
 A novelty or tourist pipe with what appears to have real horn pieces embedded. Small bowl, compact size. Stamp reads "Real Briar, Made in Italy" with no brand name. There's a visible filling on the bowl. In surprisingly good condition — barely needs cleaning. A fun, unusual piece I wouldn't easily part with despite it not being a serious smoker.
 ## Features in Videos

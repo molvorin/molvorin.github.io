@@ -9,7 +9,7 @@
 ## Description
 
 
-![Attachments and files/19-978-4.png\|500](/img/user/Attachments%20and%20files/19-978-4.png)
+![Attachments and files/19-978-4.png\|500](/img/user/Backroom/Attachments%20and%20files/19-978-4.png)
 A long-shanked rusticated pipe fitted with an attractive acrylic stem featuring flowing brown and black tones. The finish is exceptionally well preserved and the overall presentation remains striking. An elegant pipe often associated with collectors due to its distinctive proportions and recognizable design.
 
 ## Features in Videos

@@ -9,7 +9,7 @@
 ## Description
 
 
-![Attachments and files/20-576-1.png\|500](/img/user/Attachments%20and%20files/20-576-1.png)
+![Attachments and files/20-576-1.png\|500](/img/user/Backroom/Attachments%20and%20files/20-576-1.png)
 A traditional billiard-style pipe with a slim tapered stem and substantial chamber. The pipe shows signs of heavy use, including chamber buildup and stem wear, but remains structurally sound. Its classic proportions and comfortable shape make it a promising restoration candidate.
 
 ## Features in Videos

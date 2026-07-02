@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/5-000-2.png\|500](/img/user/Attachments%20and%20files/5-000-2.png)
+![Attachments and files/5-000-2.png\|500](/img/user/Backroom/Attachments%20and%20files/5-000-2.png)
 This Georg Jensen pipe is in extremely rough condition and is probably beyond restoration. The stem has broken in half, the bowl appears crudely cut down and the shank seems to be cut down and reinforced with a band. The interior of the bowl is filthy. At this point, it feels more like a damaged pipe head than a usable pipe. I do not believe it has much value left as a smoking pipe, though it could still be useful for experimenting with sanding, coloring, or repair techniques. This ended up being the lowest-rated pipe in this video and one of the most disappointing finds so far
 
 ## Features in Videos

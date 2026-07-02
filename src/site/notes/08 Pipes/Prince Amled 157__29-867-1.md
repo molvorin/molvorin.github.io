@@ -5,7 +5,7 @@
 
 # Prince Amled 157
 
-![29-1done.png](/img/user/Backroom/Attachments%20and%20files/29-1done.png)
+![[29-1done.png\|29-1done.png]]
 ## Description
 
 A Danish-made Prince Amled pickaxe featuring a dramatic keel-like profile and attractive grain. The pipe shows only minor rim darkening and remains in very good condition for its age. While it is not a favorite smoker, its handmade appearance, distinctive shaping, and visual appeal make it one of the more memorable pipes in the collection.

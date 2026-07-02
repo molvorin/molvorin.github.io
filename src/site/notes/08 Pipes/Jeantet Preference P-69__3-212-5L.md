@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/3-212-5L.png\|500](/img/user/Attachments%20and%20files/3-212-5L.png)
+![Attachments and files/3-212-5L.png\|500](/img/user/Backroom/Attachments%20and%20files/3-212-5L.png)
 A second Jeantet Preference, but in much worse shape than pipe 2. Mouthpiece heavily chewed and unevenly worn — possibly sanded down at some point. A crack runs through the bowl as well. Heavy cake and very dirty inside. A shame given the nice wood grain. May be used as an experimental pipe rather than a proper restoration.
 ## Features in Videos
 

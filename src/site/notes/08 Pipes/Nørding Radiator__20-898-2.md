@@ -7,8 +7,8 @@
 
 
 ## Description
-![Attachments and files/20-898-2.png\|500](/img/user/Attachments%20and%20files/20-898-2.png)
-![Attachments and files/20-898-2+a.png\|500](/img/user/Attachments%20and%20files/20-898-2+a.png)
+![Attachments and files/20-898-2.png\|500](/img/user/Backroom/Attachments%20and%20files/20-898-2.png)
+![Attachments and files/20-898-2+a.png\|500](/img/user/Backroom/Attachments%20and%20files/20-898-2+a.png)
 
 A handmade Danish pipe distinguished by the cooling grooves carved around the bowl. The design combines functional engineering with organic Scandinavian styling and remains in excellent condition. The pipe stands out as a unique example of Erik Nørding's creative approach to pipe making.
 

@@ -5,7 +5,7 @@
 
 ## Description
 
-![Attachments and files/30-775-5F.png\|500](/img/user/Attachments%20and%20files/30-775-5F.png)
+![Attachments and files/30-775-5F.png\|500](/img/user/Backroom/Attachments%20and%20files/30-775-5F.png)
 A French-made Jeantet Chambord acquired through eBay as part of a recent purchase from France. The pipe retains its original stinger and shows only moderate cosmetic wear, with the chamber already well restored and requiring little additional work. Its distinctive shaping, angled drilling, and classic French styling make it an interesting addition to the collection despite not matching the overall quality of the other pipes in the episode.
 
 ## Features in Videos

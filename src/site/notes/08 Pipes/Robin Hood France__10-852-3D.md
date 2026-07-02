@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/10-852-3D.png\|500](/img/user/Attachments%20and%20files/10-852-3D.png)
+![Attachments and files/10-852-3D.png\|500](/img/user/Backroom/Attachments%20and%20files/10-852-3D.png)
 
 A French-made Robin Hood pipe with a classic bent profile and attractive flowing grain patterns across the bowl. The pipe requires a thorough internal cleaning and minor stem adjustments due to looseness, but otherwise appears straightforward to restore. The bowl proportions and gentle bend create a comfortable, traditional silhouette, while the grain remains one of the pipe’s stronger visual features. With relatively modest restoration work, the pipe has the potential to become a very appealing everyday smoker.
 

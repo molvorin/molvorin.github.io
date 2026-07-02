@@ -5,7 +5,7 @@
 
 # Mr. Brog 27 Old Style
 
-![28-2done.png](/img/user/Backroom/Attachments%20and%20files/28-2done.png)
+![[28-2done.png\|28-2done.png]]
 ## Description
 
 An older-looking Mr. Brog 27 featuring a different shape and stem style than the previous example despite sharing the same model number. The pipe has a crack near the transition between bowl and shank and a heavily worn mouthpiece that will likely require replacement. Although less attractive than the first 27, it remains a good illustration of how production variations can occur within the same model designation.

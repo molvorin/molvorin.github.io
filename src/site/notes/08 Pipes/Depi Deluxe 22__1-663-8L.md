@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/1-663-8L.png\|500](/img/user/Attachments%20and%20files/1-663-8L.png)
+![Attachments and files/1-663-8L.png\|500](/img/user/Backroom/Attachments%20and%20files/1-663-8L.png)
 
 Transparent acrylic mouthpiece with a tooth mark and an unusual slot/hole shape — possibly broken. Some mold present and discolouration near the bowl. Interior dirty but no heavy cake.
 

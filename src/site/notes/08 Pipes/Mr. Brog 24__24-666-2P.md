@@ -9,7 +9,7 @@
 ## Description
 
 
-![Attachments and files/24-666-2P.png\|500](/img/user/Attachments%20and%20files/24-666-2P.png)
+![Attachments and files/24-666-2P.png\|500](/img/user/Backroom/Attachments%20and%20files/24-666-2P.png)
 
 A rounded Mr. Brog shape with a warm finish and comfortable proportions. The pipe shows evidence of use, including wear around the bowl and a loose decorative ring, but remains structurally sound. Its shape balances a large chamber with an elegant profile.
 

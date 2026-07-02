@@ -4,7 +4,7 @@
 
 
 ## Description
-![Attachments and files/32-775-5.png\|500](/img/user/Attachments%20and%20files/32-775-5.png)
+![Attachments and files/32-775-5.png\|500](/img/user/Backroom/Attachments%20and%20files/32-775-5.png)
 
 A clean, unstamped pipe bought here in Denmark that strongly resembles a Prince Amlet, with a similar ridge at the bottom that continues across to the stem, suggesting handmade or artisan work. It appears someone has rusticated or sandblasted a previously smooth pipe; the finish is a little disappointing but the shaping is elegant, with the angles of the shank carrying into the stem. Completely clean inside, though the mouthpiece needs cleaning as it tastes terrible. Recorded as a no-name for now, with Prince Amlet as a strong possibility pending confirmation. A striking shape that grew on the owner the longer it was examined.
 

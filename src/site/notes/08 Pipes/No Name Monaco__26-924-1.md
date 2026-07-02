@@ -5,7 +5,7 @@
 
 # No Name Monaco
 
-![26-1done.png](/img/user/Backroom/Attachments%20and%20files/26-1done.png)
+![[26-1done.png\|26-1done.png]]
 ## Description
 
 A small black pipe marked only with the word Monaco. Purchased new as an emergency replacement during a long work shift, it remains in excellent condition with virtually no wear. Although elegant, slim, and lightweight, it has never become a favorite smoker and consistently delivers less satisfying smokes than expected. Despite the low personal rating, its clean lines and compact proportions may still appeal to smokers looking for a practical everyday pipe.

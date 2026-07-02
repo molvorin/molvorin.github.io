@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/3-354-3L.png\|500](/img/user/Attachments%20and%20files/3-354-3L.png)
+![Attachments and files/3-354-3L.png\|500](/img/user/Backroom/Attachments%20and%20files/3-354-3L.png)
 Heavy, bulky pipe with a lot of cake, lava, and significant miscolouration — very dark on one side, light on the other, possibly from sun exposure. Mouthpiece stuck tight and tasted terrible when tested. Will need freezing before disassembly. A full restoration job, but could be nice with a warmer stain.
 ## Features in Videos
 

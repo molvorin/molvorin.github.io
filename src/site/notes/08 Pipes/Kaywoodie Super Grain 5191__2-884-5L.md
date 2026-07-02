@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/2-884-5L.png\|500](/img/user/Attachments%20and%20files/2-884-5L.png)
+![Attachments and files/2-884-5L.png\|500](/img/user/Backroom/Attachments%20and%20files/2-884-5L.png)
 A pipe I really like. Nice flame grain running up the bowl with some bird's eye. Mouthpiece is stuck tight — plan to use the freezer trick to loosen it. Otherwise in good condition. Not sure how well-known the K. Woody brand is, but the grain quality on this one stands out.
 
 ## Features in Videos

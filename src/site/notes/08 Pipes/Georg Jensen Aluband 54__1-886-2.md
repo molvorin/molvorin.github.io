@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/1-886-2.png\|500](/img/user/Attachments%20and%20files/1-886-2.png)
+![Attachments and files/1-886-2.png\|500](/img/user/Backroom/Attachments%20and%20files/1-886-2.png)
 Danish made. Wide, squat shape — possibly a bulldog. Mouthpiece in very nice condition, though the lettering has worn. Aluminium ring intact. Needs only light cleaning. Definitely a keeper.
 
 ## Features in Videos

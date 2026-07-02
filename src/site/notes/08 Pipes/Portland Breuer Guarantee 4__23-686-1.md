@@ -9,7 +9,7 @@
 ## Description
 
 
-![Attachments and files/23-686-1.png\|500](/img/user/Attachments%20and%20files/23-686-1.png)
+![Attachments and files/23-686-1.png\|500](/img/user/Backroom/Attachments%20and%20files/23-686-1.png)
 An elegant pipe with a long shank and compact stem that creates a distinctive silhouette. The proportions give the pipe a refined appearance while maintaining comfortable handling characteristics. Despite cosmetic wear and some uneven coloration, the shape remains attractive and memorable.
 
 ## Features in Videos

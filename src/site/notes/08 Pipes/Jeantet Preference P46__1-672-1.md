@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/1-672-1L.png\|500](/img/user/Attachments%20and%20files/1-672-1L.png)
+![Attachments and files/1-672-1L.png\|500](/img/user/Backroom/Attachments%20and%20files/1-672-1L.png)
 
 Semi-bent shape with some scratches and a worn mouthpiece with a small hole. Interior is dirty but cleanable. A pipe I would consider keeping to smoke.
 

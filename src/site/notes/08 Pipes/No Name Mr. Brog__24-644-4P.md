@@ -9,7 +9,7 @@
 ## Description
 
 
-![Attachments and files/24-644-4P.png\|500](/img/user/Attachments%20and%20files/24-644-4P.png)
+![Attachments and files/24-644-4P.png\|500](/img/user/Backroom/Attachments%20and%20files/24-644-4P.png)
 
 A heavily worn pipe believed to be a Mr. Brog, though the stamping has deteriorated to the point where identification remains uncertain. The pipe requires extensive cleaning and shows significant wear around the rim and finish. Despite its condition, the shape remains functional and may reveal more information after restoration.
 

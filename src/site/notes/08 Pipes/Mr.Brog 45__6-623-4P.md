@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/6-623-4P.png\|500](/img/user/Attachments%20and%20files/6-623-4P.png)
+![Attachments and files/6-623-4P.png\|500](/img/user/Backroom/Attachments%20and%20files/6-623-4P.png)
 A more rustic and somewhat mismatched Mr. Brog pipe that may have undergone repairs or stem replacement at some point in its life. The stem does not align perfectly with the shank and appears slightly narrower than intended, though visually it still works reasonably well with the pipe’s shape. The stummel features a knot in the wood and areas of discoloration, giving the pipe a rougher and more experimental aesthetic. While not especially appealing as a collectible piece, the pipe remains interesting because of its unusual appearance and signs of past repair work.
 
 ## Features in Videos

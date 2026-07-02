@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/11-743-4P.png\|500](/img/user/Attachments%20and%20files/11-743-4P.png)
+![Attachments and files/11-743-4P.png\|500](/img/user/Backroom/Attachments%20and%20files/11-743-4P.png)
 
 A lightly used Mr. Brog pipe with a compact bowl and an understated, functional design. The shape remains true to the practical aesthetic often associated with the brand, prioritizing comfort and usability over elaborate styling. Most of the original stamping has faded with age, though the pipe itself remains structurally sound and well maintained. Its restrained proportions and simple execution create a pipe suited to regular smoking rather than display, while its clean condition suggests careful ownership throughout much of its life.
 

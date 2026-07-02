@@ -4,7 +4,7 @@
 
 
 ## Description
-![Attachments and files/33-683-3.png\|500](/img/user/Attachments%20and%20files/33-683-3.png)
+![Attachments and files/33-683-3.png\|500](/img/user/Backroom/Attachments%20and%20files/33-683-3.png)
 
 Stamped ACIRE and nicknamed the "Spotted Beauty" in an earlier YouTube short for its many fills, which began with one spot and spread across the bottom and front of the bowl. The maker was identified previously but the owner cannot recall it; he believes the pipe is Spanish and will add the name in an overlay. A very comfortable smoker with a saddle stem and a fairly wide bit that the owner has come to love, fitted with a stinger he is less keen on as it complicates cleaning. No structural flaws, only cosmetic ones from the fills, which is expected to limit its broader appeal.
 

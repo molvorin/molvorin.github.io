@@ -9,8 +9,8 @@
 ## Description
 
 
-![Attachments and files/18-887-5.png\|500](/img/user/Attachments%20and%20files/18-887-5.png)
-![Attachments and files/18-887-5+a.png\|500](/img/user/Attachments%20and%20files/18-887-5+a.png)
+![Attachments and files/18-887-5.png\|500](/img/user/Backroom/Attachments%20and%20files/18-887-5.png)
+![Attachments and files/18-887-5+a.png\|500](/img/user/Backroom/Attachments%20and%20files/18-887-5+a.png)
 A Savinelli Padova 173 bulldog in very good estate condition. The pipe combines classic bulldog shaping with attractive staining and solid engineering. It appears to require little or no restoration work and was one of the more personally appealing pipes in the episode. With its recognizable Savinelli pedigree and appealing shape, it is likely to attract interest from both smokers and collectors.
 
 ## Features in Videos

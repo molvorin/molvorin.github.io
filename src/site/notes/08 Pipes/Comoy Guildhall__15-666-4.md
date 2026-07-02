@@ -7,7 +7,7 @@
 
 ## Description
 
-![Attachments and files/15-666-4.png\|500](/img/user/Attachments%20and%20files/15-666-4.png)
+![Attachments and files/15-666-4.png\|500](/img/user/Backroom/Attachments%20and%20files/15-666-4.png)
 An English-made Guildhall London Pipe 270 distinguished by attractive grain patterns and a notably long profile. The bowl exhibits a pleasing combination of straight grain and birdseye, giving the briar considerable visual character. A hole through the stem represents the primary restoration challenge, though the remainder of the pipe appears structurally sound and well preserved. Its traditional English styling, quality grain, and manageable restoration requirements make it an appealing candidate for repair and continued use.
 ## Features in Videos
 

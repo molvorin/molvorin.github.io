@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/7-772-4.png\|500](/img/user/Attachments%20and%20files/7-772-4.png)
+![Attachments and files/7-772-4.png\|500](/img/user/Backroom/Attachments%20and%20files/7-772-4.png)
 A small and compact Dr. Hardy pipe with a narrow tobacco chamber and lightweight proportions. The pipe includes a metal fitting system and shows signs of moderate use, though it mainly requires cleaning rather than major repair work. Its unusually small size gives it a distinctive personality and makes it visually appealing as a compact pocket pipe or short-session smoker. Pipes with chambers this small can sometimes be challenging to smoke consistently, but the overall concept and design remain charming and practical.
 
 ## Features in Videos

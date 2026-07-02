@@ -6,7 +6,7 @@
 # No Name VS
 
 ## Description
-![Attachments and files/16-734-5.png\|500](/img/user/Attachments%20and%20files/16-734-5.png)
+![Attachments and files/16-734-5.png\|500](/img/user/Backroom/Attachments%20and%20files/16-734-5.png)
 
 An English-made VS Straight Grain pipe featuring a classic billiard shape and attractive straight-grain briar. The bowl exhibits pleasing grain patterns that justify the pipe's designation, while the overall design remains restrained and traditional. A crack in the shank represents the primary concern, though the stem fit remains secure and the pipe otherwise appears structurally sound. Its straightforward styling emphasizes functionality and grain quality over elaborate shaping.
 

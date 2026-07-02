@@ -6,7 +6,7 @@
 # Straight Grain
 
 ## Description
-![Attachments and files/14-632-1.png\|500](/img/user/Attachments%20and%20files/14-632-1.png)
+![Attachments and files/14-632-1.png\|500](/img/user/Backroom/Attachments%20and%20files/14-632-1.png)
 
 An unidentified London-made straight grain pipe showing evidence of previous repairs and alterations. The briar displays attractive straight grain patterns across the bowl, but the original stamping has been partially removed during earlier repair work, making positive identification difficult. The stem fit requires adjustment and the pipe would benefit from a thorough cleaning, though the underlying structure remains serviceable. Despite its imperfections, the grain quality and slender proportions suggest a pipe that may still offer enjoyable smoking characteristics after restoration.
 

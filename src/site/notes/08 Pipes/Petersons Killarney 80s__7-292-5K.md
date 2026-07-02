@@ -8,7 +8,7 @@
 ## Description
 
 
-![Attachments and files/7-292-5K.png\|500](/img/user/Attachments%20and%20files/7-292-5K.png)
+![Attachments and files/7-292-5K.png\|500](/img/user/Backroom/Attachments%20and%20files/7-292-5K.png)
 A heavily used Peterson pipe stamped “Made in the Republic of Ireland,” likely from the Killarney line and possibly shape 80S. The pipe has undergone extensive wear and repair over time, including large cracks, missing material, visible glue work, charring, and signs that a broken section was previously reattached. The metal band and stem alignment appear slightly off-center, adding to the pipe’s worn and imperfect character. Despite its rough condition, the pipe still feels comfortable in hand and retains the solid shaping associated with Peterson pipes. Its extensive damage also makes it a strong candidate for experimental restoration work, refinishing, or structural repair attempts.
 
 ## Features in Videos

@@ -7,7 +7,7 @@
 
 
 ## Description
-![Attachments and files/20-475-3.png\|500](/img/user/Attachments%20and%20files/20-475-3.png)
+![Attachments and files/20-475-3.png\|500](/img/user/Backroom/Attachments%20and%20files/20-475-3.png)
 
 A compact rusticated pipe with an appealing shape and practical dimensions. A crack near the rim affects the condition, but the pipe still retains much of its original charm. The textured finish and comfortable size make it an attractive piece despite the repair work required.
 
