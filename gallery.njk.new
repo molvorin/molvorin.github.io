@@ -1,0 +1,553 @@
+---
+permalink: /gallery/
+---
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pipe Gallery — 08 Pipes</title>
+<meta name="description" content="A catalogue of every estate pipe in the collection, grouped by maker.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --paper:#F2ECE0;
+    --paper-deep:#EAE2D2;
+    --ink:#1C1815;
+    --ink-soft:#4A433C;
+    --briar:#7A3B1E;
+    --briar-deep:#5E2C15;
+    --brass:#B08D57;
+    --sage:#5C6B57;
+    --line:rgba(28,24,21,0.14);
+    --card:#FBF8F2;
+    --shadow:0 1px 2px rgba(28,24,21,0.06), 0 6px 16px rgba(28,24,21,0.07);
+  }
+
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+
+  body{
+    margin:0;
+    background:
+      radial-gradient(1200px 600px at 10% -10%, rgba(176,141,87,0.10), transparent 60%),
+      radial-gradient(900px 500px at 100% 0%, rgba(122,59,30,0.06), transparent 55%),
+      var(--paper);
+    color:var(--ink);
+    font-family:"Inter", system-ui, sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+
+  a{color:inherit;}
+
+  /* ---------- Header ---------- */
+  .masthead{
+    padding:64px 24px 40px;
+    text-align:center;
+    border-bottom:1px solid var(--line);
+    position:relative;
+  }
+  .masthead::after{
+    content:"";
+    position:absolute;
+    left:50%;
+    bottom:-1px;
+    transform:translateX(-50%);
+    width:120px;
+    height:3px;
+    background:var(--brass);
+    border-radius:2px;
+  }
+  .eyebrow{
+    font-family:"JetBrains Mono", monospace;
+    font-size:12px;
+    letter-spacing:0.18em;
+    text-transform:uppercase;
+    color:var(--briar);
+    margin:0 0 14px;
+  }
+  h1.title{
+    font-family:"Fraunces", serif;
+    font-weight:600;
+    font-size:clamp(34px, 5vw, 56px);
+    line-height:1.05;
+    margin:0 0 14px;
+    letter-spacing:-0.01em;
+  }
+  .subtitle{
+    max-width:560px;
+    margin:0 auto;
+    color:var(--ink-soft);
+    font-size:16px;
+    line-height:1.55;
+  }
+  .stats-row{
+    display:flex;
+    gap:28px;
+    justify-content:center;
+    margin-top:28px;
+    flex-wrap:wrap;
+  }
+  .stat{
+    font-family:"JetBrains Mono", monospace;
+    font-size:13px;
+    color:var(--ink-soft);
+  }
+  .stat b{
+    color:var(--ink);
+    font-size:15px;
+  }
+
+  /* ---------- Search / filter bar ---------- */
+  .index-bar{
+    position:sticky;
+    top:0;
+    z-index:20;
+    background:rgba(242,236,224,0.92);
+    backdrop-filter:blur(6px);
+    border-bottom:1px solid var(--line);
+    padding:14px 24px;
+  }
+  .index-inner{
+    max-width:1120px;
+    margin:0 auto;
+    display:flex;
+    gap:14px;
+    align-items:center;
+    flex-wrap:wrap;
+  }
+  .search-tab{
+    flex:1 1 240px;
+    position:relative;
+    min-width:200px;
+  }
+  .search-tab input{
+    width:100%;
+    padding:10px 14px 10px 36px;
+    border:1px solid var(--line);
+    border-radius:3px;
+    background:var(--card);
+    font-family:"Inter", sans-serif;
+    font-size:14px;
+    color:var(--ink);
+    outline:none;
+    transition:border-color 0.15s ease, box-shadow 0.15s ease;
+  }
+  .search-tab input:focus{
+    border-color:var(--briar);
+    box-shadow:0 0 0 3px rgba(122,59,30,0.10);
+  }
+  .search-tab input::placeholder{color:#9C9388;}
+  .search-tab svg{
+    position:absolute;
+    left:11px;
+    top:50%;
+    transform:translateY(-50%);
+    width:15px;
+    height:15px;
+    stroke:var(--ink-soft);
+    pointer-events:none;
+  }
+  select#brand-filter{
+    padding:10px 32px 10px 14px;
+    border:1px solid var(--line);
+    border-radius:3px;
+    background:var(--card);
+    font-family:"Inter", sans-serif;
+    font-size:14px;
+    color:var(--ink);
+    outline:none;
+    cursor:pointer;
+    appearance:none;
+    background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%234A433C' stroke-width='2'><polyline points='6 9 12 15 18 9'/></svg>");
+    background-repeat:no-repeat;
+    background-position:right 10px center;
+  }
+  select#brand-filter:focus{
+    border-color:var(--briar);
+    box-shadow:0 0 0 3px rgba(122,59,30,0.10);
+  }
+  .result-count{
+    font-family:"JetBrains Mono", monospace;
+    font-size:12px;
+    color:var(--ink-soft);
+    white-space:nowrap;
+  }
+
+  /* ---------- Layout ---------- */
+  .wrap{
+    max-width:1120px;
+    margin:0 auto;
+    padding:36px 24px 100px;
+  }
+
+  .brand-section{margin-bottom:46px;}
+  .brand-section.is-hidden{display:none;}
+
+  .brand-header{
+    display:flex;
+    align-items:baseline;
+    gap:14px;
+    margin-bottom:18px;
+    padding-bottom:10px;
+    border-bottom:1px solid var(--line);
+  }
+  .brand-header.no-name{border-bottom-color:rgba(92,107,87,0.35);}
+  h2.brand-name{
+    font-family:"Fraunces", serif;
+    font-weight:600;
+    font-size:24px;
+    margin:0;
+    letter-spacing:-0.01em;
+  }
+  .brand-header.no-name h2.brand-name{color:var(--sage);}
+  .brand-count{
+    font-family:"JetBrains Mono", monospace;
+    font-size:12px;
+    color:var(--brass);
+    background:rgba(176,141,87,0.12);
+    padding:3px 9px;
+    border-radius:20px;
+  }
+
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(190px, 1fr));
+    gap:16px;
+  }
+
+  .card{
+    background:var(--card);
+    border:1px solid var(--line);
+    border-radius:6px;
+    overflow:hidden;
+    box-shadow:var(--shadow);
+    text-decoration:none;
+    display:flex;
+    flex-direction:column;
+    transition:transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+  }
+  .card:hover{
+    transform:translateY(-3px);
+    box-shadow:0 4px 8px rgba(28,24,21,0.08), 0 14px 28px rgba(28,24,21,0.12);
+    border-color:rgba(122,59,30,0.3);
+  }
+  .card:focus-visible{
+    outline:2px solid var(--briar);
+    outline-offset:2px;
+  }
+
+  .card-img{
+    aspect-ratio:4/3;
+    background:
+      linear-gradient(180deg, rgba(28,24,21,0.02), rgba(28,24,21,0.0) 40%),
+      var(--paper-deep);
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    position:relative;
+  }
+  .card-img img{
+    width:100%;
+    height:100%;
+    object-fit:contain;
+    padding:10px;
+  }
+  .no-image{
+    font-family:"JetBrains Mono", monospace;
+    font-size:11px;
+    color:#A89C8C;
+    letter-spacing:0.05em;
+    text-align:center;
+    padding:0 12px;
+  }
+  .no-image svg{
+    width:26px;
+    height:26px;
+    stroke:#C2B8A6;
+    margin-bottom:6px;
+  }
+
+  .card-body{
+    padding:12px 13px 14px;
+    display:flex;
+    flex-direction:column;
+    gap:8px;
+    flex:1;
+  }
+  .card-model{
+    font-family:"Fraunces", serif;
+    font-weight:500;
+    font-size:15px;
+    line-height:1.25;
+    color:var(--ink);
+  }
+  .card-id{
+    align-self:flex-start;
+    font-family:"JetBrains Mono", monospace;
+    font-size:10.5px;
+    letter-spacing:0.03em;
+    color:var(--briar-deep);
+    background:rgba(122,59,30,0.07);
+    border:1px solid rgba(122,59,30,0.16);
+    padding:2px 7px;
+    border-radius:3px;
+    box-shadow:inset 0 1px 1px rgba(255,255,255,0.4), inset 0 -1px 1px rgba(28,24,21,0.05);
+  }
+
+  .ratings{
+    display:flex;
+    gap:10px;
+    margin-top:auto;
+    padding-top:8px;
+    border-top:1px dashed var(--line);
+  }
+  .rating{
+    display:flex;
+    flex-direction:column;
+    gap:2px;
+    align-items:flex-start;
+  }
+  .rating-label{
+    font-size:9px;
+    text-transform:uppercase;
+    letter-spacing:0.06em;
+    color:#9C9388;
+  }
+  .rating-value{
+    font-family:"JetBrains Mono", monospace;
+    font-size:12px;
+    font-weight:500;
+    color:var(--ink);
+  }
+  .rating-value.high{color:var(--briar);}
+  .rating-value.low{color:var(--sage);opacity:0.75;}
+
+  .empty-state{
+    text-align:center;
+    padding:80px 20px;
+    color:var(--ink-soft);
+  }
+  .empty-state.is-hidden{display:none;}
+  .empty-state svg{
+    width:36px;
+    height:36px;
+    stroke:#C2B8A6;
+    margin-bottom:14px;
+  }
+  .empty-state p{
+    font-family:"Fraunces", serif;
+    font-size:18px;
+    margin:0 0 6px;
+  }
+  .empty-state span{
+    font-size:14px;
+    color:#A89C8C;
+  }
+
+  footer{
+    text-align:center;
+    padding:30px 24px 50px;
+    font-family:"JetBrains Mono", monospace;
+    font-size:11px;
+    color:#A89C8C;
+    letter-spacing:0.03em;
+  }
+
+  @media (prefers-reduced-motion: reduce){
+    *{transition:none !important; scroll-behavior:auto !important;}
+  }
+
+  @media (max-width:480px){
+    .masthead{padding:48px 18px 32px;}
+    .grid{grid-template-columns:repeat(auto-fill, minmax(150px, 1fr));gap:12px;}
+    .index-inner{gap:10px;}
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <p class="eyebrow">08 Pipes &middot; Catalogue</p>
+  <h1 class="title">The Pipe Gallery</h1>
+  <p class="subtitle">Every estate pipe in the collection, stamped, sorted, and cross-referenced to its full note. Click through for condition, history, and the episode it featured in.</p>
+  <div class="stats-row">
+    <div class="stat"><b id="stat-total">0</b> pipes</div>
+    <div class="stat"><b id="stat-brands">0</b> makers</div>
+    <div class="stat"><b id="stat-images">0</b> photographed</div>
+  </div>
+</header>
+
+<div class="index-bar">
+  <div class="index-inner">
+    <div class="search-tab">
+      <svg viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input type="text" id="search-input" placeholder="Search by brand, model, or stamp ID&hellip;" autocomplete="off">
+    </div>
+    <select id="brand-filter">
+      <option value="">All makers</option>
+    </select>
+    <span class="result-count" id="result-count"></span>
+  </div>
+</div>
+
+<main class="wrap" id="gallery-root"></main>
+
+<div class="empty-state is-hidden" id="empty-state">
+  <svg viewBox="0 0 24 24" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+  <p>No pipes match that search</p>
+  <span>Try a different brand or stamp number</span>
+</div>
+
+<footer>08 Pipes &mdash; an ongoing estate pipe catalogue</footer>
+
+<script>
+const PIPES = [{"brand": "Absorba", "model": "210", "id": "30-998-3", "permalink": "/08-pipes/absorba-210/", "image": "/img/user/Backroom/Attachments and files/30-998-3.png", "condition": "9", "preference": "9", "popularity": "8", "batch": ""}, {"brand": "Acire", "model": "Stamp nr:", "id": "33-683-3", "permalink": "/08-pipes/acire-spotted-beauty/", "image": "/img/user/Backroom/Attachments and files/33-683-3.png", "condition": "6", "preference": "8", "popularity": "3", "batch": ""}, {"brand": "Angelo", "model": "1382", "id": "30-987-1", "permalink": "/08-pipes/angelo-1382/", "image": "/img/user/Backroom/Attachments and files/30-987-1.png", "condition": "9", "preference": "8", "popularity": "7", "batch": ""}, {"brand": "B&B", "model": "019", "id": "27-965-3", "permalink": "/08-pipes/b-and-b-019-27-965-3/", "image": "/img/user/Backroom/Attachments and files/27-965-3.png", "condition": "9", "preference": "6", "popularity": "5", "batch": ""}, {"brand": "B&B", "model": "020", "id": "18-944-2", "permalink": "/08-pipes/b-and-b-020-18-944-2/", "image": "/img/user/Backroom/Attachments and files/18-944-2.png", "condition": "9", "preference": "4", "popularity": "4", "batch": ""}, {"brand": "B&B", "model": "022", "id": "21-766-3P", "permalink": "/08-pipes/b-and-b-022-21-766-3-p/", "image": "/img/user/Backroom/Attachments and files/21-766-3P.png", "condition": "7", "preference": "6", "popularity": "6", "batch": "P"}, {"brand": "B&B", "model": "", "id": "6-861-2P", "permalink": "/08-pipes/b-and-b-024-6-861-2-p/", "image": "/img/user/Backroom/Attachments and files/6-861-2P.png", "condition": "8", "preference": "6", "popularity": "1", "batch": "P"}, {"brand": "B&B", "model": "037", "id": "13-983-5P", "permalink": "/08-pipes/b-and-b-037-2-13-983-5-p/", "image": "/img/user/Backroom/Attachments and files/13-983-5P.png", "condition": "9", "preference": "8", "popularity": "3", "batch": "P"}, {"brand": "B&B", "model": "037", "id": "13-983-2P", "permalink": "/08-pipes/b-and-b-037-13-983-2-p/", "image": "/img/user/Backroom/Attachments and files/13-983-2P.png", "condition": "9", "preference": "8", "popularity": "3", "batch": "P"}, {"brand": "B&B", "model": "040", "id": "26-845-3", "permalink": "/08-pipes/b-and-b-040-26-845-3/", "image": "/img/user/Backroom/Attachments and files/26-845-3.png", "condition": "8", "preference": "4", "popularity": "5", "batch": ""}, {"brand": "BBB", "model": "", "id": "2-377-10L", "permalink": "/08-pipes/bbb-best-make-2-377-10-l/", "image": "/img/user/Backroom/Attachments and files/2-377-10L.png", "condition": "3", "preference": "7", "popularity": "7", "batch": "L"}, {"brand": "BBB", "model": "", "id": "1-473-3L", "permalink": "/08-pipes/bbb-bulldog-guardsman-1-473-3/", "image": "/img/user/Backroom/Attachments and files/1-473-3L.png", "condition": "4", "preference": "7", "popularity": "3", "batch": "L"}, {"brand": "BBB", "model": "Centenary", "id": "13-775-4L", "permalink": "/08-pipes/bbb-centenary-1847-1947-13-775-4-l/", "image": "/img/user/Backroom/Attachments and files/13-775-4L.png", "condition": "7", "preference": "7", "popularity": "5", "batch": "L"}, {"brand": "BBB", "model": "", "id": "1-355-9L", "permalink": "/08-pipes/bbb-christmas-1970-special-make-1-355-9-l/", "image": "/img/user/Backroom/Attachments and files/1-355-9L.png", "condition": "3", "preference": "5", "popularity": "5", "batch": "L"}, {"brand": "BBB", "model": "Classic 652", "id": "31-787-2", "permalink": "/08-pipes/bbb-classic-652/", "image": "/img/user/Backroom/Attachments and files/31-787-2.png", "condition": "7", "preference": "8", "popularity": "7", "batch": ""}, {"brand": "BBB", "model": "Crusted", "id": "20-475-3", "permalink": "/08-pipes/bbb-crusted-20-475-3/", "image": "/img/user/Backroom/Attachments and files/20-475-3.png", "condition": "4", "preference": "7", "popularity": "5", "batch": ""}, {"brand": "BBB", "model": "Medina", "id": "8-876-4", "permalink": "/08-pipes/bbb-medina-539-8-876-4/", "image": "/img/user/Backroom/Attachments and files/8-876-4.png", "condition": "8", "preference": "7", "popularity": "6", "batch": ""}, {"brand": "BPK", "model": "", "id": "9-873-5", "permalink": "/08-pipes/bpk-6160-9-873-5/", "image": "/img/user/Backroom/Attachments and files/9-873-5.png", "condition": "8", "preference": "7", "popularity": "3", "batch": ""}, {"brand": "Bera", "model": "", "id": "3-775-7", "permalink": "/08-pipes/bera-15-3-775-7/", "image": "/img/user/Backroom/Attachments and files/3-775-7.png", "condition": "7", "preference": "7", "popularity": "5", "batch": ""}, {"brand": "Big Ben", "model": "Ranger", "id": "23-767-4", "permalink": "/08-pipes/big-ben-ranger-23-767-4/", "image": "/img/user/Backroom/Attachments and files/23-767-4.png", "condition": "7", "preference": "6", "popularity": "7", "batch": ""}, {"brand": "Bjarne", "model": "", "id": "12-867-3", "permalink": "/08-pipes/bjarne-handmade-12-867-3/", "image": "/img/user/Backroom/Attachments and files/12-867-3.png", "condition": "8", "preference": "6", "popularity": "7", "batch": ""}, {"brand": "Brillon", "model": "60", "id": "31-734-3", "permalink": "/08-pipes/brillon-60/", "image": "/img/user/Backroom/Attachments and files/31-734-3.png", "condition": "7", "preference": "3", "popularity": "4", "batch": ""}, {"brand": "Brillon", "model": "Populär", "id": "31-645-4", "permalink": "/08-pipes/brillon-populaer/", "image": "/img/user/Backroom/Attachments and files/31-645-4.png", "condition": "6", "preference": "4", "popularity": "5", "batch": ""}, {"brand": "Butz-Choquin", "model": "Corrida", "id": "34-987-9PR", "permalink": "/08-pipes/butz-choquin-corrida-1508/", "image": "/img/user/Backroom/Attachments and files/34-987-9.png", "condition": "9", "preference": "8", "popularity": "7", "batch": "PR"}, {"brand": "Chap", "model": "Filtre", "id": "34-972-5PR", "permalink": "/08-pipes/chap-filtre-b-900/", "image": "/img/user/Backroom/Attachments and files/34-972-5PR.png", "condition": "9", "preference": "7", "popularity": "2", "batch": "PR"}, {"brand": "Charatans Make", "model": "Deluxe", "id": "3-354-3L", "permalink": "/08-pipes/charatans-make-3-354-3-l/", "image": "/img/user/Backroom/Attachments and files/3-354-3L.png", "condition": "3", "preference": "5", "popularity": "4", "batch": "L"}, {"brand": "Clifton", "model": "Finest Briar Meerschaum", "id": "10-777-2D", "permalink": "/08-pipes/clifton-finest-briar-10-777-2-d/", "image": "/img/user/Backroom/Attachments and files/10-777-2D.png", "condition": "7", "preference": "7", "popularity": "7", "batch": "D"}, {"brand": "Clubman", "model": "", "id": "8-853-5", "permalink": "/08-pipes/clubman-20-8-853-5/", "image": "/img/user/Backroom/Attachments and files/8-853-5.png", "condition": "8", "preference": "5", "popularity": "3", "batch": ""}, {"brand": "Comoy", "model": "Guildhall", "id": "22-235-2", "permalink": "/08-pipes/comoy-guildhall-64-22-235-2/", "image": "/img/user/Backroom/Attachments and files/22-235-2.png", "condition": "2", "preference": "3", "popularity": "5", "batch": ""}, {"brand": "Comoy", "model": "Guildhall", "id": "15-666-4", "permalink": "/08-pipes/comoy-guildhall-15-666-4/", "image": "/img/user/Backroom/Attachments and files/15-666-4.png", "condition": "6", "preference": "6", "popularity": "6", "batch": ""}, {"brand": "Cosmos", "model": "Jupiter 7313", "id": "33-886-1", "permalink": "/08-pipes/cosmos-jupiter-7313/", "image": "/img/user/Backroom/Attachments and files/33-886-1.png", "condition": "8", "preference": "8", "popularity": "6", "batch": ""}, {"brand": "Cosmos", "model": "Mercury 6191", "id": "29-865-3", "permalink": "/08-pipes/cosmos-mercury-6191-29-865-3/", "image": "/img/user/Backroom/Attachments and files/29-865-3.png", "condition": "8", "preference": "6", "popularity": "5", "batch": ""}, {"brand": "Cosmos", "model": "Mercury 6419", "id": "29-865-2", "permalink": "/08-pipes/cosmos-mercury-6419-bulldog-29-865-2/", "image": "/img/user/Backroom/Attachments and files/29-865-2.png", "condition": "8", "preference": "6", "popularity": "5", "batch": ""}, {"brand": "Cosmos", "model": "", "id": "12-711-4", "permalink": "/08-pipes/cosmos-neptune-12-711-4/", "image": "/img/user/Backroom/Attachments and files/12-711-4.png", "condition": "7", "preference": "1", "popularity": "1", "batch": ""}, {"brand": "Depi", "model": "", "id": "1-663-8L", "permalink": "/08-pipes/depi-deluxe-22-1-663-8-l/", "image": "/img/user/Backroom/Attachments and files/1-663-8L.png", "condition": "6", "preference": "6", "popularity": "3", "batch": "L"}, {"brand": "Depi", "model": "Flamegraine", "id": "3-742-1L", "permalink": "/08-pipes/depi-flamegrain-104-3-742-1-l/", "image": "/img/user/Backroom/Attachments and files/3-742-1L.png", "condition": "7", "preference": "4", "popularity": "2", "batch": "L"}, {"brand": "Depi", "model": "", "id": "1-762-7L", "permalink": "/08-pipes/depi-flamegrain-106-1-762-7-l/", "image": "/img/user/Backroom/Attachments and files/1-762-7L.png", "condition": "7", "preference": "6", "popularity": "2", "batch": "L"}, {"brand": "Dollar", "model": "Sweden", "id": "22-524-5", "permalink": "/08-pipes/dollar-sweden-22-524-5/", "image": "/img/user/Backroom/Attachments and files/22-524-5.png", "condition": "5", "preference": "2", "popularity": "4", "batch": ""}, {"brand": "Don", "model": "Old Briar", "id": "18-445-1", "permalink": "/08-pipes/don-old-briar-18-445-1/", "image": "/img/user/Backroom/Attachments and files/18-445-1.png", "condition": "4", "preference": "4", "popularity": "5", "batch": ""}, {"brand": "Dr.Hardy", "model": "", "id": "7-772-4", "permalink": "/08-pipes/dr-hardy-7-772-4/", "image": "/img/user/Backroom/Attachments and files/7-772-4.png", "condition": "7", "preference": "7", "popularity": "2", "batch": ""}, {"brand": "Dunham", "model": "535", "id": "14-865-5", "permalink": "/08-pipes/dunham-14-865-5/", "image": "/img/user/Backroom/Attachments and files/14-865-5.png", "condition": "8", "preference": "6", "popularity": "5", "batch": ""}, {"brand": "Falcon", "model": "", "id": "5-812-3", "permalink": "/08-pipes/falcon-5-812-3/", "image": null, "condition": "8", "preference": "1", "popularity": "2", "batch": ""}, {"brand": "Gasparini", "model": "Camillo", "id": "34-998-7PR", "permalink": "/08-pipes/gasparini-camillo-207/", "image": "/img/user/Backroom/Attachments and files/34-998-7.png", "condition": "9", "preference": "9", "popularity": "8", "batch": "PR"}, {"brand": "Georg Jensen", "model": "22", "id": "26-788-2", "permalink": "/08-pipes/georg-jensen-22-26-788-2/", "image": "/img/user/Backroom/Attachments and files/26-788-2.png", "condition": "7", "preference": "8", "popularity": "8", "batch": ""}, {"brand": "Georg Jensen", "model": "", "id": "1-886-2", "permalink": "/08-pipes/georg-jensen-aluband-54-1-886-2/", "image": "/img/user/Backroom/Attachments and files/1-886-2.png", "condition": "8", "preference": "8", "popularity": "6", "batch": ""}, {"brand": "Georg Jensen", "model": "Stamp nr:", "id": "34-778-6PR", "permalink": "/08-pipes/georg-jensen-billiard/", "image": "/img/user/Backroom/Attachments and files/34-778-6.png", "condition": "7", "preference": "7", "popularity": "8", "batch": "PR"}, {"brand": "Georg Jensen", "model": "Dania", "id": "5-322-1", "permalink": "/08-pipes/georg-jensen-dania-606-5-322-1/", "image": null, "condition": "3", "preference": "2", "popularity": "2", "batch": ""}, {"brand": "Georg Jensen", "model": "Stamp nr:", "id": "15-887-3", "permalink": "/08-pipes/georg-jensen-handmade-15-887-3/", "image": "/img/user/Backroom/Attachments and files/15-887-3.png", "condition": "8", "preference": "8", "popularity": "7", "batch": ""}, {"brand": "Georg Jensen", "model": "231 Orange Extra", "id": "16-646-1", "permalink": "/08-pipes/georg-jensen-orange-extra-231-16-646-1/", "image": "/img/user/Backroom/Attachments and files/16-646-1.png", "condition": "6", "preference": "4", "popularity": "6", "batch": ""}, {"brand": "Georg Jensen", "model": "", "id": "5-000-2", "permalink": "/08-pipes/georg-jensen-5-000-2/", "image": "/img/user/Backroom/Attachments and files/5-000-2.png", "condition": "0", "preference": "0", "popularity": "0", "batch": ""}, {"brand": "Governor", "model": "Real Briar", "id": "20-576-1", "permalink": "/08-pipes/governor-real-briar-20-576-1/", "image": "/img/user/Backroom/Attachments and files/20-576-1.png", "condition": "5", "preference": "7", "popularity": "6", "batch": ""}, {"brand": "Graco", "model": "Aroma", "id": "2-253-6L", "permalink": "/08-pipes/graco-aroma-0254-s-2-253-6-l/", "image": "/img/user/Backroom/Attachments and files/2-253-6L.png", "condition": "2", "preference": "5", "popularity": "3", "batch": "L"}, {"brand": "Graco", "model": "Deluxe", "id": "9-686-4", "permalink": "/08-pipes/graco-deluxe-9-686-4/", "image": "/img/user/Backroom/Attachments and files/9-686-4.png", "condition": "6", "preference": "8", "popularity": "6", "batch": ""}, {"brand": "Graco", "model": "Elite", "id": "2-343-4L", "permalink": "/08-pipes/graco-elite-275-2-343-4-l/", "image": "/img/user/Backroom/Attachments and files/2-343-4L.png", "condition": "3", "preference": "4", "popularity": "3", "batch": "L"}, {"brand": "HAJ", "model": "Tulip", "id": "13-335-3L", "permalink": "/08-pipes/haj-tulip-13-335-3/", "image": "/img/user/Backroom/Attachments and files/13-335-3L+a.png", "condition": "3", "preference": "3", "popularity": "5", "batch": "L"}, {"brand": "HAJ", "model": "", "id": "3-787-10", "permalink": "/08-pipes/haj-3-787-10/", "image": "/img/user/Backroom/Attachments and files/3-787-10.png", "condition": "7", "preference": "8", "popularity": "7", "batch": ""}, {"brand": "Haandarbejde", "model": "", "id": "1-662-5L", "permalink": "/08-pipes/haandarbejde-1-662-5/", "image": "/img/user/Backroom/Attachments and files/1-662-5L.png", "condition": "6", "preference": "6", "popularity": "2", "batch": "L"}, {"brand": "Havanna", "model": "", "id": "9-633-3", "permalink": "/08-pipes/havanna-9-633-3/", "image": "/img/user/Backroom/Attachments and files/9-633-3.png", "condition": "6", "preference": "3", "popularity": "3", "batch": ""}, {"brand": "Hilston", "model": "Selevt", "id": "8-684-2", "permalink": "/08-pipes/hilston-select-416-8-684-2/", "image": "/img/user/Backroom/Attachments and files/8-684-2.png", "condition": "6", "preference": "8", "popularity": "4", "batch": ""}, {"brand": "Jean-Claude", "model": "Stamp nr:", "id": "34-977-8PR", "permalink": "/08-pipes/jean-claude-panel/", "image": "/img/user/Backroom/Attachments and files/34-977-8.png", "condition": "9", "preference": "7", "popularity": "7", "batch": "PR"}, {"brand": "Jeantet", "model": "Chambord", "id": "30-775-5F", "permalink": "/08-pipes/jeantet-chambord/", "image": "/img/user/Backroom/Attachments and files/30-775-5F.png", "condition": "7", "preference": "7", "popularity": "5", "batch": "F"}, {"brand": "Jeantet", "model": "Jubile", "id": "34-977-1PR", "permalink": "/08-pipes/jeantet-jubile-69-13/", "image": "/img/user/Backroom/Attachments and files/34-977-1PR.png", "condition": "9", "preference": "7", "popularity": "7", "batch": "PR"}, {"brand": "Jeantet", "model": "Preference", "id": "3-212-5L", "permalink": "/08-pipes/jeantet-preference-p-69-3-212-5-l/", "image": "/img/user/Backroom/Attachments and files/3-212-5L.png", "condition": "2", "preference": "1", "popularity": "2", "batch": ""}, {"brand": "Jeantet", "model": "Preference", "id": "3-793-2L", "permalink": "/08-pipes/jeantet-preference-p-88-3-793-2-l/", "image": "/img/user/Backroom/Attachments and files/3-793-2L.png", "condition": "7", "preference": "9", "popularity": "3", "batch": "L"}, {"brand": "Jeantet", "model": "", "id": "1-672-1L", "permalink": "/08-pipes/jeantet-preference-p46-1-672-1/", "image": "/img/user/Backroom/Attachments and files/1-672-1L.png", "condition": "6", "preference": "7", "popularity": "2", "batch": "L"}, {"brand": "Kaywoodie", "model": "Super grain", "id": "2-884-5L", "permalink": "/08-pipes/kaywoodie-super-grain-5191-2-884-5-l/", "image": "/img/user/Backroom/Attachments and files/2-884-5L.png", "condition": "8", "preference": "8", "popularity": "4", "batch": "L"}, {"brand": "Kriswill", "model": "Golden Klipper", "id": "11-745-1P", "permalink": "/08-pipes/kriswill-golden-klipper-11-745-1-p/", "image": "/img/user/Backroom/Attachments and files/11-745-1P.png", "condition": "7", "preference": "4", "popularity": "5", "batch": "P"}, {"brand": "Kriswill", "model": "Kisan", "id": "9-775-1", "permalink": "/08-pipes/kriswill-kisan-9-775-1/", "image": "/img/user/Backroom/Attachments and files/9-775-1.png", "condition": "7", "preference": "7", "popularity": "5", "batch": ""}, {"brand": "Lecor", "model": "Stamp nr:", "id": "14-323-4", "permalink": "/08-pipes/lecor-14-323-4/", "image": "/img/user/Backroom/Attachments and files/14-323-4.png", "condition": "3", "preference": "2", "popularity": "3", "batch": ""}, {"brand": "Lord", "model": "53", "id": "30-986-2", "permalink": "/08-pipes/lord-53/", "image": "/img/user/Backroom/Attachments and files/30-986-2.png", "condition": "9", "preference": "8", "popularity": "6", "batch": ""}, {"brand": "Lorenzo", "model": "Egra Filtro", "id": "17-756-5", "permalink": "/08-pipes/lorenzo-egra-filtro-812-17-756-5/", "image": "/img/user/Backroom/Attachments and files/17-756-5.png", "condition": "7", "preference": "5", "popularity": "6", "batch": ""}, {"brand": "Lorenzo", "model": "Elba", "id": "29-885-5", "permalink": "/08-pipes/lorenzo-elba-29-885-5/", "image": "/img/user/Backroom/Attachments and files/29-885-5.png", "condition": "8", "preference": "8", "popularity": "5", "batch": ""}, {"brand": "Lorenzo", "model": "Erika", "id": "15-665-5", "permalink": "/08-pipes/lorenzo-erika-15-665-5/", "image": "/img/user/Backroom/Attachments and files/15-665-5.png", "condition": "6", "preference": "6", "popularity": "5", "batch": ""}, {"brand": "Mandalay", "model": "", "id": "2-873-3L", "permalink": "/08-pipes/mandalay-2-873-3-l/", "image": null, "condition": "8", "preference": "7", "popularity": "3", "batch": "L"}, {"brand": "Mastercraft", "model": "Legion of Honour", "id": "12-863-2", "permalink": "/08-pipes/mastercraft-legion-of-honour-12-863-2/", "image": "/img/user/Backroom/Attachments and files/12-863-2.png", "condition": "8", "preference": "6", "popularity": "3", "batch": ""}, {"brand": "Missouri Meerschaum", "model": "Corn Cob", "id": "22-812-1", "permalink": "/08-pipes/missouri-meerschaum-corn-cob-22-812-1/", "image": null, "condition": "8", "preference": "1", "popularity": "2", "batch": ""}, {"brand": "Missouri Meerschaum", "model": "", "id": "7-831-3", "permalink": "/08-pipes/missouri-meerschaum-cornpipe-7-831-3/", "image": "/img/user/Backroom/Attachments and files/7-831-3.png", "condition": "8", "preference": "3", "popularity": "1", "batch": ""}, {"brand": "Mogul", "model": "Extra", "id": "22-476-3", "permalink": "/08-pipes/mogul-extra-22-476-3/", "image": null, "condition": "4", "preference": "7", "popularity": "6", "batch": ""}, {"brand": "Mokin", "model": "Stamp nr:", "id": "32-775-1", "permalink": "/08-pipes/mokin-meerschaum-lined/", "image": "/img/user/Backroom/Attachments and files/32-775-1.png", "condition": "7", "preference": "7", "popularity": "5", "batch": ""}, {"brand": "Mr.Brog", "model": "24", "id": "25-974-3P", "permalink": "/08-pipes/mr-brog-24-1-extra-25-974-3-p/", "image": "/img/user/Backroom/Attachments and files/25-974-3P.png", "condition": "9", "preference": "7", "popularity": "4", "batch": "P"}, {"brand": "Mr.Brog", "model": "24", "id": "24-875-3P", "permalink": "/08-pipes/mr-brog-24-rusticated-24-875-3-p/", "image": "/img/user/Backroom/Attachments and files/24-875-3P.png", "condition": "8", "preference": "7", "popularity": "5", "batch": "P"}, {"brand": "Mr.Brog", "model": "24", "id": "25-674-2P", "permalink": "/08-pipes/mr-brog-24-semi-bent-25-674-2-p/", "image": "/img/user/Backroom/Attachments and files/25-674-2P.png", "condition": "6", "preference": "7", "popularity": "4", "batch": "P"}, {"brand": "Mr.Brog", "model": "24", "id": "25-876-5P", "permalink": "/08-pipes/mr-brog-24-wide-stem-25-876-5-p/", "image": "/img/user/Backroom/Attachments and files/25-876-5P.png", "condition": "8", "preference": "7", "popularity": "6", "batch": "P"}, {"brand": "Mr.Brog", "model": "24", "id": "24-666-2P", "permalink": "/08-pipes/mr-brog-24-24-666-2-p/", "image": "/img/user/Backroom/Attachments and files/24-666-2P.png", "condition": "6", "preference": "6", "popularity": "6", "batch": "P"}, {"brand": "Mr.Brog", "model": "26", "id": "21-556-5P", "permalink": "/08-pipes/mr-brog-26-21-556-5-p/", "image": "/img/user/Backroom/Attachments and files/21-556-5p.png", "condition": "5", "preference": "5", "popularity": "6", "batch": "P"}, {"brand": "Mr.Brog", "model": "27", "id": "28-764-1P", "permalink": "/08-pipes/mr-brog-27-1-28-764-1-p/", "image": "/img/user/Backroom/Attachments and files/28-764-1P.png", "condition": "7", "preference": "6", "popularity": "4", "batch": "P"}, {"brand": "Mr.Brog", "model": "27", "id": "28-664-2P", "permalink": "/08-pipes/mr-brog-27-old-style-28-664-2-p/", "image": "/img/user/Backroom/Attachments and files/28-664-2P.png", "condition": "6", "preference": "6", "popularity": "4", "batch": "P"}, {"brand": "Mr.Brog", "model": "27", "id": "32-574-4P", "permalink": "/08-pipes/mr-brog-27-rusticated-liner/", "image": "/img/user/Backroom/Attachments and files/32-574-4P.png", "condition": "5", "preference": "7", "popularity": "4", "batch": "P"}, {"brand": "Mr.Brog", "model": "27", "id": "21-876-4P", "permalink": "/08-pipes/mr-brog-27-rusticated-21-876-4-p/", "image": "/img/user/Backroom/Attachments and files/21-876-4P.png", "condition": "8", "preference": "7", "popularity": "6", "batch": "P"}, {"brand": "Mr.Brog", "model": "27", "id": "21-675-1P", "permalink": "/08-pipes/mr-brog-27-21-675-1-p/", "image": "/img/user/Backroom/Attachments and files/21-675-1P.png", "condition": "6", "preference": "7", "popularity": "5", "batch": "P"}, {"brand": "Mr.Brog", "model": "33", "id": "27-886-4P", "permalink": "/08-pipes/mr-brog-33-burned-27-886-4-p/", "image": "/img/user/Backroom/Attachments and files/27-886-4P.png", "condition": "8", "preference": "8", "popularity": "6", "batch": "P"}, {"brand": "Mr.Brog", "model": "35", "id": "25-763-1P", "permalink": "/08-pipes/mr-brog-35-1-bad-25-763-1-p/", "image": "/img/user/Backroom/Attachments and files/25-763-1P.png", "condition": "7", "preference": "6", "popularity": "3", "batch": "P"}, {"brand": "Mr.Brog", "model": "35", "id": "21-854-2P", "permalink": "/08-pipes/mr-brog-35-alt-21-854-2-p/", "image": "/img/user/Backroom/Attachments and files/21-854-2P.png", "condition": "8", "preference": "5", "popularity": "4", "batch": "P"}, {"brand": "Mr.Brog", "model": "35", "id": "27-645-2P", "permalink": "/08-pipes/mr-brog-35-line-27-645-2-p/", "image": "/img/user/Backroom/Attachments and files/27-645-2P.png", "condition": "6", "preference": "4", "popularity": "5", "batch": "P"}, {"brand": "Mr.Brog", "model": "37", "id": "27-676-1P", "permalink": "/08-pipes/mr-brog-37-walled-27-676-1-p/", "image": "/img/user/Backroom/Attachments and files/27-676-1P.png", "condition": "6", "preference": "7", "popularity": "6", "batch": "P"}, {"brand": "Mr.Brog", "model": "41", "id": "31-786-5P", "permalink": "/08-pipes/mr-brog-41/", "image": "/img/user/Backroom/Attachments and files/31-786-5P.png", "condition": "7", "preference": "8", "popularity": "6", "batch": "P"}, {"brand": "Mr.Brog", "model": "47", "id": "24-965-1P", "permalink": "/08-pipes/mr-brog-47-dark-24-965-1-p/", "image": "/img/user/Backroom/Attachments and files/24-965-1P.png", "condition": "9", "preference": "6", "popularity": "5", "batch": "P"}, {"brand": "Mr.Brog", "model": "47", "id": "32-161-3P", "permalink": "/08-pipes/mr-brog-47-rusticated/", "image": "/img/user/Backroom/Attachments and files/32-161-3P.png", "condition": "1", "preference": "6", "popularity": "1", "batch": "P"}, {"brand": "Mr.Brog", "model": "47", "id": "28-743-4P", "permalink": "/08-pipes/mr-brog-47-twin-28-743-4-p/", "image": "/img/user/Backroom/Attachments and files/28-743-4P.png", "condition": "7", "preference": "4", "popularity": "3", "batch": "P"}, {"brand": "Mr.Brog", "model": "47", "id": "28-543-3P", "permalink": "/08-pipes/mr-brog-47-loose-28-543-3-p/", "image": "/img/user/Backroom/Attachments and files/28-543-3P.png", "condition": "5", "preference": "4", "popularity": "3", "batch": "P"}, {"brand": "Mr.Brog", "model": "18", "id": "13-982-1P", "permalink": "/08-pipes/mr-brog-18-13-982-1-p/", "image": "/img/user/Backroom/Attachments and files/13-982-1P.png", "condition": "9", "preference": "8", "popularity": "2", "batch": "P"}, {"brand": "Mr.Brog", "model": "", "id": "11-973-5P", "permalink": "/08-pipes/mr-brog-24-1-11-973-5-p/", "image": "/img/user/Backroom/Attachments and files/11-973-5P.png", "condition": "9", "preference": "7", "popularity": "7", "batch": "P"}, {"brand": "Mr.Brog", "model": "", "id": "6-882-1P", "permalink": "/08-pipes/mr-brog-24-green-6-882-1-p/", "image": "/img/user/Backroom/Attachments and files/6-882-1P.png", "condition": "8", "preference": "8", "popularity": "2", "batch": "P"}, {"brand": "Mr.Brog", "model": "", "id": "11-743-4P", "permalink": "/08-pipes/mr-brog-25-11-743-4-p/", "image": "/img/user/Backroom/Attachments and files/11-743-4P.png", "condition": "7", "preference": "4", "popularity": "3", "batch": "P"}, {"brand": "Mr.Brog", "model": "", "id": "11-784-3P", "permalink": "/08-pipes/mr-brog-31-11-784-3-p/", "image": "/img/user/Backroom/Attachments and files/11-784-3P+a.png", "condition": "7", "preference": "8", "popularity": "4", "batch": "P"}, {"brand": "Mr.Brog", "model": "", "id": "6-741-5P", "permalink": "/08-pipes/mr-brog-35-1-6-741-5-p/", "image": "/img/user/Backroom/Attachments and files/6-741-5P.png", "condition": "7", "preference": "4", "popularity": "1", "batch": "P"}, {"brand": "Mr.Brog", "model": "", "id": "4-242-5P", "permalink": "/08-pipes/mr-brog-35-chew-4-242-5-p/", "image": "/img/user/Backroom/Attachments and files/4-242-5P.png", "condition": "2", "preference": "2", "popularity": "4", "batch": "P"}, {"brand": "Mr.Brog", "model": "", "id": "4-931-2P", "permalink": "/08-pipes/mr-brog-40-4-931-2-p/", "image": "/img/user/Backroom/Attachments and files/4-931-2P.png", "condition": "9", "preference": "3", "popularity": "1", "batch": "P"}, {"brand": "Mr.Brog", "model": "", "id": "6-983-3P", "permalink": "/08-pipes/mr-brog-41-1-6-983-3-p/", "image": "/img/user/Backroom/Attachments and files/6-983-3P.png", "condition": "9", "preference": "8", "popularity": "3", "batch": "P"}, {"brand": "Mr.Brog", "model": "", "id": "4-873-3P", "permalink": "/08-pipes/mr-brog-41-4-873-3-p/", "image": "/img/user/Backroom/Attachments and files/4-873-3P.png", "condition": "8", "preference": "7", "popularity": "3", "batch": "P"}, {"brand": "Mr.Brog", "model": "", "id": "6-623-4P", "permalink": "/08-pipes/mr-brog-45-6-623-4-p/", "image": "/img/user/Backroom/Attachments and files/6-623-4P.png", "condition": "6", "preference": "2", "popularity": "3", "batch": "P"}, {"brand": "Mr.Brog", "model": "", "id": "4-322-4P", "permalink": "/08-pipes/mr-brog-47-cracked-4-322-4-p/", "image": "/img/user/Backroom/Attachments and files/4-322-4P.png", "condition": "3", "preference": "2", "popularity": "2", "batch": "P"}, {"brand": "Mr.Brog", "model": "", "id": "11-863-2P", "permalink": "/08-pipes/mr-brog-55-11-863-2-p/", "image": "/img/user/Backroom/Attachments and files/11-863-2P.png", "condition": "8", "preference": "6", "popularity": "3", "batch": "P"}, {"brand": "Mrs. Bro", "model": "64", "id": "32-333-2", "permalink": "/08-pipes/mrs-bro-64/", "image": "/img/user/Backroom/Attachments and files/32-333-2.png", "condition": "3", "preference": "3", "popularity": "3", "batch": ""}, {"brand": "Model: Bruyere Garantie", "model": "Bruyere Garantie", "id": "25-926-4", "permalink": "/08-pipes/no-name-bruyere-garantie-1-25-926-4/", "image": "/img/user/Backroom/Attachments and files/25-926-4.png", "condition": "9", "preference": "2", "popularity": "6", "batch": ""}, {"brand": "Model: Bruyere Garantie", "model": "Bruyere Garantie", "id": "18-867-3", "permalink": "/08-pipes/no-name-bruyere-garantie-18-867-3/", "image": "/img/user/Backroom/Attachments and files/18-867-3.png", "condition": "8", "preference": "6", "popularity": "7", "batch": ""}, {"brand": "Model: Danish Freeform Standing", "model": "Danish Freeform Standing", "id": "17-777-1", "permalink": "/08-pipes/no-name-danish-freeform-standing-17-777-1/", "image": "/img/user/Backroom/Attachments and files/17-777-1.png", "condition": "7", "preference": "7", "popularity": "7", "batch": ""}, {"brand": "Model: Danish Freeform Wide", "model": "Danish Freeform Wide", "id": "17-777-2", "permalink": "/08-pipes/no-name-danish-freeform-wide-17-777-2/", "image": "/img/user/Backroom/Attachments and files/17-777-2.png", "condition": "7", "preference": "7", "popularity": "7", "batch": ""}, {"brand": "Model: Flat Shank", "model": "Flat Shank", "id": "20-664-5", "permalink": "/08-pipes/no-name-flat-shank-20-664-5/", "image": "/img/user/Backroom/Attachments and files/20-664-5.png", "condition": "6", "preference": "6", "popularity": "4", "batch": ""}, {"brand": "---", "model": "French Pipe", "id": "10-876-5D", "permalink": "/08-pipes/no-name-french-pipe-10-876-5-d/", "image": "/img/user/Backroom/Attachments and files/10-876-5D.png", "condition": "8", "preference": "7", "popularity": "6", "batch": "D"}, {"brand": "Model: Gloria", "model": "Gloria", "id": "24-744-5", "permalink": "/08-pipes/no-name-gloria-24-744-5/", "image": "/img/user/Backroom/Attachments and files/24-744-5.png", "condition": "7", "preference": "4", "popularity": "4", "batch": ""}, {"brand": "Model: heel", "model": "heel", "id": "16-974-2", "permalink": "/08-pipes/no-name-heel-16-974-2/", "image": "/img/user/Backroom/Attachments and files/16-974-2.png", "condition": "9", "preference": "7", "popularity": "4", "batch": ""}, {"brand": "Model:", "model": "Stamp nr: M", "id": "15-844-1", "permalink": "/08-pipes/no-name-m-15-844-1/", "image": "/img/user/Backroom/Attachments and files/15-844-1.png", "condition": "8", "preference": "4", "popularity": "4", "batch": ""}, {"brand": "Model: Monaco", "model": "Monaco", "id": "26-924-1", "permalink": "/08-pipes/no-name-monaco-26-924-1/", "image": "/img/user/Backroom/Attachments and files/26-924-1.png", "condition": "9", "preference": "2", "popularity": "4", "batch": ""}, {"brand": "Mr.Brog", "model": "Stamp nr:", "id": "24-644-4P", "permalink": "/08-pipes/no-name-mr-brog-24-644-4-p/", "image": "/img/user/Backroom/Attachments and files/24-644-4P.png", "condition": "6", "preference": "4", "popularity": "4", "batch": "P"}, {"brand": "Model: Paint", "model": "Paint", "id": "23-422-3", "permalink": "/08-pipes/no-name-paint-23-422-3/", "image": "/img/user/Backroom/Attachments and files/23-422-3.png", "condition": "4", "preference": "2", "popularity": "2", "batch": ""}, {"brand": "Model: Pi Stem", "model": "Pi Stem", "id": "19-634-5", "permalink": "/08-pipes/no-name-pi-stem-19-634-5/", "image": "/img/user/Backroom/Attachments and files/19-634-5.png", "condition": "6", "preference": "3", "popularity": "4", "batch": ""}, {"brand": "Model:", "model": "Stamp nr:", "id": "16-434-4", "permalink": "/08-pipes/no-name-plastic-16-434-4/", "image": "/img/user/Backroom/Attachments and files/16-434-4.png", "condition": "4", "preference": "3", "popularity": "4", "batch": ""}, {"brand": "Model:", "model": "Stamp nr:", "id": "32-775-5", "permalink": "/08-pipes/no-name-prince-amlet/", "image": "/img/user/Backroom/Attachments and files/32-775-5.png", "condition": "7", "preference": "7", "popularity": "5", "batch": ""}, {"brand": "Model:", "model": "Stamp nr:", "id": "31-884-1", "permalink": "/08-pipes/no-name-rhodesian/", "image": "/img/user/Backroom/Attachments and files/31-884-1.png", "condition": "8", "preference": "8", "popularity": "4", "batch": ""}, {"brand": "Model: Ripple Grain", "model": "Ripple Grain", "id": "20-734-4", "permalink": "/08-pipes/no-name-ripple-grain-20-734-4/", "image": "/img/user/Backroom/Attachments and files/20-734-4.png", "condition": "7", "preference": "3", "popularity": "4", "batch": ""}, {"brand": "Model: SIX Briar", "model": "SIX Briar", "id": "26-313-4", "permalink": "/08-pipes/no-name-six-briar-26-313-4/", "image": "/img/user/Backroom/Attachments and files/26-313-4.png", "condition": "3", "preference": "1", "popularity": "3", "batch": ""}, {"brand": "Model:", "model": "Stamp nr:", "id": "33-482-4", "permalink": "/08-pipes/no-name-senior/", "image": "/img/user/Backroom/Attachments and files/33-482-4.png", "condition": "4", "preference": "8", "popularity": "2", "batch": ""}, {"brand": "Model: Sport Deluxe", "model": "Sport Deluxe", "id": "33-466-5", "permalink": "/08-pipes/no-name-sport-deluxe/", "image": "/img/user/Backroom/Attachments and files/33-466-5.png", "condition": "4", "preference": "6", "popularity": "6", "batch": ""}, {"brand": "Model: Squared", "model": "Squared", "id": "16-434-3", "permalink": "/08-pipes/no-name-squared-ropp-16-434-3/", "image": "/img/user/Backroom/Attachments and files/16-434-3.png", "condition": "4", "preference": "3", "popularity": "4", "batch": ""}, {"brand": "Model: Tall Bowl", "model": "Tall Bowl", "id": "23-645-2", "permalink": "/08-pipes/no-name-tall-bowl-23-645-2/", "image": "/img/user/Backroom/Attachments and files/23-645-2.png", "condition": "6", "preference": "4", "popularity": "5", "batch": ""}, {"brand": "---", "model": "Underslung Doctors pipe", "id": "10-776-4D", "permalink": "/08-pipes/no-name-underslung-10-776-4-d/", "image": "/img/user/Backroom/Attachments and files/10-776-4D.png", "condition": "7", "preference": "7", "popularity": "6", "batch": "D"}, {"brand": "Model:", "model": "Stamp nr: VS", "id": "16-734-5", "permalink": "/08-pipes/no-name-vs-16-734-5/", "image": "/img/user/Backroom/Attachments and files/16-734-5.png", "condition": "7", "preference": "3", "popularity": "4", "batch": ""}, {"brand": "Model: Vest Pocket", "model": "Vest Pocket", "id": "28-963-5", "permalink": "/08-pipes/no-name-vest-pocket-1-28-963-5/", "image": "/img/user/Backroom/Attachments and files/28-963-5.png", "condition": "9", "preference": "6", "popularity": "3", "batch": ""}, {"brand": "video: \"10", "model": "", "id": "10-986-6D", "permalink": "/08-pipes/no-name-vest-pocket-10-986-6-d/", "image": "/img/user/Backroom/Attachments and files/10-986-6D.png", "condition": "9", "preference": "8", "popularity": "6", "batch": "D"}, {"brand": "Model:", "model": "Stamp nr:", "id": "15-784-2", "permalink": "/08-pipes/no-name-italian-15-784-2/", "image": "/img/user/Backroom/Attachments and files/15-784-2.png", "condition": "7", "preference": "8", "popularity": "4", "batch": "ID: 15-784-2"}, {"brand": "Model:", "model": "Stamp nr:", "id": "14-741-2", "permalink": "/08-pipes/no-name-14-741-2/", "image": "/img/user/Backroom/Attachments and files/14-741-2.png", "condition": "7", "preference": "4", "popularity": "1", "batch": "ID: 14-741-2"}, {"brand": "Model:", "model": "Stamp nr:", "id": "14-741-3", "permalink": "/08-pipes/no-name-4-14-741-3/", "image": "/img/user/Backroom/Attachments and files/14-741-3.png", "condition": "7", "preference": "4", "popularity": "1", "batch": ""}, {"brand": "condition: \"9", "model": "", "id": "3-943-4L", "permalink": "/08-pipes/no-name-bullhead-3-943-4-l/", "image": "/img/user/Backroom/Attachments and files/3-943-4L.png", "condition": "9", "preference": "4", "popularity": "3", "batch": "L"}, {"brand": "---", "model": "", "id": "3-621-9", "permalink": "/08-pipes/noname-1-3-621-9/", "image": "/img/user/Backroom/Attachments and files/3-621-9.png", "condition": "6", "preference": "2", "popularity": "1", "batch": ""}, {"brand": "---", "model": "", "id": "4-763-1P", "permalink": "/08-pipes/noname-2-4-763-1-p/", "image": "/img/user/Backroom/Attachments and files/4-763-1P.png", "condition": "7", "preference": "6", "popularity": "3", "batch": "P"}, {"brand": "video: \"7", "model": "", "id": "7-744-1", "permalink": "/08-pipes/noname-3-7-744-1/", "image": "/img/user/Backroom/Attachments and files/7-744-1.png", "condition": "7", "preference": "4", "popularity": "4", "batch": "ID: 7-744-1"}, {"brand": "condition: \"8", "model": "", "id": "2-841-7L", "permalink": "/08-pipes/noname-2-841-7/", "image": "/img/user/Backroom/Attachments and files/2-841-7L.png", "condition": "8", "preference": "4", "popularity": "1", "batch": "L"}, {"brand": "Nørding", "model": "", "id": "8-883-3", "permalink": "/08-pipes/nording-535-8-883-3/", "image": "/img/user/Backroom/Attachments and files/8-883-3.png", "condition": "8", "preference": "4", "popularity": "5", "batch": ""}, {"brand": "Nørding", "model": "Compass", "id": "26-888-5", "permalink": "/08-pipes/nording-compass-26-888-5/", "image": "/img/user/Backroom/Attachments and files/26-888-5.png", "condition": "8", "preference": "8", "popularity": "8", "batch": ""}, {"brand": "Nørding", "model": "Radiator", "id": "20-898-2", "permalink": "/08-pipes/nording-radiator-20-898-2/", "image": "/img/user/Backroom/Attachments and files/20-898-2.png", "condition": "8", "preference": "9", "popularity": "8", "batch": ""}, {"brand": "Orlik", "model": "Deluxe", "id": "8-766-1", "permalink": "/08-pipes/orlik-deluxe-182-8-766-1/", "image": "/img/user/Backroom/Attachments and files/8-766-1.png", "condition": "7", "preference": "6", "popularity": "6", "batch": ""}, {"brand": "Orlik", "model": "Ford", "id": "19-756-3", "permalink": "/08-pipes/orlik-ford-19-756-3/", "image": "/img/user/Backroom/Attachments and files/19-756-3.png", "condition": "7", "preference": "5", "popularity": "6", "batch": ""}, {"brand": "P. Holtorp", "model": "Wedge", "id": "29-888-4", "permalink": "/08-pipes/p-holtorp-wedge-29-888-4/", "image": "/img/user/Backroom/Attachments and files/29-888-4.png", "condition": "8", "preference": "8", "popularity": "8", "batch": ""}, {"brand": "Petersons", "model": "Killarney", "id": "7-292-5K", "permalink": "/08-pipes/petersons-killarney-80s-7-292-5-k/", "image": "/img/user/Backroom/Attachments and files/7-292-5K.png", "condition": "2", "preference": "9", "popularity": "2", "batch": "K"}, {"brand": "Petersons", "model": "Shamrock", "id": "17-987-3", "permalink": "/08-pipes/petersons-shamrock-64-17-987-3/", "image": null, "condition": "9", "preference": "8", "popularity": "7", "batch": ""}, {"brand": "Petersons", "model": "", "id": "2-677-2L", "permalink": "/08-pipes/petersons-standard-313-2-677-2-l/", "image": "/img/user/Backroom/Attachments and files/2-677-2L.png", "condition": "6", "preference": "7", "popularity": "7", "batch": "L"}, {"brand": "Petersons", "model": "Year Pipe 2009 Limited Edition", "id": "17-678-4", "permalink": "/08-pipes/petersons-year-pipe-2009-limited-edition-17-678-4/", "image": "/img/user/Backroom/Attachments and files/17-678-4.png", "condition": "6", "preference": "7", "popularity": "8", "batch": ""}, {"brand": "Pipemakers", "model": "", "id": "9-732-2", "permalink": "/08-pipes/pipemakers-23-145-9-732-2/", "image": "/img/user/Backroom/Attachments and files/9-732-2.png", "condition": "7", "preference": "3", "popularity": "2", "batch": ""}, {"brand": "Portland", "model": "Breuer Guarantee", "id": "23-686-1", "permalink": "/08-pipes/portland-breuer-guarantee-4-23-686-1/", "image": "/img/user/Backroom/Attachments and files/23-686-1.png", "condition": "6", "preference": "8", "popularity": "6", "batch": ""}, {"brand": "Portland", "model": "57", "id": "19-674-1", "permalink": "/08-pipes/portland-bruyere-guarantee-57-19-674-1/", "image": "/img/user/Backroom/Attachments and files/19-674-1.png", "condition": "6", "preference": "7", "popularity": "4", "batch": ""}, {"brand": "Prince Amhed", "model": "1x8", "id": "27-567-5", "permalink": "/08-pipes/prince-amhed-1x8-27-567-5/", "image": "/img/user/Backroom/Attachments and files/27-567-5.png", "condition": "5", "preference": "6", "popularity": "7", "batch": ""}, {"brand": "Prince Amled", "model": "157", "id": "29-867-1", "permalink": "/08-pipes/prince-amled-157-29-867-1/", "image": "/img/user/Backroom/Attachments and files/29-867-1.png", "condition": "8", "preference": "6", "popularity": "7", "batch": ""}, {"brand": "Ratos", "model": "Rock root", "id": "5-272-4", "permalink": "/08-pipes/ratos-rock-root-5-272-4/", "image": null, "condition": "2", "preference": "7", "popularity": "2", "batch": ""}, {"brand": "Robin Hood", "model": "", "id": "10-852-3D", "permalink": "/08-pipes/robin-hood-france-10-852-3-d/", "image": "/img/user/Backroom/Attachments and files/10-852-3D.png", "condition": "8", "preference": "5", "popularity": "2", "batch": "D"}, {"brand": "Royal Danish", "model": "50", "id": "30-888-4", "permalink": "/08-pipes/royal-danish-50/", "image": "/img/user/Backroom/Attachments and files/30-888-4.png", "condition": "8", "preference": "8", "popularity": "8", "batch": ""}, {"brand": "Royal Falcon", "model": "", "id": "1-775-10L", "permalink": "/08-pipes/royal-falcon-210-1-775-10-l/", "image": "/img/user/Backroom/Attachments and files/1-775-10L.png", "condition": "7", "preference": "7", "popularity": "5", "batch": "L"}, {"brand": "Savinelli", "model": "207", "id": "19-767-2", "permalink": "/08-pipes/savinelli-207-19-767-2/", "image": "/img/user/Backroom/Attachments and files/19-767-2.png", "condition": "7", "preference": "6", "popularity": "7", "batch": ""}, {"brand": "Savinelli", "model": "Bing's Favorite", "id": "19-978-4", "permalink": "/08-pipes/savinelli-bings-favorite-19-978-4/", "image": "/img/user/Backroom/Attachments and files/19-978-4.png", "condition": "9", "preference": "7", "popularity": "8", "batch": ""}, {"brand": "Savinelli", "model": "Brupa", "id": "18-887-4", "permalink": "/08-pipes/savinelli-brupa-603-18-887-4/", "image": "/img/user/Backroom/Attachments and files/18-887-4.png", "condition": "8", "preference": "8", "popularity": "7", "batch": ""}, {"brand": "Savinelli", "model": "Kings Cross Featherweight", "id": "10-266-1D", "permalink": "/08-pipes/savinelli-kings-cross-10-266-1-d/", "image": "/img/user/Backroom/Attachments and files/10-266-1D.png", "condition": "2", "preference": "6", "popularity": "6", "batch": "D"}, {"brand": "Savinelli", "model": "Padova", "id": "18-887-5", "permalink": "/08-pipes/savinelli-padova-173-18-887-5/", "image": "/img/user/Backroom/Attachments and files/18-887-5.png", "condition": "8", "preference": "8", "popularity": "7", "batch": ""}, {"brand": "Stanwell", "model": "Royal Briar", "id": "34-998-3PR", "permalink": "/08-pipes/stanwell-353/", "image": "/img/user/Backroom/Attachments and files/34-998-3.png", "condition": "9", "preference": "9", "popularity": "8", "batch": "PR"}, {"brand": "Stanwell", "model": "Deluxe Sabroe", "id": "12-835-1", "permalink": "/08-pipes/stanwell-429-12-835-1/", "image": "/img/user/Backroom/Attachments and files/12-835-1.png", "condition": "8", "preference": "3", "popularity": "5", "batch": ""}, {"brand": "Stanwell", "model": "Selected Briar", "id": "22-765-4", "permalink": "/08-pipes/stanwell-selected-briar-90-22-765-4/", "image": null, "condition": "7", "preference": "6", "popularity": "5", "batch": ""}, {"brand": "Straight Grain", "model": "Stamp nr:", "id": "14-632-1", "permalink": "/08-pipes/straight-grain-14-632-1/", "image": "/img/user/Backroom/Attachments and files/14-632-1.png", "condition": "6", "preference": "3", "popularity": "2", "batch": ""}, {"brand": "Stratford", "model": "", "id": "2-733-1L", "permalink": "/08-pipes/stratford-deluxe-50-2-733-1-l/", "image": "/img/user/Backroom/Attachments and files/2-733-1L.png", "condition": "7", "preference": "3", "popularity": "3", "batch": "L"}, {"brand": "Thurmann", "model": "Fox", "id": "3-723-8L", "permalink": "/08-pipes/thurmann-fox-3-723-8-l/", "image": "/img/user/Backroom/Attachments and files/3-723-8L.png", "condition": "7", "preference": "2", "popularity": "3", "batch": ""}, {"brand": "Vauen", "model": "Stamp nr: 8261", "id": "34-972-2PR", "permalink": "/08-pipes/vauen-8261/", "image": "/img/user/Backroom/Attachments and files/34-972-2PR.png", "condition": "9", "preference": "7", "popularity": "2", "batch": "PR"}, {"brand": "Vauen", "model": "Basic", "id": "12-742-5", "permalink": "/08-pipes/vauen-basic-1300-12-742-5/", "image": "/img/user/Backroom/Attachments and files/12-742-5.png", "condition": "7", "preference": "4", "popularity": "2", "batch": ""}, {"brand": "Vauen", "model": "C. Barrontini", "id": "34-999-4PR", "permalink": "/08-pipes/vauen-c-barrontini-86/", "image": "/img/user/Backroom/Attachments and files/34-999-4.png", "condition": "9", "preference": "9", "popularity": "9", "batch": "PR"}, {"brand": "Walgraine", "model": "", "id": "2-763-8L", "permalink": "/08-pipes/walgraine-2-763-8-l/", "image": "/img/user/Backroom/Attachments and files/2-763-8L.png", "condition": "7", "preference": "6", "popularity": "3", "batch": "L"}, {"brand": "Welbeck", "model": "", "id": "1-753-6L", "permalink": "/08-pipes/welbeck-de-luxe-handmade-1-753-6/", "image": "/img/user/Backroom/Attachments and files/1-753-6L.png", "condition": "7", "preference": "5", "popularity": "3", "batch": "L"}, {"brand": "Welbeck", "model": "Deluxe", "id": "3-362-6L", "permalink": "/08-pipes/welbeck-deluxe-3-362-6-l/", "image": "/img/user/Backroom/Attachments and files/3-362-6L.png", "condition": "3", "preference": "6", "popularity": "2", "batch": "L"}, {"brand": "Welbeck", "model": "", "id": "2-443-9L", "permalink": "/08-pipes/welbeck-made-in-england-2-443-9-l/", "image": "/img/user/Backroom/Attachments and files/2-443-9L.png", "condition": "4", "preference": "4", "popularity": "3", "batch": "L"}, {"brand": "White Star", "model": "", "id": "1-873-4", "permalink": "/08-pipes/white-star-ancona-623-1-873-4/", "image": "/img/user/Backroom/Attachments and files/1-873-4.png", "condition": "8", "preference": "7", "popularity": "3", "batch": ""}, {"brand": "White Star", "model": "Carlo", "id": "33-886-2", "permalink": "/08-pipes/white-star-carlo/", "image": "/img/user/Backroom/Attachments and files/33-886-2.png", "condition": "8", "preference": "8", "popularity": "6", "batch": ""}, {"brand": "White Star", "model": "Genuine Leather", "id": "5-674-5", "permalink": "/08-pipes/white-star-genuine-leather-5-674-5/", "image": null, "condition": "6", "preference": "7", "popularity": "4", "batch": ""}, {"brand": "Zoie", "model": "", "id": "7-233-2", "permalink": "/08-pipes/zoie-7-233-2/", "image": "/img/user/Backroom/Attachments and files/7-233-2.png", "condition": "2", "preference": "3", "popularity": "3", "batch": ""}];
+
+function esc(s){
+  if (s === null || s === undefined) return "";
+  return String(s).replace(/[&<>"']/g, c => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+  }[c]));
+}
+
+function ratingClass(v){
+  const n = parseInt(v, 10);
+  if (isNaN(n)) return "";
+  if (n >= 8) return "high";
+  if (n <= 3) return "low";
+  return "";
+}
+
+function groupByBrand(pipes){
+  const map = new Map();
+  pipes.forEach(p => {
+    const brand = (p.brand && p.brand.trim()) ? p.brand.trim() : "No Name";
+    const key = brand === "Unknown" ? "No Name" : brand;
+    if (!map.has(key)) map.set(key, []);
+    map.get(key).push(p);
+  });
+  // sort pipes within brand by model name
+  map.forEach(list => list.sort((a,b) => (a.model||"").localeCompare(b.model||"")));
+  // sort brand keys alphabetically, "No Name" always last
+  const keys = Array.from(map.keys()).sort((a,b) => {
+    if (a === "No Name") return 1;
+    if (b === "No Name") return -1;
+    return a.localeCompare(b);
+  });
+  return { map, keys };
+}
+
+function cardHTML(p){
+  const modelLabel = p.model ? esc(p.model) : esc(p.id || "Unknown");
+  const imgBlock = p.image
+    ? `<img src="${esc(p.image)}" alt="${esc(p.brand)} ${esc(p.model)}" loading="lazy">`
+    : `<div class="no-image">
+         <svg viewBox="0 0 24 24" fill="none" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></svg>
+         <div>No photo yet</div>
+       </div>`;
+
+  return `
+  <a class="card" href="${esc(p.permalink)}" data-brand="${esc(p.brand)}" data-search="${esc((p.brand+' '+p.model+' '+p.id).toLowerCase())}">
+    <div class="card-img">${imgBlock}</div>
+    <div class="card-body">
+      <div class="card-model">${modelLabel}</div>
+      <div class="card-id">${esc(p.id)}</div>
+      <div class="ratings">
+        <div class="rating">
+          <span class="rating-label">Cond</span>
+          <span class="rating-value ${ratingClass(p.condition)}">${esc(p.condition ?? "&mdash;")}</span>
+        </div>
+        <div class="rating">
+          <span class="rating-label">Pref</span>
+          <span class="rating-value ${ratingClass(p.preference)}">${esc(p.preference ?? "&mdash;")}</span>
+        </div>
+        <div class="rating">
+          <span class="rating-label">Pop</span>
+          <span class="rating-value ${ratingClass(p.popularity)}">${esc(p.popularity ?? "&mdash;")}</span>
+        </div>
+      </div>
+    </div>
+  </a>`;
+}
+
+function render(){
+  const { map, keys } = groupByBrand(PIPES);
+  const root = document.getElementById("gallery-root");
+  const brandSelect = document.getElementById("brand-filter");
+
+  // populate brand filter once
+  keys.forEach(k => {
+    const opt = document.createElement("option");
+    opt.value = k;
+    opt.textContent = `${k} (${map.get(k).length})`;
+    brandSelect.appendChild(opt);
+  });
+
+  // stats
+  document.getElementById("stat-total").textContent = PIPES.length;
+  document.getElementById("stat-brands").textContent = keys.filter(k => k !== "No Name").length;
+  document.getElementById("stat-images").textContent = PIPES.filter(p => p.image).length;
+
+  // build sections
+  let html = "";
+  keys.forEach(brand => {
+    const pipes = map.get(brand);
+    const isNoName = brand === "No Name";
+    html += `
+    <section class="brand-section" data-brand-section="${esc(brand)}">
+      <div class="brand-header ${isNoName ? "no-name" : ""}">
+        <h2 class="brand-name">${esc(brand)}</h2>
+        <span class="brand-count">${pipes.length}</span>
+      </div>
+      <div class="grid">
+        ${pipes.map(cardHTML).join("")}
+      </div>
+    </section>`;
+  });
+  root.innerHTML = html;
+
+  attachFilterLogic();
+}
+
+function attachFilterLogic(){
+  const searchInput = document.getElementById("search-input");
+  const brandSelect = document.getElementById("brand-filter");
+  const resultCount = document.getElementById("result-count");
+  const emptyState = document.getElementById("empty-state");
+  const cards = Array.from(document.querySelectorAll(".card"));
+  const sections = Array.from(document.querySelectorAll(".brand-section"));
+
+  function applyFilters(){
+    const q = searchInput.value.trim().toLowerCase();
+    const brand = brandSelect.value;
+    let visibleCount = 0;
+
+    cards.forEach(card => {
+      const matchesQuery = !q || card.dataset.search.includes(q);
+      const matchesBrand = !brand || (card.dataset.brand === brand) || (brand === "No Name" && (!card.dataset.brand || card.dataset.brand === "Unknown" || card.dataset.brand === ""));
+      const visible = matchesQuery && matchesBrand;
+      card.style.display = visible ? "" : "none";
+      if (visible) visibleCount++;
+    });
+
+    sections.forEach(sec => {
+      const anyVisible = Array.from(sec.querySelectorAll(".card")).some(c => c.style.display !== "none");
+      sec.classList.toggle("is-hidden", !anyVisible);
+    });
+
+    resultCount.textContent = (q || brand) ? `${visibleCount} of ${cards.length}` : "";
+    emptyState.classList.toggle("is-hidden", visibleCount !== 0);
+  }
+
+  searchInput.addEventListener("input", applyFilters);
+  brandSelect.addEventListener("change", applyFilters);
+}
+
+render();
+</script>
+
+</body>
+</html>
