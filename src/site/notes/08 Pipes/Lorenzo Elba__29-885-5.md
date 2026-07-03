@@ -5,7 +5,7 @@
 
 # Lorenzo Elba
 
-![[29-5done.png\|29-5done.png]]
+![Attachments and files/29-885-5.png](/img/user/Backroom/Attachments%20and%20files/29-885-5.png)
 ## Description
 
 A chunky Lorenzo Elba with a distinctive triangular shank and matching stem profile. Acquired together with its original box, paperwork, and accessories dating back to 1983, the pipe offers an appealing glimpse into its history. Heavy cake and accumulated dirt mean it requires thorough cleaning, but the shape, proportions, and tactile feel make it an especially appealing recent acquisition.

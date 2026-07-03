@@ -5,7 +5,7 @@
 
 # Mr. Brog 24 Semi Bent
 
-![[25-2done.png\|25-2done.png]]
+![Attachments and files/25-674-2P.png](/img/user/Backroom/Attachments%20and%20files/25-674-2P.png)
 ## Description
 
 An older Mr. Brog 24 featuring a semi-bent shape, ABS stem, and decorative metal band. The pipe shows signs of use and would benefit from cleaning, but remains in generally good condition. The rusticated detailing around the shank and warm finish give it more visual character than some of the simpler examples. As an older production variant, it also provides an interesting comparison to newer versions of the same model.

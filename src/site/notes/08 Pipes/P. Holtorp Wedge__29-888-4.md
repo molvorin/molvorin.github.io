@@ -5,7 +5,7 @@
 
 # P. Holtorp Wedge
 
-![[29-4done.png\|29-4done.png]]
+![Attachments and files/29-888-4.png](/img/user/Backroom/Attachments%20and%20files/29-888-4.png)
 ## Description
 
 A handmade Danish P. Holtorp wedge displaying dramatic asymmetrical shaping and attractive grain. The pipe appears either unsmoked or exceptionally well preserved and was later identified through research into Danish pipe makers. Its sculptural form, distinctive shape, and rarity make it one of the standout pieces in the collection.

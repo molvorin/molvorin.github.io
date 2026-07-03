@@ -47,6 +47,12 @@
     - [[08 Pipes/Brillon 60\|Brillon 60]]
     - [[08 Pipes/Brillon Populär\|Brillon Populär]]
 
+- Butz-Choquin: 
+    - [[08 Pipes/Butz-Choquin Corrida 1508\|Butz-Choquin Corrida 1508]]
+
+- Chap: 
+    - [[08 Pipes/Chap Filtre B-900\|Chap Filtre B-900]]
+
 - Charatans Make: 
     - [[08 Pipes/Charatans Make__3-354-3L\|Charatans Make__3-354-3L]]
 
@@ -86,6 +92,9 @@
 - Falcon: 
     - [[08 Pipes/Falcon__5-812-3\|Falcon__5-812-3]]
 
+- Gasparini: 
+    - [[08 Pipes/Gasparini Camillo 207\|Gasparini Camillo 207]]
+
 - Georg Jensen: 
     - [[08 Pipes/Georg Jensen 22__26-788-2\|Georg Jensen 22__26-788-2]]
     - [[08 Pipes/Georg Jensen Aluband 54__1-886-2\|Georg Jensen Aluband 54__1-886-2]]
@@ -93,6 +102,7 @@
     - [[08 Pipes/Georg Jensen Handmade__15-887-3\|Georg Jensen Handmade__15-887-3]]
     - [[08 Pipes/Georg Jensen Orange Extra 231__16-646-1\|Georg Jensen Orange Extra 231__16-646-1]]
     - [[08 Pipes/Georg Jensen__5-000-2\|Georg Jensen__5-000-2]]
+    - [[08 Pipes/Georg Jensen Billiard\|Georg Jensen Billiard]]
 
 - Governor: 
     - [[08 Pipes/Governor Real Briar__20-576-1\|Governor Real Briar__20-576-1]]
@@ -115,11 +125,15 @@
 - Hilston: 
     - [[08 Pipes/Hilston Select 416__8-684-2\|Hilston Select 416__8-684-2]]
 
+- Jean-Claude: 
+    - [[08 Pipes/Jean-Claude Panel\|Jean-Claude Panel]]
+
 - Jeantet: 
     - [[08 Pipes/Jeantet Chambord\|Jeantet Chambord]]
     - [[08 Pipes/Jeantet Preference P-69__3-212-5L\|Jeantet Preference P-69__3-212-5L]]
     - [[08 Pipes/Jeantet Preference P.88__3-793-2L\|Jeantet Preference P.88__3-793-2L]]
     - [[08 Pipes/Jeantet Preference P46__1-672-1\|Jeantet Preference P46__1-672-1]]
+    - [[08 Pipes/Jeantet Jubile 69-13\|Jeantet Jubile 69-13]]
 
 - Kaywoodie: 
     - [[08 Pipes/Kaywoodie Super Grain 5191__2-884-5L\|Kaywoodie Super Grain 5191__2-884-5L]]
@@ -186,8 +200,8 @@
     - [[08 Pipes/Mr.Brog 35 chew__4-242-5P\|Mr.Brog 35 chew__4-242-5P]]
     - [[08 Pipes/Mr.Brog 40__4-931-2P\|Mr.Brog 40__4-931-2P]]
     - [[08 Pipes/Mr.Brog 41 1__6-983-3P\|Mr.Brog 41 1__6-983-3P]]
-    - [[08 Pipes/Mr.Brog 45__6-623-4P\|Mr.Brog 45__6-623-4P]]
     - [[08 Pipes/Mr.Brog 41__4-873-3P\|Mr.Brog 41__4-873-3P]]
+    - [[08 Pipes/Mr.Brog 45__6-623-4P\|Mr.Brog 45__6-623-4P]]
     - [[08 Pipes/Mr.Brog 47 cracked__4-322-4P\|Mr.Brog 47 cracked__4-322-4P]]
     - [[08 Pipes/Mr.Brog 55__11-863-2P\|Mr.Brog 55__11-863-2P]]
     - [[08 Pipes/No Name Mr. Brog__24-644-4P\|No Name Mr. Brog__24-644-4P]]
@@ -248,6 +262,7 @@
 - Stanwell: 
     - [[08 Pipes/Stanwell 429__12-835-1\|Stanwell 429__12-835-1]]
     - [[08 Pipes/Stanwell Selected Briar 90__22-765-4\|Stanwell Selected Briar 90__22-765-4]]
+    - [[08 Pipes/Stanwell 353\|Stanwell 353]]
 
 - Straight Grain: 
     - [[08 Pipes/Straight Grain__14-632-1\|Straight Grain__14-632-1]]
@@ -260,6 +275,8 @@
 
 - Vauen: 
     - [[08 Pipes/Vauen Basic 1300__12-742-5\|Vauen Basic 1300__12-742-5]]
+    - [[08 Pipes/Vauen 8261\|Vauen 8261]]
+    - [[08 Pipes/Vauen C. Barrontini 86\|Vauen C. Barrontini 86]]
 
 - Walgraine: 
     - [[08 Pipes/Walgraine__2-763-8L\|Walgraine__2-763-8L]]

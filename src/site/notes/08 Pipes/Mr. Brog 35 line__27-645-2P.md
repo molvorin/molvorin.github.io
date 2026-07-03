@@ -5,7 +5,7 @@
 
 # Mr. Brog 35 line
 
-![[27-2done.png\|27-2done.png]]
+![Attachments and files/27-645-2P.png](/img/user/Backroom/Attachments%20and%20files/27-645-2P.png)
 ## Description
 
 A semi-bent Mr. Brog 35 featuring an attractive stain and a distinctive line running along the bowl. The pipe suffers from a visible gap between the stem and shank, along with some discoloration, but remains structurally sound. While not especially exciting compared to other examples in the collection, it is a serviceable smoker and a decent representation of the model.

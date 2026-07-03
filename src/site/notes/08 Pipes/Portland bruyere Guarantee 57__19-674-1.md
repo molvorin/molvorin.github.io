@@ -5,7 +5,7 @@
 
 # Portland bruyere Guarantee 57
 
-![[19-01done.png\|19-01done.png]]
+
 ## Description
 
 

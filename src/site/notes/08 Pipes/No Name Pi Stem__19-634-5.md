@@ -5,7 +5,7 @@
 
 # No Name Pi Stem
 
-![[19-5done.png\|19-5done.png]]
+![Attachments and files/19-634-5.png](/img/user/Backroom/Attachments%20and%20files/19-634-5.png)
 ## Description
 
 

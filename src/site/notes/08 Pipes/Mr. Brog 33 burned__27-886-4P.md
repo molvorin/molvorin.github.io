@@ -5,7 +5,7 @@
 
 # Mr. Brog 33 burned
 
-![[27-4done.png\|27-4done.png]]
+![Attachments and files/27-886-4P.png](/img/user/Backroom/Attachments%20and%20files/27-886-4P.png)
 ## Description
 
 A large and chunky Mr. Brog 33 with a substantial bowl and surprisingly light weight. The existing mouthpiece has become severely deformed and will require replacement, but the bowl itself remains in very good condition. The dramatic proportions, attractive stain, and comfortable feel make this one of the most promising pipes in the batch. With a replacement stem installed, it has the potential to become a favorite smoker.

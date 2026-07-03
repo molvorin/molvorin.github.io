@@ -5,7 +5,7 @@
 
 # Mr. Brog 24 Wide Stem
 
-![[25-5done.png\|25-5done.png]]
+![Attachments and files/25-876-5P.png](/img/user/Backroom/Attachments%20and%20files/25-876-5P.png)
 ## Description
 
 A frequently smoked Mr. Brog 24 fitted with an unusually wide white stem and a mouthpiece resembling a P-Lip design. The pipe differs noticeably from other 24 examples, raising questions about production variations and replacement stem compatibility. Despite its unconventional appearance, it has proven to be an enjoyable smoker and remains in good condition. Its distinctive stem and characterful presentation make it one of the more memorable pipes in the batch.
