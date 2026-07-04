@@ -184,15 +184,15 @@
 | [[08 Pipes/No Name Senior\|No Name Senior]]                                                                         | 33-482-4   |
 | [[08 Pipes/No Name Sport Deluxe\|No Name Sport Deluxe]]                                                             | 33-466-5   |
 | [[08 Pipes/White Star Carlo\|White Star Carlo]]                                                                     | 33-886-2   |
-| [[08 Pipes/Vauen 8261\|Vauen 8261]]                                                                                 | 34-972-2PR |
-| [[08 Pipes/Chap Filtre B-900\|Chap Filtre B-900]]                                                                   | 34-972-5PR |
-| [[08 Pipes/Jeantet Jubile 69-13\|Jeantet Jubile 69-13]]                                                             | 34-977-1PR |
 | [[08 Pipes/Butz-Choquin Corrida 1508\|Butz-Choquin Corrida 1508]]                                                   | 34-987-9PR |
-| [[08 Pipes/Jean-Claude Panel\|Jean-Claude Panel]]                                                                   | 34-977-8PR |
+| [[08 Pipes/Chap Filtre B-900\|Chap Filtre B-900]]                                                                   | 34-972-5PR |
 | [[08 Pipes/Gasparini Camillo 207\|Gasparini Camillo 207]]                                                           | 34-998-7PR |
 | [[08 Pipes/Georg Jensen Billiard\|Georg Jensen Billiard]]                                                           | 34-778-6PR |
-| [[08 Pipes/Vauen C. Barrontini 86\|Vauen C. Barrontini 86]]                                                         | 34-999-4PR |
+| [[08 Pipes/Jean-Claude Panel\|Jean-Claude Panel]]                                                                   | 34-977-8PR |
+| [[08 Pipes/Jeantet Jubile 69-13\|Jeantet Jubile 69-13]]                                                             | 34-977-1PR |
 | [[08 Pipes/Stanwell 353\|Stanwell 353]]                                                                             | 34-998-3PR |
+| [[08 Pipes/Vauen 8261\|Vauen 8261]]                                                                                 | 34-972-2PR |
+| [[08 Pipes/Vauen C. Barrontini 86\|Vauen C. Barrontini 86]]                                                         | 34-999-4PR |
 
 { .block-language-dataview}
 

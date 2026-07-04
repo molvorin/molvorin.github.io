@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-bullhead-3-943-4-l/","noteIcon":"","dg-note-properties":{"aliases":["3-943-4L"],"video":"3","brand":null,"condition":"9","preference":"4","popularity":"3","Batch":"L","video_order":"4","ID":"3-943-4L"}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-bullhead-3-943-4-l/","noteIcon":"","dg-note-properties":{"aliases":["3-943-4L"],"video":"3","brand":null,"Model":"Bullhead","condition":"9","preference":"4","popularity":"3","Batch":"L","video_order":"4","ID":"3-943-4L"}}
 ---
 
 

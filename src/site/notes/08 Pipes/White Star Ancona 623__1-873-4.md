@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/white-star-ancona-623-1-873-4/","noteIcon":"","dg-note-properties":{"aliases":["1-873-4"],"video":"1","brand":"White Star","video_order":"4","condition":"8","preference":"7","popularity":"3","Stamp nr":"623","ID":"1-873-4"}}
+{"dg-publish":true,"permalink":"/08-pipes/white-star-ancona-623-1-873-4/","noteIcon":"","dg-note-properties":{"aliases":["1-873-4"],"video":"1","brand":"White Star","Model":"Ancona 623","video_order":"4","condition":"8","preference":"7","popularity":"3","Stamp nr":"623","ID":"1-873-4"}}
 ---
 
 

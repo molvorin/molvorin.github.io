@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-35-chew-4-242-5-p/","noteIcon":"","dg-note-properties":{"aliases":["4-242-5P"],"video":"4","video_order":"5","brand":"Mr.Brog","condition":"2","popularity":"4","preference":"2","Stamp nr":"35","Batch":"P","ID":"4-242-5P"}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-35-chew-4-242-5-p/","noteIcon":"","dg-note-properties":{"aliases":["4-242-5P"],"video":"4","video_order":"5","brand":"Mr.Brog","Model":"Chew","condition":"2","popularity":"4","preference":"2","Stamp nr":"35","Batch":"P","ID":"4-242-5P"}}
 ---
 
 

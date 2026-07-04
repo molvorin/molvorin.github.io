@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-rhodesian/","noteIcon":"","dg-note-properties":{"brand":null,"Model":null,"Stamp nr":null,"video":"31","condition":"8","preference":"8","popularity":"4","video_order":"1","Batch":"","ID":"31-884-1","aliases":["31-884-1"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-rhodesian/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"Rhodesian","Stamp nr":null,"video":"31","condition":"8","preference":"8","popularity":"4","video_order":"1","Batch":"","ID":"31-884-1","aliases":["31-884-1"]}}
 ---
 
 

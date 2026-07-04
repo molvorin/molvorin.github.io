@@ -26,8 +26,8 @@
     - [[08 Pipes/BBB Best Make__2-377-10L\|BBB Best Make__2-377-10L]]
     - [[08 Pipes/BBB Bulldog Guardsman__1-473-3\|BBB Bulldog Guardsman__1-473-3]]
     - [[08 Pipes/BBB Centenary 1847 - 1947__13-775-4L\|BBB Centenary 1847 - 1947__13-775-4L]]
-    - [[08 Pipes/BBB Christmas 1970 Special make__1-355-9L\|BBB Christmas 1970 Special make__1-355-9L]]
     - [[08 Pipes/BBB Classic 652\|BBB Classic 652]]
+    - [[08 Pipes/BBB Christmas 1970 Special make__1-355-9L\|BBB Christmas 1970 Special make__1-355-9L]]
     - [[08 Pipes/BBB Crusted__20-475-3\|BBB Crusted__20-475-3]]
     - [[08 Pipes/BBB Medina 539__8-876-4\|BBB Medina 539__8-876-4]]
 
@@ -98,11 +98,11 @@
 - Georg Jensen: 
     - [[08 Pipes/Georg Jensen 22__26-788-2\|Georg Jensen 22__26-788-2]]
     - [[08 Pipes/Georg Jensen Aluband 54__1-886-2\|Georg Jensen Aluband 54__1-886-2]]
+    - [[08 Pipes/Georg Jensen Billiard\|Georg Jensen Billiard]]
     - [[08 Pipes/Georg Jensen Dania 606__5-322-1\|Georg Jensen Dania 606__5-322-1]]
     - [[08 Pipes/Georg Jensen Handmade__15-887-3\|Georg Jensen Handmade__15-887-3]]
     - [[08 Pipes/Georg Jensen Orange Extra 231__16-646-1\|Georg Jensen Orange Extra 231__16-646-1]]
     - [[08 Pipes/Georg Jensen__5-000-2\|Georg Jensen__5-000-2]]
-    - [[08 Pipes/Georg Jensen Billiard\|Georg Jensen Billiard]]
 
 - Governor: 
     - [[08 Pipes/Governor Real Briar__20-576-1\|Governor Real Briar__20-576-1]]
@@ -130,10 +130,10 @@
 
 - Jeantet: 
     - [[08 Pipes/Jeantet Chambord\|Jeantet Chambord]]
+    - [[08 Pipes/Jeantet Jubile 69-13\|Jeantet Jubile 69-13]]
     - [[08 Pipes/Jeantet Preference P-69__3-212-5L\|Jeantet Preference P-69__3-212-5L]]
     - [[08 Pipes/Jeantet Preference P.88__3-793-2L\|Jeantet Preference P.88__3-793-2L]]
     - [[08 Pipes/Jeantet Preference P46__1-672-1\|Jeantet Preference P46__1-672-1]]
-    - [[08 Pipes/Jeantet Jubile 69-13\|Jeantet Jubile 69-13]]
 
 - Kaywoodie: 
     - [[08 Pipes/Kaywoodie Super Grain 5191__2-884-5L\|Kaywoodie Super Grain 5191__2-884-5L]]
@@ -260,9 +260,9 @@
     - [[08 Pipes/Savinelli Padova 173__18-887-5\|Savinelli Padova 173__18-887-5]]
 
 - Stanwell: 
+    - [[08 Pipes/Stanwell 353\|Stanwell 353]]
     - [[08 Pipes/Stanwell 429__12-835-1\|Stanwell 429__12-835-1]]
     - [[08 Pipes/Stanwell Selected Briar 90__22-765-4\|Stanwell Selected Briar 90__22-765-4]]
-    - [[08 Pipes/Stanwell 353\|Stanwell 353]]
 
 - Straight Grain: 
     - [[08 Pipes/Straight Grain__14-632-1\|Straight Grain__14-632-1]]
@@ -274,8 +274,8 @@
     - [[08 Pipes/Thurmann Fox__3-723-8L\|Thurmann Fox__3-723-8L]]
 
 - Vauen: 
-    - [[08 Pipes/Vauen Basic 1300__12-742-5\|Vauen Basic 1300__12-742-5]]
     - [[08 Pipes/Vauen 8261\|Vauen 8261]]
+    - [[08 Pipes/Vauen Basic 1300__12-742-5\|Vauen Basic 1300__12-742-5]]
     - [[08 Pipes/Vauen C. Barrontini 86\|Vauen C. Barrontini 86]]
 
 - Walgraine: 

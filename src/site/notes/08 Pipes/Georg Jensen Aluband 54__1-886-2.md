@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/georg-jensen-aluband-54-1-886-2/","noteIcon":"","dg-note-properties":{"aliases":["1-886-2"],"video":"1","brand":"Georg Jensen","video_order":"2","condition":"8","preference":"8","popularity":"6","ID":"1-886-2"}}
+{"dg-publish":true,"permalink":"/08-pipes/georg-jensen-aluband-54-1-886-2/","noteIcon":"","dg-note-properties":{"aliases":["1-886-2"],"video":"1","brand":"Georg Jensen","Model":"Aluband 54","video_order":"2","condition":"8","preference":"8","popularity":"6","ID":"1-886-2"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-m-15-844-1/","noteIcon":"","dg-note-properties":{"brand":null,"Model":null,"Stamp nr":"M","video":"15","condition":"8","preference":"4","popularity":"4","video_order":"1","Batch":"","ID":"15-844-1","aliases":["15-844-1"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-m-15-844-1/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"M","Stamp nr":"M","video":"15","condition":"8","preference":"4","popularity":"4","video_order":"1","Batch":"","ID":"15-844-1","aliases":["15-844-1"]}}
 ---
 
 

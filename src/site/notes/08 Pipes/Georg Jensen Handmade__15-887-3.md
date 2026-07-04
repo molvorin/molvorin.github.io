@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/georg-jensen-handmade-15-887-3/","noteIcon":"","dg-note-properties":{"brand":"Georg Jensen","Model":null,"Stamp nr":null,"video":"15","condition":"8","preference":"8","popularity":"7","video_order":"3","Batch":"","ID":"15-887-3","aliases":["15-887-3"]}}
+{"dg-publish":true,"permalink":"/08-pipes/georg-jensen-handmade-15-887-3/","noteIcon":"","dg-note-properties":{"brand":"Georg Jensen","Model":"Handmade","Stamp nr":null,"video":"15","condition":"8","preference":"8","popularity":"7","video_order":"3","Batch":"","ID":"15-887-3","aliases":["15-887-3"]}}
 ---
 
 
