@@ -509,6 +509,18 @@ function attachFilterLogic(){
   const cards = Array.from(document.querySelectorAll(".card"));
   const sections = Array.from(document.querySelectorAll(".brand-section"));
 
+  // Pre-fill filters from the URL (?brand=...&q=...) so a shared link
+  // opens straight into the filtered view.
+  const initialParams = new URLSearchParams(window.location.search);
+  const initialBrand = initialParams.get("brand");
+  if (initialBrand) {
+    const matchingOption = Array.from(brandSelect.options)
+      .find(o => o.value === initialBrand);
+    if (matchingOption) brandSelect.value = initialBrand;
+  }
+  const initialQuery = initialParams.get("q");
+  if (initialQuery) searchInput.value = initialQuery;
+
   function applyFilters(){
     const q = searchInput.value.trim().toLowerCase();
     const brand = brandSelect.value;
@@ -529,10 +541,22 @@ function attachFilterLogic(){
 
     resultCount.textContent = (q || brand) ? `${visibleCount} of ${cards.length}` : "";
     emptyState.classList.toggle("is-hidden", visibleCount !== 0);
+
+    // Keep the URL in sync so the current filter is always shareable.
+    const newParams = new URLSearchParams();
+    if (brand) newParams.set("brand", brand);
+    if (q) newParams.set("q", q);
+    const newUrl = newParams.toString()
+      ? `${window.location.pathname}?${newParams.toString()}`
+      : window.location.pathname;
+    history.replaceState(null, "", newUrl);
   }
 
   searchInput.addEventListener("input", applyFilters);
   brandSelect.addEventListener("change", applyFilters);
+
+  // Apply immediately so a ?brand= link filters on first load.
+  applyFilters();
 }
 
 render();
