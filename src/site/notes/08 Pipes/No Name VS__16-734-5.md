@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-vs-16-734-5/","noteIcon":"","dg-note-properties":{"brand":null,"Model":null,"Stamp nr":"VS","video":"16","condition":"7","preference":"3","popularity":"4","video_order":"5","Batch":"","ID":"16-734-5","aliases":["16-734-5"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-vs-16-734-5/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"VS","Stamp nr":"VS","video":"16","condition":"7","preference":"3","popularity":"4","video_order":"5","Batch":"","ID":"16-734-5","aliases":["16-734-5"]}}
 ---
 
 

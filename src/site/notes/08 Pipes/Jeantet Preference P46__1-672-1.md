@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/jeantet-preference-p46-1-672-1/","noteIcon":"","dg-note-properties":{"aliases":["1-672-1L"],"video":"1","brand":"Jeantet","video_order":"1","condition":"6","preference":"7","popularity":"2","ID":"1-672-1L","Stamp nr":"P46","Batch":"L"}}
+{"dg-publish":true,"permalink":"/08-pipes/jeantet-preference-p46-1-672-1/","noteIcon":"","dg-note-properties":{"aliases":["1-672-1L"],"video":"1","brand":"Jeantet","Model":"P46","video_order":"1","condition":"6","preference":"7","popularity":"2","ID":"1-672-1L","Stamp nr":"P46","Batch":"L"}}
 ---
 
 
