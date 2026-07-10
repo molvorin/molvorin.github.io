@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/gasparini-camillo-207/","noteIcon":"","dg-note-properties":{"brand":"Gasparini","Model":"Camillo","Stamp nr":207,"video":"34","condition":"9","preference":"9","popularity":"8","video_order":"7","Batch":"PR","ID":"34-998-7PR","aliases":["34-998-7PR"]}}
+{"dg-publish":true,"permalink":"/08-pipes/gasparini-camillo-207/","dg-note-properties":{"brand":"Gasparini","Model":"Camillo","Stamp nr":207,"video":"34","condition":"9","preference":"9","popularity":"8","video_order":"7","Batch":"PR","ID":"34-998-7PR","aliases":["34-998-7PR"]}}
 ---
 
 

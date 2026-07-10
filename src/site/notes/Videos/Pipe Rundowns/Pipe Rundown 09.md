@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videos/pipe-rundowns/pipe-rundown-09/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/videos/pipe-rundowns/pipe-rundown-09/","dg-note-properties":{}}
 ---
 
 <div class="youtube-embed"><iframe src="https://www.youtube.com/embed/ixcns_HJ_bg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>

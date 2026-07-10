@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/georg-jensen-5-000-2/","noteIcon":"","dg-note-properties":{"aliases":["5-000-2"],"brand":"Georg Jensen","video":"5","video_order":"2","condition":"0","preference":"0","popularity":"0","ID":"5-000-2"}}
+{"dg-publish":true,"permalink":"/08-pipes/georg-jensen-5-000-2/","dg-note-properties":{"aliases":["5-000-2"],"brand":"Georg Jensen","video":"5","video_order":"2","condition":"0","preference":"0","popularity":"0","ID":"5-000-2"}}
 ---
 
 

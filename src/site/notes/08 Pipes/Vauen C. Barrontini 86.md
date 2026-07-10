@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/vauen-c-barrontini-86/","noteIcon":"","dg-note-properties":{"brand":"Vauen","Model":"C. Barrontini","Stamp nr":"86, Huber Munchen","video":"34","condition":"9","preference":"9","popularity":"9","video_order":"4","Batch":"PR","ID":"34-999-4PR","aliases":["34-999-4PR"]}}
+{"dg-publish":true,"permalink":"/08-pipes/vauen-c-barrontini-86/","dg-note-properties":{"brand":"Vauen","Model":"C. Barrontini","Stamp nr":"86, Huber Munchen","video":"34","condition":"9","preference":"9","popularity":"9","video_order":"4","Batch":"PR","ID":"34-999-4PR","aliases":["34-999-4PR"]}}
 ---
 
 

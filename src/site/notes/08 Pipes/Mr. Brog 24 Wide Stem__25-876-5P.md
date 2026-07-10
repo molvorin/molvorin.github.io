@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-24-wide-stem-25-876-5-p/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":24,"Stamp nr":24,"video":"25","condition":"8","preference":"7","popularity":"6","video_order":"5","Batch":"P","ID":"25-876-5P","aliases":["25-876-5P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-24-wide-stem-25-876-5-p/","dg-note-properties":{"brand":"Mr.Brog","Model":24,"Stamp nr":24,"video":"25","condition":"8","preference":"7","popularity":"6","video_order":"5","Batch":"P","ID":"25-876-5P","aliases":["25-876-5P"]}}
 ---
 
 

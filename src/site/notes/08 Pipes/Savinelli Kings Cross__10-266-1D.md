@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/savinelli-kings-cross-10-266-1-d/","noteIcon":"","dg-note-properties":{"aliases":["10-266-1D"],"brand":"Savinelli","video":"10","condition":"2","preference":"6","popularity":"6","video_order":"1","Batch":"D","Model":"Kings Cross Featherweight","ID":"10-266-1D"}}
+{"dg-publish":true,"permalink":"/08-pipes/savinelli-kings-cross-10-266-1-d/","dg-note-properties":{"aliases":["10-266-1D"],"brand":"Savinelli","video":"10","condition":"2","preference":"6","popularity":"6","video_order":"1","Batch":"D","Model":"Kings Cross Featherweight","ID":"10-266-1D"}}
 ---
 
 

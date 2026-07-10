@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/straight-grain-14-632-1/","noteIcon":"","dg-note-properties":{"brand":"Straight Grain","Model":null,"Stamp nr":null,"video":"14","condition":"6","preference":"3","popularity":"2","video_order":"1","Batch":"","ID":"14-632-1","aliases":["14-632-1"]}}
+{"dg-publish":true,"permalink":"/08-pipes/straight-grain-14-632-1/","dg-note-properties":{"brand":"Straight Grain","Model":null,"Stamp nr":null,"video":"14","condition":"6","preference":"3","popularity":"2","video_order":"1","Batch":"","ID":"14-632-1","aliases":["14-632-1"]}}
 ---
 
 

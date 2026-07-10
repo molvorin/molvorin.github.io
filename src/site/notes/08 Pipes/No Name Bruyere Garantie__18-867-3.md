@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-bruyere-garantie-18-867-3/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"Bruyere Garantie","Stamp nr":null,"video":"18","condition":"8","preference":"6","popularity":"7","video_order":"3","Batch":"","ID":"18-867-3","aliases":["18-867-3"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-bruyere-garantie-18-867-3/","dg-note-properties":{"brand":null,"Model":"Bruyere Garantie","Stamp nr":null,"video":"18","condition":"8","preference":"6","popularity":"7","video_order":"3","Batch":"","ID":"18-867-3","aliases":["18-867-3"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-41-1-6-983-3-p/","noteIcon":"","dg-note-properties":{"aliases":["6-983-3P"],"brand":"Mr.Brog","Model":41,"Stamp nr":"41","video":"6","video_order":"3","condition":"9","preference":"8","popularity":"3","Batch":"P","ID":"6-983-3P"}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-41-1-6-983-3-p/","dg-note-properties":{"aliases":["6-983-3P"],"brand":"Mr.Brog","Model":41,"Stamp nr":"41","video":"6","video_order":"3","condition":"9","preference":"8","popularity":"3","Batch":"P","ID":"6-983-3P"}}
 ---
 
 

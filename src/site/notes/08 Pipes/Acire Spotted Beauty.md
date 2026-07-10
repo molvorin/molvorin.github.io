@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/acire-spotted-beauty/","noteIcon":"","dg-note-properties":{"brand":"Acire","Model":"Spotted Beauty","Stamp nr":null,"video":"33","condition":"6","preference":"8","popularity":"3","video_order":"3","Batch":"","ID":"33-683-3","aliases":["33-683-3"]}}
+{"dg-publish":true,"permalink":"/08-pipes/acire-spotted-beauty/","dg-note-properties":{"brand":"Acire","Model":"Spotted Beauty","Stamp nr":null,"video":"33","condition":"6","preference":"8","popularity":"3","video_order":"3","Batch":"","ID":"33-683-3","aliases":["33-683-3"]}}
 ---
 
 

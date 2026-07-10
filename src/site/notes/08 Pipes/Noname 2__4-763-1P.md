@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/noname-2-4-763-1-p/","noteIcon":"","dg-note-properties":{"aliases":["4-763-1P"],"video":"4","video_order":"1","condition":"7","preference":"6","popularity":"3","Batch":"P","ID":"4-763-1P","brand":null}}
+{"dg-publish":true,"permalink":"/08-pipes/noname-2-4-763-1-p/","dg-note-properties":{"aliases":["4-763-1P"],"video":"4","video_order":"1","condition":"7","preference":"6","popularity":"3","Batch":"P","ID":"4-763-1P","brand":null}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/cosmos-jupiter-7313/","noteIcon":"","dg-note-properties":{"brand":"Cosmos","Model":"Jupiter 7313","Stamp nr":7313,"video":"33","condition":"8","preference":"8","popularity":"6","video_order":"1","Batch":"","ID":"33-886-1","aliases":["33-886-1"]}}
+{"dg-publish":true,"permalink":"/08-pipes/cosmos-jupiter-7313/","dg-note-properties":{"brand":"Cosmos","Model":"Jupiter 7313","Stamp nr":7313,"video":"33","condition":"8","preference":"8","popularity":"6","video_order":"1","Batch":"","ID":"33-886-1","aliases":["33-886-1"]}}
 ---
 
 

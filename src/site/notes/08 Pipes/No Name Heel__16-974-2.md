@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-heel-16-974-2/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"heel","Stamp nr":null,"video":"16","condition":"9","preference":"7","popularity":"4","video_order":"2","Batch":"","ID":"16-974-2","aliases":["16-974-2"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-heel-16-974-2/","dg-note-properties":{"brand":null,"Model":"heel","Stamp nr":null,"video":"16","condition":"9","preference":"7","popularity":"4","video_order":"2","Batch":"","ID":"16-974-2","aliases":["16-974-2"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-33-burned-27-886-4-p/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":33,"Stamp nr":33,"video":"27","condition":"8","preference":"8","popularity":"6","video_order":"4","Batch":"P","ID":"27-886-4P","aliases":["27-886-4P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-33-burned-27-886-4-p/","dg-note-properties":{"brand":"Mr.Brog","Model":33,"Stamp nr":33,"video":"27","condition":"8","preference":"8","popularity":"6","video_order":"4","Batch":"P","ID":"27-886-4P","aliases":["27-886-4P"]}}
 ---
 
 

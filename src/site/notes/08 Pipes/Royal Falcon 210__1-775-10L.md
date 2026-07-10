@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/royal-falcon-210-1-775-10-l/","noteIcon":"","dg-note-properties":{"aliases":["1-775-10L"],"video":"1","video_order":"10","brand":"Royal Falcon","Model":210,"condition":"7","preference":"7","popularity":"5","Batch":"L","ID":"1-775-10L","Stamp nr":"210"}}
+{"dg-publish":true,"permalink":"/08-pipes/royal-falcon-210-1-775-10-l/","dg-note-properties":{"aliases":["1-775-10L"],"video":"1","video_order":"10","brand":"Royal Falcon","Model":210,"condition":"7","preference":"7","popularity":"5","Batch":"L","ID":"1-775-10L","Stamp nr":"210"}}
 ---
 
 # Royal Falcon

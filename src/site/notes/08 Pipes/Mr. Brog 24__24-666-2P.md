@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-24-24-666-2-p/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":24,"Stamp nr":24,"video":"24","condition":"6","preference":"6","popularity":"6","video_order":"2","Batch":"P","ID":"24-666-2P","aliases":["24-666-2P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-24-24-666-2-p/","dg-note-properties":{"brand":"Mr.Brog","Model":24,"Stamp nr":24,"video":"24","condition":"6","preference":"6","popularity":"6","video_order":"2","Batch":"P","ID":"24-666-2P","aliases":["24-666-2P"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/overviews/manufacturet-overview/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/overviews/manufacturet-overview/","dg-note-properties":{}}
 ---
 
 # Pipe Collection — By Manufacturer
@@ -22,14 +22,20 @@
     - [[08 Pipes/B&B 037__13-983-2P\|B&B 037__13-983-2P]]
     - [[08 Pipes/B&B 040__26-845-3\|B&B 040__26-845-3]]
 
+- Baronet: 
+    - [[08 Pipes/Baronet 3 Star 106\|Baronet 3 Star 106]]
+
 - BBB: 
     - [[08 Pipes/BBB Best Make__2-377-10L\|BBB Best Make__2-377-10L]]
     - [[08 Pipes/BBB Bulldog Guardsman__1-473-3\|BBB Bulldog Guardsman__1-473-3]]
-    - [[08 Pipes/BBB Centenary 1847 - 1947__13-775-4L\|BBB Centenary 1847 - 1947__13-775-4L]]
-    - [[08 Pipes/BBB Classic 652\|BBB Classic 652]]
     - [[08 Pipes/BBB Christmas 1970 Special make__1-355-9L\|BBB Christmas 1970 Special make__1-355-9L]]
+    - [[08 Pipes/BBB Classic 652\|BBB Classic 652]]
     - [[08 Pipes/BBB Crusted__20-475-3\|BBB Crusted__20-475-3]]
     - [[08 Pipes/BBB Medina 539__8-876-4\|BBB Medina 539__8-876-4]]
+    - [[08 Pipes/BBB Centenary 1847 - 1947__13-775-4L\|BBB Centenary 1847 - 1947__13-775-4L]]
+
+- Ben Hur: 
+    - [[08 Pipes/Ben Hur\|Ben Hur]]
 
 - Bera: 
     - [[08 Pipes/Bera 15__3-775-7\|Bera 15__3-775-7]]
@@ -39,6 +45,9 @@
 
 - Bjarne: 
     - [[08 Pipes/Bjarne handmade__12-867-3\|Bjarne handmade__12-867-3]]
+
+- Black Prince: 
+    - [[08 Pipes/Black Prince 289\|Black Prince 289]]
 
 - BPK: 
     - [[08 Pipes/BPK 6160__9-873-5\|BPK 6160__9-873-5]]
@@ -73,8 +82,8 @@
     - [[08 Pipes/Cosmos Neptune__12-711-4\|Cosmos Neptune__12-711-4]]
 
 - Depi: 
-    - [[08 Pipes/Depi Deluxe 22__1-663-8L\|Depi Deluxe 22__1-663-8L]]
     - [[08 Pipes/Depi Flamegrain 104__3-742-1L\|Depi Flamegrain 104__3-742-1L]]
+    - [[08 Pipes/Depi Deluxe 22__1-663-8L\|Depi Deluxe 22__1-663-8L]]
     - [[08 Pipes/Depi Flamegrain 106__1-762-7L\|Depi Flamegrain 106__1-762-7L]]
 
 - Dollar: 
@@ -112,9 +121,6 @@
     - [[08 Pipes/Graco Deluxe__9-686-4\|Graco Deluxe__9-686-4]]
     - [[08 Pipes/Graco Elite 275__2-343-4L\|Graco Elite 275__2-343-4L]]
 
-- Haandarbejde: 
-    - [[08 Pipes/Haandarbejde__1-662-5\|Haandarbejde__1-662-5]]
-
 - HAJ: 
     - [[08 Pipes/HAJ Tulip (?)__13-335-3\|HAJ Tulip (?)__13-335-3]]
     - [[08 Pipes/HAJ__3-787-10\|HAJ__3-787-10]]
@@ -124,6 +130,9 @@
 
 - Hilston: 
     - [[08 Pipes/Hilston Select 416__8-684-2\|Hilston Select 416__8-684-2]]
+
+- Haandarbejde: 
+    - [[08 Pipes/Haandarbejde__1-662-5\|Haandarbejde__1-662-5]]
 
 - Jean-Claude: 
     - [[08 Pipes/Jean-Claude Panel\|Jean-Claude Panel]]
@@ -172,8 +181,8 @@
 - Mr.Brog: 
     - [[08 Pipes/Mr. Brog 24 1 extra__25-974-3P\|Mr. Brog 24 1 extra__25-974-3P]]
     - [[08 Pipes/Mr. Brog 24 Rusticated__24-875-3P\|Mr. Brog 24 Rusticated__24-875-3P]]
-    - [[08 Pipes/Mr. Brog 24 Semi Bent__25-674-2P\|Mr. Brog 24 Semi Bent__25-674-2P]]
     - [[08 Pipes/Mr. Brog 24 Wide Stem__25-876-5P\|Mr. Brog 24 Wide Stem__25-876-5P]]
+    - [[08 Pipes/Mr. Brog 24 Semi Bent__25-674-2P\|Mr. Brog 24 Semi Bent__25-674-2P]]
     - [[08 Pipes/Mr. Brog 24__24-666-2P\|Mr. Brog 24__24-666-2P]]
     - [[08 Pipes/Mr. Brog 26__21-556-5P\|Mr. Brog 26__21-556-5P]]
     - [[08 Pipes/Mr. Brog 27 1__28-764-1P\|Mr. Brog 27 1__28-764-1P]]
@@ -184,8 +193,8 @@
     - [[08 Pipes/Mr. Brog 33 burned__27-886-4P\|Mr. Brog 33 burned__27-886-4P]]
     - [[08 Pipes/Mr. Brog 35 1 bad__25-763-1P\|Mr. Brog 35 1 bad__25-763-1P]]
     - [[08 Pipes/Mr. Brog 35 alt__21-854-2P\|Mr. Brog 35 alt__21-854-2P]]
-    - [[08 Pipes/Mr. Brog 35 line__27-645-2P\|Mr. Brog 35 line__27-645-2P]]
     - [[08 Pipes/Mr. Brog 37 walled__27-676-1P\|Mr. Brog 37 walled__27-676-1P]]
+    - [[08 Pipes/Mr. Brog 35 line__27-645-2P\|Mr. Brog 35 line__27-645-2P]]
     - [[08 Pipes/Mr. Brog 41\|Mr. Brog 41]]
     - [[08 Pipes/Mr. Brog 47 Dark__24-965-1P\|Mr. Brog 47 Dark__24-965-1P]]
     - [[08 Pipes/Mr. Brog 47 Rusticated\|Mr. Brog 47 Rusticated]]
@@ -194,8 +203,8 @@
     - [[08 Pipes/Mr.Brog 18__13-982-1P\|Mr.Brog 18__13-982-1P]]
     - [[08 Pipes/Mr.Brog 24 1__11-973-5P\|Mr.Brog 24 1__11-973-5P]]
     - [[08 Pipes/Mr.Brog 24 Green__6-882-1P\|Mr.Brog 24 Green__6-882-1P]]
-    - [[08 Pipes/Mr.Brog 25__11-743-4P\|Mr.Brog 25__11-743-4P]]
     - [[08 Pipes/Mr.Brog 31__11-784-3P\|Mr.Brog 31__11-784-3P]]
+    - [[08 Pipes/Mr.Brog 25__11-743-4P\|Mr.Brog 25__11-743-4P]]
     - [[08 Pipes/Mr.Brog 35 1__6-741-5P\|Mr.Brog 35 1__6-741-5P]]
     - [[08 Pipes/Mr.Brog 35 chew__4-242-5P\|Mr.Brog 35 chew__4-242-5P]]
     - [[08 Pipes/Mr.Brog 40__4-931-2P\|Mr.Brog 40__4-931-2P]]
@@ -221,11 +230,17 @@
 - P. Holtorp: 
     - [[08 Pipes/P. Holtorp Wedge__29-888-4\|P. Holtorp Wedge__29-888-4]]
 
+- Partner: 
+    - [[08 Pipes/Partner Mahogany 401\|Partner Mahogany 401]]
+
 - Petersons: 
     - [[08 Pipes/Petersons Killarney 80s__7-292-5K\|Petersons Killarney 80s__7-292-5K]]
     - [[08 Pipes/Petersons Shamrock 64__17-987-3\|Petersons Shamrock 64__17-987-3]]
     - [[08 Pipes/Petersons Standard 313__2-677-2L\|Petersons Standard 313__2-677-2L]]
     - [[08 Pipes/Petersons Year Pipe 2009 Limited Edition__17-678-4\|Petersons Year Pipe 2009 Limited Edition__17-678-4]]
+
+- Pimpernel: 
+    - [[08 Pipes/Pimpernel Red Churchwarden\|Pimpernel Red Churchwarden]]
 
 - Pipemakers: 
     - [[08 Pipes/Pipemakers 23(145)__9-732-2\|Pipemakers 23(145)__9-732-2]]
@@ -263,6 +278,8 @@
     - [[08 Pipes/Stanwell 353\|Stanwell 353]]
     - [[08 Pipes/Stanwell 429__12-835-1\|Stanwell 429__12-835-1]]
     - [[08 Pipes/Stanwell Selected Briar 90__22-765-4\|Stanwell Selected Briar 90__22-765-4]]
+    - [[08 Pipes/Stanwell 395\|Stanwell 395]]
+    - [[08 Pipes/Stanwell Royal Prince 53\|Stanwell Royal Prince 53]]
 
 - Straight Grain: 
     - [[08 Pipes/Straight Grain__14-632-1\|Straight Grain__14-632-1]]
@@ -277,6 +294,9 @@
     - [[08 Pipes/Vauen 8261\|Vauen 8261]]
     - [[08 Pipes/Vauen Basic 1300__12-742-5\|Vauen Basic 1300__12-742-5]]
     - [[08 Pipes/Vauen C. Barrontini 86\|Vauen C. Barrontini 86]]
+
+- Vibel: 
+    - [[08 Pipes/Vibel Real Briar\|Vibel Real Briar]]
 
 - Walgraine: 
     - [[08 Pipes/Walgraine__2-763-8L\|Walgraine__2-763-8L]]
@@ -299,8 +319,11 @@
 
 ## Unnamed
 
+- [[08 Pipes/No Name Briar Bent\|No Name Briar Bent]]: [[08 Pipes/No Name Briar Bent\|No Name Briar Bent]]
 - [[08 Pipes/No Name Bruyere Garantie 1__25-926-4\|No Name Bruyere Garantie 1__25-926-4]]: [[08 Pipes/No Name Bruyere Garantie 1__25-926-4\|No Name Bruyere Garantie 1__25-926-4]]
 - [[08 Pipes/No Name Bruyere Garantie__18-867-3\|No Name Bruyere Garantie__18-867-3]]: [[08 Pipes/No Name Bruyere Garantie__18-867-3\|No Name Bruyere Garantie__18-867-3]]
+- [[08 Pipes/No Name Cute\|No Name Cute]]: [[08 Pipes/No Name Cute\|No Name Cute]]
+- [[08 Pipes/No Name Danish Canadian\|No Name Danish Canadian]]: [[08 Pipes/No Name Danish Canadian\|No Name Danish Canadian]]
 - [[08 Pipes/No Name Danish Freeform Standing__17-777-1\|No Name Danish Freeform Standing__17-777-1]]: [[08 Pipes/No Name Danish Freeform Standing__17-777-1\|No Name Danish Freeform Standing__17-777-1]]
 - [[08 Pipes/No Name Danish Freeform Wide__17-777-2\|No Name Danish Freeform Wide__17-777-2]]: [[08 Pipes/No Name Danish Freeform Wide__17-777-2\|No Name Danish Freeform Wide__17-777-2]]
 - [[08 Pipes/No Name Flat Shank__20-664-5\|No Name Flat Shank__20-664-5]]: [[08 Pipes/No Name Flat Shank__20-664-5\|No Name Flat Shank__20-664-5]]
@@ -308,18 +331,25 @@
 - [[08 Pipes/No Name Gloria__24-744-5\|No Name Gloria__24-744-5]]: [[08 Pipes/No Name Gloria__24-744-5\|No Name Gloria__24-744-5]]
 - [[08 Pipes/No Name Heel__16-974-2\|No Name Heel__16-974-2]]: [[08 Pipes/No Name Heel__16-974-2\|No Name Heel__16-974-2]]
 - [[08 Pipes/No Name italian__15-784-2\|No Name italian__15-784-2]]: [[08 Pipes/No Name italian__15-784-2\|No Name italian__15-784-2]]
+- [[08 Pipes/No Name LP\|No Name LP]]: [[08 Pipes/No Name LP\|No Name LP]]
 - [[08 Pipes/No Name M__15-844-1\|No Name M__15-844-1]]: [[08 Pipes/No Name M__15-844-1\|No Name M__15-844-1]]
 - [[08 Pipes/No Name Monaco__26-924-1\|No Name Monaco__26-924-1]]: [[08 Pipes/No Name Monaco__26-924-1\|No Name Monaco__26-924-1]]
 - [[08 Pipes/No Name Paint__23-422-3\|No Name Paint__23-422-3]]: [[08 Pipes/No Name Paint__23-422-3\|No Name Paint__23-422-3]]
 - [[08 Pipes/No Name Pi Stem__19-634-5\|No Name Pi Stem__19-634-5]]: [[08 Pipes/No Name Pi Stem__19-634-5\|No Name Pi Stem__19-634-5]]
 - [[08 Pipes/No Name Plastic__16-434-4\|No Name Plastic__16-434-4]]: [[08 Pipes/No Name Plastic__16-434-4\|No Name Plastic__16-434-4]]
+- [[08 Pipes/No Name Plate\|No Name Plate]]: [[08 Pipes/No Name Plate\|No Name Plate]]
 - [[08 Pipes/No Name Prince Amlet\|No Name Prince Amlet]]: [[08 Pipes/No Name Prince Amlet\|No Name Prince Amlet]]
+- [[08 Pipes/No Name Red\|No Name Red]]: [[08 Pipes/No Name Red\|No Name Red]]
 - [[08 Pipes/No Name Rhodesian\|No Name Rhodesian]]: [[08 Pipes/No Name Rhodesian\|No Name Rhodesian]]
+- [[08 Pipes/No Name Ring\|No Name Ring]]: [[08 Pipes/No Name Ring\|No Name Ring]]
 - [[08 Pipes/No Name Ripple Grain__20-734-4\|No Name Ripple Grain__20-734-4]]: [[08 Pipes/No Name Ripple Grain__20-734-4\|No Name Ripple Grain__20-734-4]]
+- [[08 Pipes/No Name Rust\|No Name Rust]]: [[08 Pipes/No Name Rust\|No Name Rust]]
+- [[08 Pipes/No Name Rusticated Bent\|No Name Rusticated Bent]]: [[08 Pipes/No Name Rusticated Bent\|No Name Rusticated Bent]]
 - [[08 Pipes/No Name Senior\|No Name Senior]]: [[08 Pipes/No Name Senior\|No Name Senior]]
 - [[08 Pipes/No Name SIX Briar__26-313-4\|No Name SIX Briar__26-313-4]]: [[08 Pipes/No Name SIX Briar__26-313-4\|No Name SIX Briar__26-313-4]]
 - [[08 Pipes/No Name Sport Deluxe\|No Name Sport Deluxe]]: [[08 Pipes/No Name Sport Deluxe\|No Name Sport Deluxe]]
 - [[08 Pipes/No Name Squared Ropp__16-434-3\|No Name Squared Ropp__16-434-3]]: [[08 Pipes/No Name Squared Ropp__16-434-3\|No Name Squared Ropp__16-434-3]]
+- [[08 Pipes/No Name Tall\|No Name Tall]]: [[08 Pipes/No Name Tall\|No Name Tall]]
 - [[08 Pipes/No Name Tall Bowl__23-645-2\|No Name Tall Bowl__23-645-2]]: [[08 Pipes/No Name Tall Bowl__23-645-2\|No Name Tall Bowl__23-645-2]]
 - [[08 Pipes/No Name Underslung__10-776-4D\|No Name Underslung__10-776-4D]]: [[08 Pipes/No Name Underslung__10-776-4D\|No Name Underslung__10-776-4D]]
 - [[08 Pipes/No Name Vest Pocket 1__28-963-5\|No Name Vest Pocket 1__28-963-5]]: [[08 Pipes/No Name Vest Pocket 1__28-963-5\|No Name Vest Pocket 1__28-963-5]]

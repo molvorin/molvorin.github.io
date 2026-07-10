@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/clifton-finest-briar-10-777-2-d/","noteIcon":"","dg-note-properties":{"aliases":["10-777-2D"],"brand":"Clifton","Model":"Finest Briar Meerschaum","video":"10","condition":"7","preference":"7","popularity":"7","video_order":"2","Batch":"D","ID":"10-777-2D"}}
+{"dg-publish":true,"permalink":"/08-pipes/clifton-finest-briar-10-777-2-d/","dg-note-properties":{"aliases":["10-777-2D"],"brand":"Clifton","Model":"Finest Briar Meerschaum","video":"10","condition":"7","preference":"7","popularity":"7","video_order":"2","Batch":"D","ID":"10-777-2D"}}
 ---
 
 

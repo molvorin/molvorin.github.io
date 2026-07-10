@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-24-1-extra-25-974-3-p/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":24,"Stamp nr":24,"video":"25","condition":"9","preference":"7","popularity":"4","video_order":"3","Batch":"P","ID":"25-974-3P","aliases":["25-974-3P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-24-1-extra-25-974-3-p/","dg-note-properties":{"brand":"Mr.Brog","Model":24,"Stamp nr":24,"video":"25","condition":"9","preference":"7","popularity":"4","video_order":"3","Batch":"P","ID":"25-974-3P","aliases":["25-974-3P"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/stanwell-353/","noteIcon":"","dg-note-properties":{"brand":"Stanwell","Model":"Royal Briar","Stamp nr":353,"video":"34","condition":"9","preference":"9","popularity":"8","video_order":"3","Batch":"PR","ID":"34-998-3PR","aliases":["34-998-3PR"]}}
+{"dg-publish":true,"permalink":"/08-pipes/stanwell-353/","dg-note-properties":{"brand":"Stanwell","Model":"Royal Briar","Stamp nr":353,"video":"34","condition":"9","preference":"9","popularity":"8","video_order":"3","Batch":"PR","ID":"34-998-3PR","aliases":["34-998-3PR"]}}
 ---
 
 

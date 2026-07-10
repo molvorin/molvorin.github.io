@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/graco-deluxe-9-686-4/","noteIcon":"","dg-note-properties":{"aliases":["9-686-4"],"popularity":"6","brand":"Graco","Model":"Deluxe","Stamp nr":"97 20","video":"9","video_order":"4","condition":"6","preference":"8","ID":"9-686-4"}}
+{"dg-publish":true,"permalink":"/08-pipes/graco-deluxe-9-686-4/","dg-note-properties":{"aliases":["9-686-4"],"popularity":"6","brand":"Graco","Model":"Deluxe","Stamp nr":"97 20","video":"9","video_order":"4","condition":"6","preference":"8","ID":"9-686-4"}}
 ---
 
 

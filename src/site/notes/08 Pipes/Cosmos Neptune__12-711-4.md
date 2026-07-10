@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/cosmos-neptune-12-711-4/","noteIcon":"","dg-note-properties":{"aliases":["12-711-4"],"brand":"Cosmos","Model":"Neptune","Stamp nr":"62-45","video":"12","condition":"7","preference":"1","popularity":"1","video_order":"4","ID":"12-711-4"}}
+{"dg-publish":true,"permalink":"/08-pipes/cosmos-neptune-12-711-4/","dg-note-properties":{"aliases":["12-711-4"],"brand":"Cosmos","Model":"Neptune","Stamp nr":"62-45","video":"12","condition":"7","preference":"1","popularity":"1","video_order":"4","ID":"12-711-4"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-italian-15-784-2/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"Italian","Stamp nr":null,"video":"15","condition":"7","preference":"8","popularity":"4","video_order":"2","Batch":null,"ID":"15-784-2","aliases":["15-784-2"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-italian-15-784-2/","dg-note-properties":{"brand":null,"Model":"Italian","Stamp nr":null,"video":"15","condition":"7","preference":"8","popularity":"4","video_order":"2","Batch":null,"ID":"15-784-2","aliases":["15-784-2"]}}
 ---
 
 

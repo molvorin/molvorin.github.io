@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-underslung-10-776-4-d/","noteIcon":"","dg-note-properties":{"aliases":["10-776-4D"],"video":"10","condition":"7","preference":"7","popularity":"6","video_order":"4","Batch":"D","ID":"10-776-4D","Model":"Underslung Doctors pipe","brand":null}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-underslung-10-776-4-d/","dg-note-properties":{"aliases":["10-776-4D"],"video":"10","condition":"7","preference":"7","popularity":"6","video_order":"4","Batch":"D","ID":"10-776-4D","Model":"Underslung Doctors pipe","brand":null}}
 ---
 
 

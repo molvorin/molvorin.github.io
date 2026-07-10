@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mogul-extra-22-476-3/","noteIcon":"","dg-note-properties":{"brand":"Mogul","Model":"Extra","Stamp nr":null,"video":"22","condition":"4","preference":"7","popularity":"6","video_order":"3","Batch":"","ID":"22-476-3","aliases":["22-476-3"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mogul-extra-22-476-3/","dg-note-properties":{"brand":"Mogul","Model":"Extra","Stamp nr":null,"video":"22","condition":"4","preference":"7","popularity":"6","video_order":"3","Batch":"","ID":"22-476-3","aliases":["22-476-3"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-bruyere-garantie-1-25-926-4/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"Bruyere Garantie","Stamp nr":null,"video":"25","condition":"9","preference":"2","popularity":"6","video_order":"4","Batch":"","ID":"25-926-4","aliases":["25-926-4"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-bruyere-garantie-1-25-926-4/","dg-note-properties":{"brand":null,"Model":"Bruyere Garantie","Stamp nr":null,"video":"25","condition":"9","preference":"2","popularity":"6","video_order":"4","Batch":"","ID":"25-926-4","aliases":["25-926-4"]}}
 ---
 
 

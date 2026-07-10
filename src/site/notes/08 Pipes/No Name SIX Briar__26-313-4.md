@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-six-briar-26-313-4/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"SIX Briar","Stamp nr":6,"video":"26","condition":"3","preference":"1","popularity":"3","video_order":"4","Batch":"","ID":"26-313-4","aliases":["26-313-4"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-six-briar-26-313-4/","dg-note-properties":{"brand":null,"Model":"SIX Briar","Stamp nr":6,"video":"26","condition":"3","preference":"1","popularity":"3","video_order":"4","Batch":"","ID":"26-313-4","aliases":["26-313-4"]}}
 ---
 
 

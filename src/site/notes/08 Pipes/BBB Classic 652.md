@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/bbb-classic-652/","noteIcon":"","dg-note-properties":{"brand":"BBB","Model":"Classic 652","Stamp nr":652,"video":"31","condition":"7","preference":"8","popularity":"7","video_order":"2","Batch":"","ID":"31-787-2","aliases":["31-787-2"]}}
+{"dg-publish":true,"permalink":"/08-pipes/bbb-classic-652/","dg-note-properties":{"brand":"BBB","Model":"Classic 652","Stamp nr":652,"video":"31","condition":"7","preference":"8","popularity":"7","video_order":"2","Batch":"","ID":"31-787-2","aliases":["31-787-2"]}}
 ---
 
 

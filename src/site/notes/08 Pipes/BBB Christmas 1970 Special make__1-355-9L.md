@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/bbb-christmas-1970-special-make-1-355-9-l/","noteIcon":"","dg-note-properties":{"aliases":["1-355-9L"],"video":"1","video_order":"9","brand":"BBB","Model":"Christmas 1970 Special Make","condition":"3","preference":"5","popularity":"5","Batch":"L","ID":"1-355-9L"}}
+{"dg-publish":true,"permalink":"/08-pipes/bbb-christmas-1970-special-make-1-355-9-l/","dg-note-properties":{"aliases":["1-355-9L"],"video":"1","video_order":"9","brand":"BBB","Model":"Christmas 1970 Special Make","condition":"3","preference":"5","popularity":"5","Batch":"L","ID":"1-355-9L"}}
 ---
 
 

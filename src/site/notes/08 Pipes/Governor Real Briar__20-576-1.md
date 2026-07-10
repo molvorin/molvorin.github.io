@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/governor-real-briar-20-576-1/","noteIcon":"","dg-note-properties":{"brand":"Governor","Model":"Real Briar","Stamp nr":null,"video":"20","condition":"5","preference":"7","popularity":"6","video_order":"1","Batch":"","ID":"20-576-1","aliases":["20-576-1"]}}
+{"dg-publish":true,"permalink":"/08-pipes/governor-real-briar-20-576-1/","dg-note-properties":{"brand":"Governor","Model":"Real Briar","Stamp nr":null,"video":"20","condition":"5","preference":"7","popularity":"6","video_order":"1","Batch":"","ID":"20-576-1","aliases":["20-576-1"]}}
 ---
 
 

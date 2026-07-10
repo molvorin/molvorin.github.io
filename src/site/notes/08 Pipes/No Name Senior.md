@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-senior/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"Senior","Stamp nr":null,"video":"33","condition":"4","preference":"8","popularity":"2","video_order":"4","Batch":"","ID":"33-482-4","aliases":["33-482-4"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-senior/","dg-note-properties":{"brand":null,"Model":"Senior","Stamp nr":null,"video":"33","condition":"4","preference":"8","popularity":"2","video_order":"4","Batch":"","ID":"33-482-4","aliases":["33-482-4"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videos/pipe-rundowns/pipe-rundown-32/","noteIcon":"","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/videos/pipe-rundowns/pipe-rundown-32/","dg-note-properties":{}}
 ---
 
 

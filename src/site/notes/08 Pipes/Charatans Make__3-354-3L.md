@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/charatans-make-3-354-3-l/","noteIcon":"","dg-note-properties":{"aliases":["3-354-3L"],"video":"3","video_order":"3","brand":"Charatans Make","Batch":"L","Stamp nr":"S012","condition":"3","preference":"5","popularity":"4","Model":"Deluxe","ID":"3-354-3L"}}
+{"dg-publish":true,"permalink":"/08-pipes/charatans-make-3-354-3-l/","dg-note-properties":{"aliases":["3-354-3L"],"video":"3","video_order":"3","brand":"Charatans Make","Batch":"L","Stamp nr":"S012","condition":"3","preference":"5","popularity":"4","Model":"Deluxe","ID":"3-354-3L"}}
 ---
 
 

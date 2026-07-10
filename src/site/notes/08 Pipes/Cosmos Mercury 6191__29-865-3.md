@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/cosmos-mercury-6191-29-865-3/","noteIcon":"","dg-note-properties":{"brand":"Cosmos","Model":"Mercury 6191","Stamp nr":6191,"video":"29","condition":"8","preference":"6","popularity":"5","video_order":"3","Batch":"","ID":"29-865-3","aliases":["29-865-3"]}}
+{"dg-publish":true,"permalink":"/08-pipes/cosmos-mercury-6191-29-865-3/","dg-note-properties":{"brand":"Cosmos","Model":"Mercury 6191","Stamp nr":6191,"video":"29","condition":"8","preference":"6","popularity":"5","video_order":"3","Batch":"","ID":"29-865-3","aliases":["29-865-3"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/stanwell-selected-briar-90-22-765-4/","noteIcon":"","dg-note-properties":{"brand":"Stanwell","Model":"Selected Briar","Stamp nr":90,"video":"22","condition":"7","preference":"6","popularity":"5","video_order":"4","Batch":"","ID":"22-765-4","aliases":["22-765-4"]}}
+{"dg-publish":true,"permalink":"/08-pipes/stanwell-selected-briar-90-22-765-4/","dg-note-properties":{"brand":"Stanwell","Model":"Selected Briar","Stamp nr":90,"video":"22","condition":"7","preference":"6","popularity":"5","video_order":"4","Batch":"","ID":"22-765-4","aliases":["22-765-4"]}}
 ---
 
 

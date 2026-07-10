@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/petersons-year-pipe-2009-limited-edition-17-678-4/","noteIcon":"","dg-note-properties":{"brand":"Petersons","Model":"Year Pipe 2009 Limited Edition","Stamp nr":"857/1000","video":"17","condition":"6","preference":"7","popularity":"8","video_order":"4","Batch":"","ID":"17-678-4","aliases":["17-678-4"]}}
+{"dg-publish":true,"permalink":"/08-pipes/petersons-year-pipe-2009-limited-edition-17-678-4/","dg-note-properties":{"brand":"Petersons","Model":"Year Pipe 2009 Limited Edition","Stamp nr":"857/1000","video":"17","condition":"6","preference":"7","popularity":"8","video_order":"4","Batch":"","ID":"17-678-4","aliases":["17-678-4"]}}
 ---
 
 

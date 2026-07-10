@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-47-rusticated/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":47,"Stamp nr":47,"video":"32","condition":"1","preference":"6","popularity":"1","video_order":"3","Batch":"P","ID":"32-161-3P","aliases":["32-161-3P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-47-rusticated/","dg-note-properties":{"brand":"Mr.Brog","Model":47,"Stamp nr":47,"video":"32","condition":"1","preference":"6","popularity":"1","video_order":"3","Batch":"P","ID":"32-161-3P","aliases":["32-161-3P"]}}
 ---
 
 

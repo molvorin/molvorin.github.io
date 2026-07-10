@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mrs-bro-64/","noteIcon":"","dg-note-properties":{"brand":"Mrs. Bro","Model":64,"Stamp nr":64,"video":"32","condition":"3","preference":"3","popularity":"3","video_order":"2","Batch":"","ID":"32-333-2","aliases":["32-333-2"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mrs-bro-64/","dg-note-properties":{"brand":"Mrs. Bro","Model":64,"Stamp nr":64,"video":"32","condition":"3","preference":"3","popularity":"3","video_order":"2","Batch":"","ID":"32-333-2","aliases":["32-333-2"]}}
 ---
 
 

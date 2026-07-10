@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/dr-hardy-7-772-4/","noteIcon":"","dg-note-properties":{"aliases":["7-772-4"],"brand":"Dr.Hardy","video":"7","condition":"7","preference":"7","popularity":"2","video_order":"4","ID":"7-772-4"}}
+{"dg-publish":true,"permalink":"/08-pipes/dr-hardy-7-772-4/","dg-note-properties":{"aliases":["7-772-4"],"brand":"Dr.Hardy","video":"7","condition":"7","preference":"7","popularity":"2","video_order":"4","ID":"7-772-4"}}
 ---
 
 

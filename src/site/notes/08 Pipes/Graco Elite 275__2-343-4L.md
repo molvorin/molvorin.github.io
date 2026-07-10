@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/graco-elite-275-2-343-4-l/","noteIcon":"","dg-note-properties":{"aliases":["2-343-4L"],"Model":"Elite","brand":"Graco","video":"2","video_order":"4","condition":"3","preference":"4","popularity":"3","Batch":"L","ID":"2-343-4L","Stamp nr":"275"}}
+{"dg-publish":true,"permalink":"/08-pipes/graco-elite-275-2-343-4-l/","dg-note-properties":{"aliases":["2-343-4L"],"Model":"Elite","brand":"Graco","video":"2","video_order":"4","condition":"3","preference":"4","popularity":"3","Batch":"L","ID":"2-343-4L","Stamp nr":"275"}}
 ---
 
 

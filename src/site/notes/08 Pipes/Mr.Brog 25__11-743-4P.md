@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-25-11-743-4-p/","noteIcon":"","dg-note-properties":{"aliases":["11-743-4P"],"brand":"Mr.Brog","Model":25,"Stamp nr":"25","video":"11","condition":"7","preference":"4","popularity":"3","video_order":"4","Batch":"P","ID":"11-743-4P"}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-25-11-743-4-p/","dg-note-properties":{"aliases":["11-743-4P"],"brand":"Mr.Brog","Model":25,"Stamp nr":"25","video":"11","condition":"7","preference":"4","popularity":"3","video_order":"4","Batch":"P","ID":"11-743-4P"}}
 ---
 
 

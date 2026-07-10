@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/haandarbejde-1-662-5/","noteIcon":"","dg-note-properties":{"aliases":["1-662-5L"],"video":"1","brand":"Haandarbejde","video_order":"5","condition":"6","preference":"6","popularity":"2","ID":"1-662-5L","Batch":"L"}}
+{"dg-publish":true,"permalink":"/08-pipes/haandarbejde-1-662-5/","dg-note-properties":{"aliases":["1-662-5L"],"video":"1","brand":"Haandarbejde","video_order":"5","condition":"6","preference":"6","popularity":"2","ID":"1-662-5L","Batch":"L"}}
 ---
 
 

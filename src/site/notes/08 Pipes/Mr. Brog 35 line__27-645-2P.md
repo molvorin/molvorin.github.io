@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-35-line-27-645-2-p/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":35,"Stamp nr":35,"video":"27","condition":"6","preference":"4","popularity":"5","video_order":"2","Batch":"P","ID":"27-645-2P","aliases":["27-645-2P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-35-line-27-645-2-p/","dg-note-properties":{"brand":"Mr.Brog","Model":35,"Stamp nr":35,"video":"27","condition":"6","preference":"4","popularity":"5","video_order":"2","Batch":"P","ID":"27-645-2P","aliases":["27-645-2P"]}}
 ---
 
 

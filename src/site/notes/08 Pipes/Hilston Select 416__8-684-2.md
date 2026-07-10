@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/hilston-select-416-8-684-2/","noteIcon":"","dg-note-properties":{"aliases":["8-684-2"],"video":"8","video_order":"2","brand":"Hilston","Model":"Selevt","Stamp nr":"416","condition":"6","preference":"8","popularity":"4","ID":"8-684-2"}}
+{"dg-publish":true,"permalink":"/08-pipes/hilston-select-416-8-684-2/","dg-note-properties":{"aliases":["8-684-2"],"video":"8","video_order":"2","brand":"Hilston","Model":"Selevt","Stamp nr":"416","condition":"6","preference":"8","popularity":"4","ID":"8-684-2"}}
 ---
 
 

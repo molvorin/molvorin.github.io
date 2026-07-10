@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/butz-choquin-corrida-1508/","noteIcon":"","dg-note-properties":{"brand":"Butz-Choquin","Model":"Corrida","Stamp nr":"France 1508","video":"34","condition":"9","preference":"8","popularity":"7","video_order":"9","Batch":"PR","ID":"34-987-9PR","aliases":["34-987-9PR"]}}
+{"dg-publish":true,"permalink":"/08-pipes/butz-choquin-corrida-1508/","dg-note-properties":{"brand":"Butz-Choquin","Model":"Corrida","Stamp nr":"France 1508","video":"34","condition":"9","preference":"8","popularity":"7","video_order":"9","Batch":"PR","ID":"34-987-9PR","aliases":["34-987-9PR"]}}
 ---
 
 

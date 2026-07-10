@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/prince-amhed-1x8-27-567-5/","noteIcon":"","dg-note-properties":{"brand":"Prince Amhed","Model":"1x8","Stamp nr":"1x8","video":"27","condition":"5","preference":"6","popularity":"7","video_order":"5","Batch":"","ID":"27-567-5","aliases":["27-567-5"]}}
+{"dg-publish":true,"permalink":"/08-pipes/prince-amhed-1x8-27-567-5/","dg-note-properties":{"brand":"Prince Amhed","Model":"1x8","Stamp nr":"1x8","video":"27","condition":"5","preference":"6","popularity":"7","video_order":"5","Batch":"","ID":"27-567-5","aliases":["27-567-5"]}}
 ---
 
 
