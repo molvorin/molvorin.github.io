@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mokin-meerschaum-lined/","dg-note-properties":{"brand":"Mokin","Model":"Meerschaum Lined","Stamp nr":null,"video":"32","condition":"7","preference":"7","popularity":"5","video_order":"1","Batch":"","ID":"32-775-1","aliases":["32-775-1"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mokin-meerschaum-lined/","noteIcon":"","dg-note-properties":{"brand":"Mokin","Model":"Meerschaum Lined","Stamp nr":null,"video":"32","condition":"7","preference":"7","popularity":"5","video_order":"1","Batch":"","ID":"32-775-1","aliases":["32-775-1"]}}
 ---
 
 

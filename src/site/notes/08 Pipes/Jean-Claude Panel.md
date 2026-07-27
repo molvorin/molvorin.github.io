@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/jean-claude-panel/","dg-note-properties":{"brand":"Jean-Claude","Model":"Panel","Stamp nr":null,"video":"34","condition":"9","preference":"7","popularity":"7","video_order":"8","Batch":"PR","ID":"34-977-8PR","aliases":["34-977-8PR"]}}
+{"dg-publish":true,"permalink":"/08-pipes/jean-claude-panel/","noteIcon":"","dg-note-properties":{"brand":"Jean-Claude","Model":"Panel","Stamp nr":null,"video":"34","condition":"9","preference":"7","popularity":"7","video_order":"8","Batch":"PR","ID":"34-977-8PR","aliases":["34-977-8PR"]}}
 ---
 
 

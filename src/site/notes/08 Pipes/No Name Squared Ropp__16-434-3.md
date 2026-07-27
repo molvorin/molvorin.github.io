@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-squared-ropp-16-434-3/","dg-note-properties":{"brand":null,"Model":"Squared","Stamp nr":null,"video":"16","condition":"4","preference":"3","popularity":"4","video_order":"3","Batch":"","ID":"16-434-3","aliases":["16-434-3"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-squared-ropp-16-434-3/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"Squared","Stamp nr":null,"video":"16","condition":"4","preference":"3","popularity":"4","video_order":"3","Batch":"","ID":"16-434-3","aliases":["16-434-3"]}}
 ---
 
 

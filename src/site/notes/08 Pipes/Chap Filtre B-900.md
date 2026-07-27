@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/chap-filtre-b-900/","dg-note-properties":{"brand":"Chap","Model":"Filtre","Stamp nr":"B-900","video":"34","condition":"9","preference":"7","popularity":"2","video_order":"5","Batch":"PR","ID":"34-972-5PR","aliases":["34-972-5PR"]}}
+{"dg-publish":true,"permalink":"/08-pipes/chap-filtre-b-900/","noteIcon":"","dg-note-properties":{"brand":"Chap","Model":"Filtre","Stamp nr":"B-900","video":"34","condition":"9","preference":"7","popularity":"2","video_order":"5","Batch":"PR","ID":"34-972-5PR","aliases":["34-972-5PR"]}}
 ---
 
 

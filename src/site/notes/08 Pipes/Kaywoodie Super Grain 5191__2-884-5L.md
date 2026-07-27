@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/kaywoodie-super-grain-5191-2-884-5-l/","dg-note-properties":{"aliases":["2-884-5L"],"video":"2","brand":"Kaywoodie","Model":"Super grain","Stamp nr":"5191","condition":"8","preference":"8","popularity":"4","Batch":"L","video_order":"5","ID":"2-884-5L"}}
+{"dg-publish":true,"permalink":"/08-pipes/kaywoodie-super-grain-5191-2-884-5-l/","noteIcon":"","dg-note-properties":{"aliases":["2-884-5L"],"video":"2","brand":"Kaywoodie","Model":"Super grain","Stamp nr":"5191","condition":"8","preference":"8","popularity":"4","Batch":"L","video_order":"5","ID":"2-884-5L"}}
 ---
 
 

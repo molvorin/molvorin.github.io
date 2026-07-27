@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/bbb-best-make-2-377-10-l/","dg-note-properties":{"aliases":["2-377-10L"],"brand":"BBB","Model":"Best Make","video":"2","video_order":"10","Batch":"L","condition":"3","preference":"7","popularity":"7","ID":"2-377-10L"}}
+{"dg-publish":true,"permalink":"/08-pipes/bbb-best-make-2-377-10-l/","noteIcon":"","dg-note-properties":{"aliases":["2-377-10L"],"brand":"BBB","Model":"Best Make","video":"2","video_order":"10","Batch":"L","condition":"3","preference":"7","popularity":"7","ID":"2-377-10L"}}
 ---
 
 

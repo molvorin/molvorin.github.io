@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/georg-jensen-billiard/","dg-note-properties":{"brand":"Georg Jensen","Model":"Billiard","Stamp nr":null,"video":"34","condition":"7","preference":"7","popularity":"8","video_order":"6","Batch":"PR","ID":"34-778-6PR","aliases":["34-778-6PR"]}}
+{"dg-publish":true,"permalink":"/08-pipes/georg-jensen-billiard/","noteIcon":"","dg-note-properties":{"brand":"Georg Jensen","Model":"Billiard","Stamp nr":null,"video":"34","condition":"7","preference":"7","popularity":"8","video_order":"6","Batch":"PR","ID":"34-778-6PR","aliases":["34-778-6PR"]}}
 ---
 
 

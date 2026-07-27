@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/brillon-populaer/","dg-note-properties":{"brand":"Brillon","Model":"Populär","Stamp nr":null,"video":"31","condition":"6","preference":"4","popularity":"5","video_order":"4","Batch":"","ID":"31-645-4","aliases":["31-645-4"]}}
+{"dg-publish":true,"permalink":"/08-pipes/brillon-populaer/","noteIcon":"","dg-note-properties":{"brand":"Brillon","Model":"Populär","Stamp nr":null,"video":"31","condition":"6","preference":"4","popularity":"5","video_order":"4","Batch":"","ID":"31-645-4","aliases":["31-645-4"]}}
 ---
 
 

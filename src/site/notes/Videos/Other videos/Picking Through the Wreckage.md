@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/videos/other-videos/picking-through-the-wreckage/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/videos/other-videos/picking-through-the-wreckage/","noteIcon":"","dg-note-properties":{}}
 ---
 
 

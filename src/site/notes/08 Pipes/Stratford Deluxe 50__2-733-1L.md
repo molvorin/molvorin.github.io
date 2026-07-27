@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/stratford-deluxe-50-2-733-1-l/","dg-note-properties":{"aliases":["2-733-1L"],"brand":"Stratford","Model":"Deluxe 50","video":"2","video_order":"1","condition":"7","preference":"3","popularity":"3","Batch":"L","Stamp nr":"50","ID":"2-733-1L"}}
+{"dg-publish":true,"permalink":"/08-pipes/stratford-deluxe-50-2-733-1-l/","noteIcon":"","dg-note-properties":{"aliases":["2-733-1L"],"brand":"Stratford","Model":"Deluxe 50","video":"2","video_order":"1","condition":"7","preference":"3","popularity":"3","Batch":"L","Stamp nr":"50","ID":"2-733-1L"}}
 ---
 
 

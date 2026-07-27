@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/portland-bruyere-guarantee-57-19-674-1/","dg-note-properties":{"brand":"Portland","Model":57,"Stamp nr":57,"video":"19","condition":"6","preference":"7","popularity":"4","video_order":"1","Batch":"","ID":"19-674-1","aliases":["19-674-1"]}}
+{"dg-publish":true,"permalink":"/08-pipes/portland-bruyere-guarantee-57-19-674-1/","noteIcon":"","dg-note-properties":{"brand":"Portland","Model":57,"Stamp nr":57,"video":"19","condition":"6","preference":"7","popularity":"4","video_order":"1","Batch":"","ID":"19-674-1","aliases":["19-674-1"]}}
 ---
 
 

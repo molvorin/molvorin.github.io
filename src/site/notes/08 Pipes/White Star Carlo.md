@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/white-star-carlo/","dg-note-properties":{"brand":"White Star","Model":"Carlo","Stamp nr":null,"video":"33","condition":"8","preference":"8","popularity":"6","video_order":"2","Batch":"","ID":"33-886-2","aliases":["33-886-2"]}}
+{"dg-publish":true,"permalink":"/08-pipes/white-star-carlo/","noteIcon":"","dg-note-properties":{"brand":"White Star","Model":"Carlo","Stamp nr":null,"video":"33","condition":"8","preference":"8","popularity":"6","video_order":"2","Batch":"","ID":"33-886-2","aliases":["33-886-2"]}}
 ---
 
 

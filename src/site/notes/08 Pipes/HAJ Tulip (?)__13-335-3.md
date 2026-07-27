@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/haj-tulip-13-335-3/","dg-note-properties":{"brand":"HAJ","Model":"Tulip","Stamp nr":null,"video":"13","condition":"3","preference":"3","popularity":"5","video_order":"3","Batch":"L","ID":"13-335-3L","aliases":["13-335-3L"]}}
+{"dg-publish":true,"permalink":"/08-pipes/haj-tulip-13-335-3/","noteIcon":"","dg-note-properties":{"brand":"HAJ","Model":"Tulip","Stamp nr":null,"video":"13","condition":"3","preference":"3","popularity":"5","video_order":"3","Batch":"L","ID":"13-335-3L","aliases":["13-335-3L"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-danish-freeform-standing-17-777-1/","dg-note-properties":{"brand":null,"Model":"Danish Freeform Standing","Stamp nr":null,"video":"17","condition":"7","preference":"7","popularity":"7","video_order":"1","Batch":"","ID":"17-777-1","aliases":["17-777-1"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-danish-freeform-standing-17-777-1/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"Danish Freeform Standing","Stamp nr":null,"video":"17","condition":"7","preference":"7","popularity":"7","video_order":"1","Batch":"","ID":"17-777-1","aliases":["17-777-1"]}}
 ---
 
 

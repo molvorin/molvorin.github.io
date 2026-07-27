@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/savinelli-brupa-603-18-887-4/","dg-note-properties":{"brand":"Savinelli","Model":"Brupa","Stamp nr":603,"video":"18","condition":"8","preference":"8","popularity":"7","video_order":"4","Batch":"","ID":"18-887-4","aliases":["18-887-4"]}}
+{"dg-publish":true,"permalink":"/08-pipes/savinelli-brupa-603-18-887-4/","noteIcon":"","dg-note-properties":{"brand":"Savinelli","Model":"Brupa","Stamp nr":603,"video":"18","condition":"8","preference":"8","popularity":"7","video_order":"4","Batch":"","ID":"18-887-4","aliases":["18-887-4"]}}
 ---
 
 

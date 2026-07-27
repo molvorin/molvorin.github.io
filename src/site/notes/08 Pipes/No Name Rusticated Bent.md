@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-rusticated-bent/","dg-note-properties":{"brand":null,"Model":"Rusticated Bent","Stamp nr":null,"video":"36","condition":"6","preference":"4","popularity":"3","video_order":"5","Batch":"DK","ID":"36-643-5DK","aliases":["36-643-5DK"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-rusticated-bent/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"Rusticated Bent","Stamp nr":null,"video":"36","condition":"6","preference":"4","popularity":"3","video_order":"5","Batch":"DK","ID":"36-643-5DK","aliases":["36-643-5DK"]}}
 ---
 
 
 ## Description
+![Attachments and files/36-643-5DK.png\|500](/img/user/Backroom/Attachments%20and%20files/36-643-5DK.png)
 
 A no name rusticated bent pipe with no stampings and an attractive red colour. Very filthy on the outside but structurally decent underneath. There is something about it — a good candidate for sanding practice and potential refinishing. Nothing to lose and potentially something nice to gain.
 

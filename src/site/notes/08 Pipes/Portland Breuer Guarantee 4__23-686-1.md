@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/portland-breuer-guarantee-4-23-686-1/","dg-note-properties":{"brand":"Portland","Model":"Breuer Guarantee","Stamp nr":4,"video":"23","condition":"6","preference":"8","popularity":"6","video_order":"1","Batch":"","ID":"23-686-1","aliases":["23-686-1"]}}
+{"dg-publish":true,"permalink":"/08-pipes/portland-breuer-guarantee-4-23-686-1/","noteIcon":"","dg-note-properties":{"brand":"Portland","Model":"Breuer Guarantee","Stamp nr":4,"video":"23","condition":"6","preference":"8","popularity":"6","video_order":"1","Batch":"","ID":"23-686-1","aliases":["23-686-1"]}}
 ---
 
 

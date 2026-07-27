@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-27-rusticated-liner/","dg-note-properties":{"brand":"Mr.Brog","Model":27,"Stamp nr":27,"video":"32","condition":"5","preference":"7","popularity":"4","video_order":"4","Batch":"P","ID":"32-574-4P","aliases":["32-574-4P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-27-rusticated-liner/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":27,"Stamp nr":27,"video":"32","condition":"5","preference":"7","popularity":"4","video_order":"4","Batch":"P","ID":"32-574-4P","aliases":["32-574-4P"]}}
 ---
 
 

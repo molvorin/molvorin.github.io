@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-41/","dg-note-properties":{"brand":"Mr.Brog","Model":41,"Stamp nr":41,"video":"31","condition":"7","preference":"8","popularity":"6","video_order":"5","Batch":"P","ID":"31-786-5P","aliases":["31-786-5P"]}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-41/","noteIcon":"","dg-note-properties":{"brand":"Mr.Brog","Model":41,"Stamp nr":41,"video":"31","condition":"7","preference":"8","popularity":"6","video_order":"5","Batch":"P","ID":"31-786-5P","aliases":["31-786-5P"]}}
 ---
 
 

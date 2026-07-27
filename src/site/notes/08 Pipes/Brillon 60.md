@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/brillon-60/","dg-note-properties":{"brand":"Brillon","Model":60,"Stamp nr":60,"video":"31","condition":"7","preference":"3","popularity":"4","video_order":"3","Batch":"","ID":"31-734-3","aliases":["31-734-3"]}}
+{"dg-publish":true,"permalink":"/08-pipes/brillon-60/","noteIcon":"","dg-note-properties":{"brand":"Brillon","Model":60,"Stamp nr":60,"video":"31","condition":"7","preference":"3","popularity":"4","video_order":"3","Batch":"","ID":"31-734-3","aliases":["31-734-3"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/comoy-guildhall-15-666-4/","dg-note-properties":{"brand":"Comoy","Model":"Guildhall","Stamp nr":null,"video":"15","condition":"6","preference":"6","popularity":"6","video_order":"4","Batch":"","ID":"15-666-4","aliases":["15-666-4"]}}
+{"dg-publish":true,"permalink":"/08-pipes/comoy-guildhall-15-666-4/","noteIcon":"","dg-note-properties":{"brand":"Comoy","Model":"Guildhall","Stamp nr":null,"video":"15","condition":"6","preference":"6","popularity":"6","video_order":"4","Batch":"","ID":"15-666-4","aliases":["15-666-4"]}}
 ---
 
 

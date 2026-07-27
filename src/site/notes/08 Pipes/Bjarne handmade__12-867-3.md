@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/bjarne-handmade-12-867-3/","dg-note-properties":{"aliases":["12-867-3"],"brand":"Bjarne","Model":"Handmade","video":"12","video_order":"3","condition":"8","preference":"6","popularity":"7","ID":"12-867-3"}}
+{"dg-publish":true,"permalink":"/08-pipes/bjarne-handmade-12-867-3/","noteIcon":"","dg-note-properties":{"aliases":["12-867-3"],"brand":"Bjarne","Model":"Handmade","video":"12","video_order":"3","condition":"8","preference":"6","popularity":"7","ID":"12-867-3"}}
 ---
 
 

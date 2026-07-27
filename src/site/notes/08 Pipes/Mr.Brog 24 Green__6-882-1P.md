@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-24-green-6-882-1-p/","dg-note-properties":{"aliases":["6-882-1P"],"brand":"Mr.Brog","Model":24,"Stamp nr":"24","video":"6","video_order":"1","condition":"8","preference":"8","popularity":"2","Batch":"P","ID":"6-882-1P"}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-24-green-6-882-1-p/","noteIcon":"","dg-note-properties":{"aliases":["6-882-1P"],"brand":"Mr.Brog","Model":24,"Stamp nr":"24","video":"6","video_order":"1","condition":"8","preference":"8","popularity":"2","Batch":"P","ID":"6-882-1P"}}
 ---
 
 

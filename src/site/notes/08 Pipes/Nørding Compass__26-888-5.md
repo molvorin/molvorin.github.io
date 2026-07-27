@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/nording-compass-26-888-5/","dg-note-properties":{"brand":"Nørding","Model":"Compass","Stamp nr":null,"video":"26","condition":"8","preference":"8","popularity":"8","video_order":"5","Batch":"","ID":"26-888-5","aliases":["26-888-5"]}}
+{"dg-publish":true,"permalink":"/08-pipes/nording-compass-26-888-5/","noteIcon":"","dg-note-properties":{"brand":"Nørding","Model":"Compass","Stamp nr":null,"video":"26","condition":"8","preference":"8","popularity":"8","video_order":"5","Batch":"","ID":"26-888-5","aliases":["26-888-5"]}}
 ---
 
 

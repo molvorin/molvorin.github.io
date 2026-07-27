@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-prince-amlet/","dg-note-properties":{"brand":null,"Model":"Prince Amlet","Stamp nr":null,"video":"32","condition":"7","preference":"7","popularity":"5","video_order":"5","Batch":"","ID":"32-775-5","aliases":["32-775-5"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-prince-amlet/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"Prince Amlet","Stamp nr":null,"video":"32","condition":"7","preference":"7","popularity":"5","video_order":"5","Batch":"","ID":"32-775-5","aliases":["32-775-5"]}}
 ---
 
 

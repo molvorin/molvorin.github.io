@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/absorba-210/","dg-note-properties":{"brand":"Absorba","Model":210,"Stamp nr":210,"video":"30","condition":"9","preference":"9","popularity":"8","video_order":"3","Batch":"","ID":"30-998-3","aliases":["30-998-3"]}}
+{"dg-publish":true,"permalink":"/08-pipes/absorba-210/","noteIcon":"","dg-note-properties":{"brand":"Absorba","Model":210,"Stamp nr":210,"video":"30","condition":"9","preference":"9","popularity":"8","video_order":"3","Batch":"","ID":"30-998-3","aliases":["30-998-3"]}}
 ---
 
 

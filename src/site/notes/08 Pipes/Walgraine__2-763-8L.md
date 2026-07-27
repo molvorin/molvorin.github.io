@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/walgraine-2-763-8-l/","dg-note-properties":{"aliases":["2-763-8L"],"condition":"7","preference":"6","popularity":"3","Batch":"L","brand":"Walgraine","video":"2","video_order":"8","ID":"2-763-8L"}}
+{"dg-publish":true,"permalink":"/08-pipes/walgraine-2-763-8-l/","noteIcon":"","dg-note-properties":{"aliases":["2-763-8L"],"condition":"7","preference":"6","popularity":"3","Batch":"L","brand":"Walgraine","video":"2","video_order":"8","ID":"2-763-8L"}}
 ---
 
 

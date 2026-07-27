@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/don-old-briar-18-445-1/","dg-note-properties":{"brand":"Don","Model":"Old Briar","Stamp nr":null,"video":"18","condition":"4","preference":"4","popularity":"5","video_order":"1","Batch":"","ID":"18-445-1","aliases":["18-445-1"]}}
+{"dg-publish":true,"permalink":"/08-pipes/don-old-briar-18-445-1/","noteIcon":"","dg-note-properties":{"brand":"Don","Model":"Old Briar","Stamp nr":null,"video":"18","condition":"4","preference":"4","popularity":"5","video_order":"1","Batch":"","ID":"18-445-1","aliases":["18-445-1"]}}
 ---
 
 

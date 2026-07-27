@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/jeantet-jubile-69-13/","dg-note-properties":{"brand":"Jeantet","Model":"Jubile","Stamp nr":"69-13","video":"34","condition":"9","preference":"7","popularity":"7","video_order":"1","Batch":"PR","ID":"34-977-1PR","aliases":["34-977-1PR"]}}
+{"dg-publish":true,"permalink":"/08-pipes/jeantet-jubile-69-13/","noteIcon":"","dg-note-properties":{"brand":"Jeantet","Model":"Jubile","Stamp nr":"69-13","video":"34","condition":"9","preference":"7","popularity":"7","video_order":"1","Batch":"PR","ID":"34-977-1PR","aliases":["34-977-1PR"]}}
 ---
 
 

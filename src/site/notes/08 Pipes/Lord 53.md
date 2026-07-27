@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/lord-53/","dg-note-properties":{"brand":"Lord","Model":53,"Stamp nr":53,"video":"30","condition":"9","preference":"8","popularity":"6","video_order":"2","Batch":"","ID":"30-986-2","aliases":["30-986-2"]}}
+{"dg-publish":true,"permalink":"/08-pipes/lord-53/","noteIcon":"","dg-note-properties":{"brand":"Lord","Model":53,"Stamp nr":53,"video":"30","condition":"9","preference":"8","popularity":"6","video_order":"2","Batch":"","ID":"30-986-2","aliases":["30-986-2"]}}
 ---
 
 

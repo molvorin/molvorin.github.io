@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/no-name-sport-deluxe/","dg-note-properties":{"brand":null,"Model":"Sport Deluxe","Stamp nr":null,"video":"33","condition":"4","preference":"6","popularity":"6","video_order":"5","Batch":"","ID":"33-466-5","aliases":["33-466-5"]}}
+{"dg-publish":true,"permalink":"/08-pipes/no-name-sport-deluxe/","noteIcon":"","dg-note-properties":{"brand":null,"Model":"Sport Deluxe","Stamp nr":null,"video":"33","condition":"4","preference":"6","popularity":"6","video_order":"5","Batch":"","ID":"33-466-5","aliases":["33-466-5"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/savinelli-padova-173-18-887-5/","dg-note-properties":{"brand":"Savinelli","Model":"Padova","Stamp nr":173,"video":"18","condition":"8","preference":"8","popularity":"7","video_order":"5","Batch":"","ID":"18-887-5","aliases":["18-887-5"]}}
+{"dg-publish":true,"permalink":"/08-pipes/savinelli-padova-173-18-887-5/","noteIcon":"","dg-note-properties":{"brand":"Savinelli","Model":"Padova","Stamp nr":173,"video":"18","condition":"8","preference":"8","popularity":"7","video_order":"5","Batch":"","ID":"18-887-5","aliases":["18-887-5"]}}
 ---
 
 

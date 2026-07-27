@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/08-pipes/mr-brog-31-11-784-3-p/","dg-note-properties":{"aliases":["11-784-3P"],"brand":"Mr.Brog","Model":31,"Stamp nr":"31","video":"11","condition":"7","preference":"8","popularity":"4","video_order":"3","Batch":"P","ID":"11-784-3P"}}
+{"dg-publish":true,"permalink":"/08-pipes/mr-brog-31-11-784-3-p/","noteIcon":"","dg-note-properties":{"aliases":["11-784-3P"],"brand":"Mr.Brog","Model":31,"Stamp nr":"31","video":"11","condition":"7","preference":"8","popularity":"4","video_order":"3","Batch":"P","ID":"11-784-3P"}}
 ---
 
 
